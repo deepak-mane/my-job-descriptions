@@ -16,33 +16,35 @@ As part of the AV Maps Team, you will be interacting on a daily basis with other
  1. Design and develop efficient, scalable algorithms and pipelines to quickly process large-scale sensor data from an autonomous fleet
 
 ### Requirements
-BS degree in Computer Science or related field, MS or PhD is a plus
-1+ years working experience in Linux C++ software development
-Good organization and communication skills and team player
-Experience with Java, Python, Protobuf language programming is a plus
-Experience with point cloud data or other self-driving car sensor data is a plus
-GIS or map development experience is a plus
+ 1. BS degree in Computer Science or related field, MS or PhD is a plus
+ 1. 1+ years working experience in Linux C++ software development
+ 1. Good organization and communication skills and team player
+ 1. Experience with Java, Python, Protobuf language programming is a plus
+ 1. Experience with point cloud data or other self-driving car sensor data is a plus
+ 1. GIS or map development experience is a plus
 
 ### Responsibilities:
-Design, implement and optimize routing algorithms
-Experience in large-scale maps and routing is a strong plus
-Hands on experience in 3D computer vision, point clouds, etc.
-Machine Learning, Deep Neural Networks; applying ML and CNN/DNN techniques to handle different tasks related to mapping.
-Familiarity with maps, loop closure, map datums, and projections.
-C, C++, Python experience
+ 1. Design, implement and optimize routing algorithms
+ 1. Experience in large-scale maps and routing is a strong plus
+ 1. Hands on experience in 3D computer vision, point clouds, etc.
+ 1. Machine Learning, Deep Neural Networks; applying ML and CNN/DNN techniques to handle different tasks related to mapping.
+ 1. Familiarity with maps, loop closure, map datums, and projections.
+ 1. C, C++, Python experience
 
 ### Experience & Skills
-Ability to produce production-quality C++
-Advanced working knowledge of C++11 and STL
-Ability to deal with complex algorithms and data structures
-Ability to write testable, modular code for safety-critical systems
-Bachelor's degree or higher in Computer Science, Electrical Engineering, or related field
-Ability to work in a fast-paced environment and collaborate across teams and disciplines
-Openness to new/different ideas. Ability to evaluate multiple approaches and choose the best one based on first principle
+ 1. Ability to produce production-quality C++
+ 1. Advanced working knowledge of C++11 and STL
+ 1. Ability to deal with complex algorithms and data structures
+ 1. Ability to write testable, modular code for safety-critical systems
+ 1. Bachelor's degree or higher in Computer Science, Electrical Engineering, or related field
+ 1. Ability to work in a fast-paced environment and collaborate across teams and disciplines
+ 1. Openness to new/different ideas. Ability to evaluate multiple approaches and choose the best one based on first principle
 
 ### Nice To Have
-5+ years developing production quality C++
-Experience with multi-threading and concurrency in complex software
-Experience with GPU programming in CUDA or OpenCL
-Deep knowledge of Linux operating system
-Advanced understanding of debugging, profiling, and monitoring complex C++ software
+ 1. 5+ years developing production quality C++
+ 1. Experience with multi-threading and concurrency in complex software
+ 1. Experience with GPU programming in CUDA or OpenCL
+ 1. Deep knowledge of Linux operating system
+ 1. Advanced understanding of debugging, profiling, and monitoring complex C++ software
+
+### END
