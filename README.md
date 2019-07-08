@@ -1,3 +1,3 @@
 # my-job-descriptions
 
-1. [Software Engineer, Autonomous Mapping](./Software%20Engineer - Autonomous%20Mapping.md)
+1. [Software Engineer, Autonomous Mapping](Software Engineer - Autonomous Mapping.md)
