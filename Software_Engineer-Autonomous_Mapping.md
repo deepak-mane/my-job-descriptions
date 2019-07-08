@@ -5,15 +5,15 @@ Level 5 is looking for doers and creative problem solvers to join us in developi
 As part of the AV Maps Team, you will be interacting on a daily basis with other software engineers to tackle advanced AI challenges. Eventually we expect all Autonomy Team members to work on a variety of problems across the autonomy space, however, with a generalist focus, your work will initially involve contributing across the different problems and sub teams to ensure extremely high-quality, high-performance code is used in all of our mission critical AI systems. For this position, we are looking for a software engineer with a strong interest in developing the next generation of autonomous vehicles and a deep knowledge of C++ and computational thinking, but without a specific background in AI or Machine Learning.
 
 ### Responsibilities
-Work with artificial intelligence and machine learning engineers to develop core algorithms that will power Lyft's self-driving cars
-Raise the bar across Level 5 on code quality, design, and architecture
-Implement high-performance, mission-critical code that will run on the car and in the cloud
-Lead designs of major software components, systems, and features across multiple teams
-Design, develop, test, deploy, maintain and improve software.
-Manage individual projects priorities, deadlines and deliverables with your technical expertise.
-Mentor and train other team members on design techniques, and coding standards
-Work with AV sensor data to build HD maps for self-driving vehicles
-Design and develop efficient, scalable algorithms and pipelines to quickly process large-scale sensor data from an autonomous fleet
+ 1. Work with artificial intelligence and machine learning engineers to develop core algorithms that will power Lyft's self-driving cars
+ 1. Raise the bar across Level 5 on code quality, design, and architecture
+ 1. Implement high-performance, mission-critical code that will run on the car and in the cloud
+ 1. Lead designs of major software components, systems, and features across multiple teams
+ 1. Design, develop, test, deploy, maintain and improve software.
+ 1. Manage individual projects priorities, deadlines and deliverables with your technical expertise.
+ 1. Mentor and train other team members on design techniques, and coding standards
+ 1. Work with AV sensor data to build HD maps for self-driving vehicles
+ 1. Design and develop efficient, scalable algorithms and pipelines to quickly process large-scale sensor data from an autonomous fleet
 
 ### Requirements
 BS degree in Computer Science or related field, MS or PhD is a plus
