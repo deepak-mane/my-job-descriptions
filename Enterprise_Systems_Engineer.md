@@ -48,6 +48,7 @@ Enterprise Engineering is looking for Systems Engineers. Our customers are Faceb
   - [Beginner PHP & MySQL](https://www.udemy.com/course-dashboard-redirect/?course_id=9711)
   - [PHP Fundamentals](https://www.udemy.com/learn-php-fundamentals-from-scratch/) 
   - [Dev in PHP](https://www.udemy.com/web-apps-with-php-and-atk/)
+  - [HandGuide 2 PHP](https://www.udemy.com/course-dashboard-redirect/?course_id=130064)
 - [Ruby Beginnners](https://www.udemy.com/ruby-for-absolute-beginners/) [Code with Ruby](https://www.udemy.com/learn-to-code-with-ruby-lang/)
 - [Puppet](https://www.udemy.com/draft/1317502/) [Puppet-DevOps](https://www.udemy.com/learn-puppet/)
 - [Chef](https://www.udemy.com/chef-fundamentals-a-recipe-for-automating-infrastructure/)
