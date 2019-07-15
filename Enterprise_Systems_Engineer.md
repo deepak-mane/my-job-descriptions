@@ -25,7 +25,9 @@ Enterprise Engineering is looking for Systems Engineers. Our customers are Faceb
    1. PHP, 
    1. Ruby, 
    1. Python
-1. 2+ years experience working with monitoring and configuration management tools such as Puppet and Chef
+1. 2+ years experience working with monitoring and configuration management tools such as 
+   - Puppet <b>and</b> 
+   - Chef
 1. Experience in configuration and maintenance of applications such as 
    1. Apache, 
    1. Oracle, 
