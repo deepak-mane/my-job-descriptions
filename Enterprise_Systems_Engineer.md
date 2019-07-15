@@ -45,7 +45,7 @@ Enterprise Engineering is looking for Systems Engineers. Our customers are Faceb
 ### Learning Material
 - [Python](https://www.udemy.com/learn-python-by-building-a-blockchain-cryptocurrency/)
 - PHP
-  - [Beginner PHP & MySQL] (https://www.udemy.com/course-dashboard-redirect/?course_id=9711)
+  - [Beginner PHP & MySQL](https://www.udemy.com/course-dashboard-redirect/?course_id=9711)
   - [PHP Fundamentals](https://www.udemy.com/learn-php-fundamentals-from-scratch/) 
   - [Dev in PHP](https://www.udemy.com/web-apps-with-php-and-atk/)
 - [Ruby Beginnners](https://www.udemy.com/ruby-for-absolute-beginners/) [Code with Ruby](https://www.udemy.com/learn-to-code-with-ruby-lang/)
