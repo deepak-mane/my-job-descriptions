@@ -40,3 +40,20 @@ Enterprise Engineering is looking for Systems Engineers. Our customers are Faceb
    1. SSH, 
    1. DNS, and 
    1. SNMP
+
+
+### Learning Material
+- [Python](https://www.udemy.com/learn-python-by-building-a-blockchain-cryptocurrency/)
+- PHP
+  - [PHP Fundamentals](https://www.udemy.com/learn-php-fundamentals-from-scratch/) 
+  - [Dev in PHP](https://www.udemy.com/web-apps-with-php-and-atk/)
+- (Ruby Beginnners)[https://www.udemy.com/ruby-for-absolute-beginners/] (Code with Ruby)[https://www.udemy.com/learn-to-code-with-ruby-lang/]
+- [Puppet](https://www.udemy.com/draft/1317502/) [Puppet-DevOps](https://www.udemy.com/learn-puppet/)
+- [Chef](https://www.udemy.com/chef-fundamentals-a-recipe-for-automating-infrastructure/)
+- [Apache] (https://www.udemy.com/apache-web-server-administration/)
+- [Squid] (https://www.udemy.com/squid-proxy-server/)
+- Linux Perparation
+  - [Kali] (https://www.udemy.com/kali-linux-tutorial-for-beginners/)
+  - [Linux Security] (https://www.udemy.com/linux-security-the-complete-iptables-firewall-guide/)
+  - [RHEL - Overview] (https://www.udemy.com/red-hat-enterprise-linux-technical-overview/learn/)
+  - [RHEL - Deploying Containerized Appln Tech Overview] (https://www.udemy.com/course-dashboard-redirect/?course_id=946342)
