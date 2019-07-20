@@ -18,21 +18,19 @@
   
   ### The experience you'll bring.& Qualifications - Minimum Required
 1. 5- 7 + Years’ experience as a software architect
-Experience with languages: C#, JavaScript, Angular, Node.js, TypeScript and Python
-Experience with relational and/or NoSQL databases such as SQL Server and MongoDB
-Experience defining REST APIs and service-based architectures
-Articulate and ensure enforcement of code quality including static code analysis, testing, etc.
-Focus: Able to communicate goals in support of the business' mission.
-Drive: Self-motivated and able to work well under pressure.
-Teamwork: Ability and desire to work cooperatively with others on a team. Develop, maintain, and strengthen partnerships that can provide information, assistance, and support.
-Communication: The ability to ensure that information is passed on to others who should be kept informed. Express self clearly in conversations and interactions with others. Clear business and technical writing skills.
-Customer Focus: The ability to demonstrate concern and meet external and/or internal customers’ needs.
-Analytical: The ability to tackle a problem by using a logical, systematic, sequential approach.
-Technical Expertise: The ability to demonstrate depth of knowledge and skill in a technical area.
-Forward Thinking: The ability to anticipate the implications and consequences of situations and take appropriate action to be prepared for possible contingencies.
-Influencing Others: The ability to gain others' support for ideas, proposals, projects, and solutions.
-
-
+1. Experience with languages: C#, JavaScript, Angular, Node.js, TypeScript and Python
+1. Experience with relational and/or NoSQL databases such as SQL Server and MongoDB
+1. Experience defining REST APIs and service-based architectures
+1. Articulate and ensure enforcement of code quality including static code analysis, testing, etc.
+1. Focus: Able to communicate goals in support of the business' mission.
+1. Drive: Self-motivated and able to work well under pressure.
+1. Teamwork: Ability and desire to work cooperatively with others on a team. Develop, maintain, and strengthen partnerships that can provide information, assistance, and support.
+1. Communication: The ability to ensure that information is passed on to others who should be kept informed. Express self clearly in conversations and interactions with others. Clear business and technical writing skills.
+1. Customer Focus: The ability to demonstrate concern and meet external and/or internal customers’ needs.
+1. Analytical: The ability to tackle a problem by using a logical, systematic, sequential approach.
+1. Technical Expertise: The ability to demonstrate depth of knowledge and skill in a technical area.
+1. Forward Thinking: The ability to anticipate the implications and consequences of situations and take appropriate action to be prepared for possible contingencies.
+1. Influencing Others: The ability to gain others' support for ideas, proposals, projects, and solutions.
 
 ### Education
 Minimum Required Bachelor’s Degree. Computer Science or Engineering
