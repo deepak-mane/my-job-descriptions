@@ -1,7 +1,8 @@
 # Software Engineer C++ AWS
 
 We will be in Portland, OR for a hiring event on the week of 7/29 -8/2
-
+- [phone-interview](https://www.amazon.jobs/en/landing_pages/phone-interview)
+- [software-development-topics](https://www.amazon.jobs/en/landing_pages/p-software-development-topics)
 We hope you can join us!
 
  
