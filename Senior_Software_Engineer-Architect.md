@@ -2,19 +2,41 @@
 
 ### What you'll do in your role.
 - Essential Functions
-  - Technical System Expertise: Understands Agile Methodology, system protocols, how systems operate and data flows. Participate in, code reviews. Aware of current technology benefits. Understands the building blocks, interactions, dependencies, and tools required to complete software and automation work. Independent study of current technology is expected. Interact with system engineers to define system requirement and/or necessary requirements for automation. Build reusable code and libraries for future use
+  - Technical System Expertise: 
+    - Understands Agile Methodology, system protocols, how systems operate and data flows. 
+    - Participate in, code reviews. 
+    - Aware of current technology benefits. 
+    - Understands the building blocks, interactions, dependencies, and tools required to complete software and automation work.
+    - Independent study of current technology is expected. 
+    - Interact with system engineers to define system requirement and/or necessary requirements for automation. 
+    - Build reusable code and libraries for future use
 
   - Technical Engineering Services:
-    - Determines functional and non-functional requirements.Defines the appropriate technology as well as coding and other development standards.Stays engaged with development team to ensure applications are implemented per design and in a manner that ensures the maintainability, security, reliability, etc of those applications.
+    - Determines functional and non-functional requirements.
+    - Defines the appropriate technology as well as coding and other development standards.
+    - Stays engaged with development team to ensure applications are implemented per design and in a manner that ensures the maintainability, security, reliability, etc of those applications.
     - Determines technical standards including platforms and coding standards.
 
-  - Innovation: Contributes to designs to implement new ideas which improve an existing or create a new system/process/service. Understands and can apply new industry perspectives to our existing business model. Review existing designs and processes to highlight more efficient ways to complete existing workload more effectively through industry perspectives. Understands the creation of company IPR.
+  - Innovation: 
+    - Contributes to designs to implement new ideas which improve an existing or create a new system/process/service. 
+    - Understands and can apply new industry perspectives to our existing business model. 
+    - Review existing designs and processes to highlight more efficient ways to complete existing workload more effectively through industry perspectives. 
+    - Understands the creation of company IPR.
 
-  - Technical Writing: Maintains knowledge of existing technology documents. Documents systems designs, presentations, for consumption and consideration at the manager level. Understands the protection of company IPR. Ensure code and API's are well-crafted and well-documented
+  - Technical Writing: 
+    - Maintains knowledge of existing technology documents. 
+    - Documents systems designs, presentations, for consumption and consideration at the manager level. 
+    - Understands the protection of company IPR. 
+    - Ensure code and API's are well-crafted and well-documented
 
-  - Technical Leadership: Collaborates with technical teams and utilizes system expertise to deliver technical solutions. Continuously learns and teaches junior developers existing and new technologies. Contributes to the development of others through mentoring or in-house workshops and learning sessions.
+  - Technical Leadership: 
+    - Collaborates with technical teams and utilizes system expertise to deliver technical solutions. 
+    - Continuously learns and teaches junior developers existing and new technologies. 
+    - Contributes to the development of others through mentoring or in-house workshops and learning sessions.
 
-  - Technology Strategy: Contributes to new and existing technology options that support business goals. Maintains a flexible and proactive work environment to facilitate a quick response to changing project requirements and customer objectives, and innovates ways to meet mission goals successfully
+  - Technology Strategy: 
+    - Contributes to new and existing technology options that support business goals. 
+    - Maintains a flexible and proactive work environment to facilitate a quick response to changing project requirements and customer objectives, and innovates ways to meet mission goals successfully
   
   ### The experience you'll bring.& Qualifications - Minimum Required
 1. 5- 7 + Years’ experience as a software architect
