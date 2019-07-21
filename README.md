@@ -22,5 +22,5 @@
 | JS | 3 | | 4 | 
 | Angular | 1 | | 2 |
 | Full Stack | 1 | | 2 |
-| System Administration | 4 | | 5 |
+| System Administration | 4 | Experience in configuration and maintenance of applications Apache,Oracle,Squid,MySQL,NFS,DHCP,SSH,DNS,SNMP| 5 |
 
