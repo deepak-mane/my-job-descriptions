@@ -23,3 +23,31 @@
 | Angular | 1 | | 2 |
 | Full Stack | 1 | | 2 |
 | System Administration | 4 | | 5 |
+
+
+
+```html
+<div class="bar-chart stacked pad">
+    <ul class="plot-container group-by-number">
+        <li>
+            <div data-cp-size="100">100%</div>
+        </li>
+        <li>
+            <div data-cp-size="30">30%</div>
+            <div data-cp-size="30" data-group="5">30%</div>
+        </li>
+        <li>
+            <div data-cp-size="20">20%</div>
+            <div data-cp-size="50" data-group="5">50%</div>
+        </li>
+        <li>
+            <div data-cp-size="70">70%</div>
+            <div data-cp-size="20" data-group="5">20%</div>
+        </li>
+        <li>
+            <div data-cp-size="90">90%</div>
+            <div data-cp-size="10" data-group="5">10%</div>
+        </li>
+    </ul>
+</div>
+```
