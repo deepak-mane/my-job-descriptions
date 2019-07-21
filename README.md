@@ -30,3 +30,6 @@
 | FB | DevOps| 2 |puppet/Chef/docker/Jenkins/terraform| 3 |
 | FB | System Administration | 4 |Apache,Oracle,Squid,MySQL,NFS,DHCP,SSH,DNS,SNMP| 5 |
 
+|  Type    |  Description    |
+| --- | --- |
+| A scripting language | is a programming language designed for integrating and communicating with other programming languages. There are many scripting languages some of them are discussed below: bash: It is a scripting language to work in the Linux interface.|
