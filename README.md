@@ -9,14 +9,14 @@
 
 
 ## My Skills Graph
+- Level of Proficiency (1-5) 
+  1. Beginner
+  2. Basic
+  3. Intermediate
+  4. Advacned
+  5. Expert
 
-1. Beginner
-2. Basic
-3. Intermediate
-4. Advacned
-5. Expert
-
-|Needed By| Skill | Level of Proficiency (1-5) | Details |TARGET |
+|Needed By| Skill | Level | Details |TARGET |
 | --- | --- | --- | --- | --- |
 | GOOGL |C++ | 2 | |3 |
 | FB | PHP | | |
