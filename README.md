@@ -16,17 +16,17 @@
 4. Advacned
 5. Expert
 
-| Skill | Level of Proficiency (1-5) | Details |Targeted by 07312019 |
-| --- | --- | --- | --- |
-| C++ | 2 | |3 |
-| PHP | | |
-| Ruby | | |
-| Python | | |
-| JS | 3 | | 4 | 
-| NodeJS| 1 | | 2 |
-| Angular | 1 | | 2 |
-| MongoDB | 1 | | 2 |
-| Full Stack | 1 | | 2 |
-| configuration management tools (puppet/Chef)| | |
-| System Administration | 4 | <li>Experience in configuration and maintenance of applications Apache,Oracle,Squid,MySQL,NFS,DHCP,SSH,DNS,SNMP</li><li>Shell scripting</li>| 5 |
+|Needed By| Skill | Level of Proficiency (1-5) | Details |Targeted by 07312019 |
+| --- | --- | --- | --- | --- |
+| Goo |C++ | 2 | |3 |
+| FB | PHP | | |
+| FB | Ruby | | |
+| Goo | Python | | |
+| FB | JS | 3 | | 4 | 
+| FB | NodeJS| 1 | | 2 |
+| Goo | Angular | 1 | | 2 |
+| All | MongoDB | 1 | | 2 |
+| AZN | Full Stack | 1 | | 2 |
+| FB | configuration management tools (puppet/Chef)| | |
+| FB | System Administration | 4 | <li>Experience in configuration and maintenance of applications Apache,Oracle,Squid,MySQL,NFS,DHCP,SSH,DNS,SNMP</li><li>Shell scripting</li>| 5 |
 
