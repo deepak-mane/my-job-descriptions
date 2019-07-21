@@ -27,6 +27,6 @@
 | GOOGL | Angular | 1 | | 2 |
 | AMZN | MongoDB | 1 | | 2 |
 | AMZN | Full Stack | 1 | | 2 |
-| FB | DevOps| <li>Config & Maint - puppet/Chef/docker/Jenkins/terraform</li>| |
+| FB | DevOps| 2 |<li>Config & Maint - puppet/Chef/docker/Jenkins/terraform</li>| 3 |
 | FB | System Administration | 4 | <li>Config & Maint - Apache,Oracle,Squid,MySQL,NFS,DHCP,SSH,DNS,SNMP</li><li>Shell scripting</li>| 5 |
 
