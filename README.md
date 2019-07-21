@@ -51,3 +51,6 @@
     </ul>
 </div>
 ```
+<div align="center">
+  <img src="docs/images/cssplot_stacked_bar_chart.png"/>
+</div>
