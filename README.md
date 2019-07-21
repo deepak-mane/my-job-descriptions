@@ -27,6 +27,6 @@
 | FB | Ruby | | |
 | FB | JS | 3 | | 4 | 
 | FB | NodeJS| 1 | | 2 |
-| FB | DevOps| 2 |<li>Config & Maint - puppet/Chef/docker/Jenkins/terraform</li>| 3 |
-| FB | System Administration | 4 |<li>Config & Maint - Apache,Oracle,Squid,MySQL,NFS,DHCP,SSH,DNS,SNMP</li>| 5 |
+| FB | DevOps| 2 |puppet/Chef/docker/Jenkins/terraform| 3 |
+| FB | System Administration | 4 |Apache,Oracle,Squid,MySQL,NFS,DHCP,SSH,DNS,SNMP| 5 |
 
