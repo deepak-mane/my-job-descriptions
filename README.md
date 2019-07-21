@@ -20,7 +20,9 @@
 | --- | --- | --- | --- |
 | C++ | 2 | |3 |
 | JS | 3 | | 4 | 
+| NodeJS| 1 | | 2 |
 | Angular | 1 | | 2 |
+| MongoDB | 1 | | 2 |
 | Full Stack | 1 | | 2 |
 | System Administration | 4 | Experience in configuration and maintenance of applications Apache,Oracle,Squid,MySQL,NFS,DHCP,SSH,DNS,SNMP| 5 |
 
