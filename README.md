@@ -19,14 +19,14 @@
 |Needed By| Skill | Level | Details |TARGET |
 | --- | --- | --- | --- | --- |
 | GOOGL |C++ | 2 | |3 |
-| FB | PHP | | |
-| FB | Ruby | | |
 | GOOGL | Python | | |
-| FB | JS | 3 | | 4 | 
-| FB | NodeJS| 1 | | 2 |
 | GOOGL | Angular | 1 | | 2 |
 | AMZN | MongoDB | 1 | | 2 |
 | AMZN | Full Stack | 1 | | 2 |
+| FB | PHP | | |
+| FB | Ruby | | |
+| FB | JS | 3 | | 4 | 
+| FB | NodeJS| 1 | | 2 |
 | FB | DevOps| 2 |<li>Config & Maint - puppet/Chef/docker/Jenkins/terraform</li>| 3 |
 | FB | System Administration | 4 |<li>Config & Maint - Apache,Oracle,Squid,MySQL,NFS,DHCP,SSH,DNS,SNMP</li>| 5 |
 
