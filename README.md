@@ -18,15 +18,15 @@
 
 |Needed By| Skill | Level of Proficiency (1-5) | Details |Targeted by 07312019 |
 | --- | --- | --- | --- | --- |
-| Goo |C++ | 2 | |3 |
+| GOOGL |C++ | 2 | |3 |
 | FB | PHP | | |
 | FB | Ruby | | |
-| Goo | Python | | |
+| GOOGL | Python | | |
 | FB | JS | 3 | | 4 | 
 | FB | NodeJS| 1 | | 2 |
-| Goo | Angular | 1 | | 2 |
-| All | MongoDB | 1 | | 2 |
-| AZN | Full Stack | 1 | | 2 |
+| GOOGL | Angular | 1 | | 2 |
+| AMZN | MongoDB | 1 | | 2 |
+| AMZN | Full Stack | 1 | | 2 |
 | FB | configuration management tools (puppet/Chef)| | |
 | FB | System Administration | 4 | <li>Experience in configuration and maintenance of applications Apache,Oracle,Squid,MySQL,NFS,DHCP,SSH,DNS,SNMP</li><li>Shell scripting</li>| 5 |
 
