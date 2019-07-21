@@ -17,7 +17,7 @@
 5. Expert
 
 | Skill | Level of Proficiency (1-5) | Details |Targeted by 07312019 |
-| --- | --- | --- | 
+| --- | --- | --- | --- |
 | C++ | 2 | |3 |
 | JS | 3 | | 4 | 
 | Angular | 1 | | 2 |
