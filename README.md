@@ -76,5 +76,5 @@
  1. Experience with stress testing plus performance tuning and optimization
  1. Experience working within the games industries
  
- #-
+ # -
 
