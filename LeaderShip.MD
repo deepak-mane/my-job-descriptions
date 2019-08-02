@@ -49,7 +49,7 @@ You have to read The Goal by Eli Goldratt to truly appreciate how important this
 
 ### 3. Make Work Visible
 Ensure all of the work we are doing is visible to everybody in the team and people outside of the team who need to know.
-   - Example
+  - Example
     - Bad: Receiving an email from another team to add new features and doing the work immediately without telling anybody.
     - Good: Receiving an email from another team to add new features and telling your team you are going to work on it next, and then putting a card on the work board.
   - Benefits
@@ -102,8 +102,7 @@ By having this as an explicit principle, and providing a clear example of going 
 You have to regularly review this principle and encourage people to leave work on time. And you yourself have to leave work on time and not respond to emails in the evening or when on holiday.
 
 ### Communicating and Honouring Your Principles
-
-    - It’s also essential for the team to add and iterate on their own principles. 
-    - As a lead, you can set the initial principles for the type of culture you would like in the team, but if teams are going to be autonomous they eventually need to define their own way of working and their own additional principles.
-    - Finally, you have to truly believe in your principles and honour them. You have to think about every action you take each day and ensure it aligns with the principles. If it doesn’t, nobody else in the team will value them either.
-    - I recommend reflecting on your team’s values in 1:1s, at-least once a quarter. I also think they are good retrospective format, by asking your team to rate themselves how well they think they are doing on each of the values.
+  - It’s also essential for the team to add and iterate on their own principles. 
+  - As a lead, you can set the initial principles for the type of culture you would like in the team, but if teams are going to be autonomous they eventually need to define their own way of working and their own additional principles.
+  - Finally, you have to truly believe in your principles and honour them. You have to think about every action you take each day and ensure it aligns with the principles. If it doesn’t, nobody else in the team will value them either.
+  - I recommend reflecting on your team’s values in 1:1s, at-least once a quarter. I also think they are good retrospective format, by asking your team to rate themselves how well they think they are doing on each of the values.
