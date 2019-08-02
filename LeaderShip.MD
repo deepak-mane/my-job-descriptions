@@ -10,7 +10,7 @@ The structure of the remainder of this document is how I typically present the p
 1. <b>Lead by Intent
    </b><p>
 Don’t always ask for permission from your colleagues or your boss. Instead, tell them what you are going to do and allow them to give feedback if they disagree.
-  - Example
+   - Example
 Bad: “What should I do next, boss?”.
 Good: “I believe the new Marketplace API is our top priority, so we will pair up on the API design today”.
   - Benefits
@@ -50,8 +50,9 @@ By limiting the amount of work in progress it also forces teams to fix the cause
 You have to read The Goal by Eli Goldratt to truly appreciate how important this principle is, and then you’ll see the world in a completely different way.
 
 1. <b>Make Work Visible
+      </b><p>
 Ensure all of the work we are doing is visible to everybody in the team and people outside of the team who need to know.
-  - Example
+   - Example
 Bad: Receiving an email from another team to add new features and doing the work immediately without telling anybody.
 Good: Receiving an email from another team to add new features and telling your team you are going to work on it next, and then putting a card on the work board.
   - Benefits
