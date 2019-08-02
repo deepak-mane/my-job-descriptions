@@ -1,5 +1,8 @@
 # Autonomy Software - Systems Engineer
 - [Mountain View, California, United States](https://waymo.com/joinus/1291820/)
+Waymo is the self-driving technology company with a mission to make it safe and easy for people and things to move around. Building on software and sensor technology developed at Google, Waymo is now launching the world’s first fully self-driving transportation service that will take members of the public from A to B at the touch of a button.
+
+Waymo's Systems Engineering team works together to blend software and hardware systems in groundbreaking new ways. We set the high performance standards that ensure our vehicles run smoothly and keep passengers safe, then design and perform the tests that validate that performance. We're looking for talented teammates who’ll help us maintain strong teamwork and are passionate about driving results.
 
 ### Role :
 1. Find patterns in operations and testing issues that span software modules, prioritize them, and work with the development teams to develop cross-team solutions that have high impact by generalizing well
