@@ -44,7 +44,7 @@ Operations research supports systems engineering. The tools of operations resear
   1. <b>Performance engineering
            </b><p>
 Performance engineering is the discipline of ensuring a system meets customer expectations for performance throughout its life. Performance is usually defined as the speed with which a certain operation is executed, or the capability of executing a number of such operations in a unit of time. Performance may be degraded when operations queued to execute is throttled by limited system capacity. For example, the performance of a packet-switched network is characterized by the end-to-end packet transit delay, or the number of packets switched in an hour. The design of high-performance systems uses analytical or simulation modeling, whereas the delivery of high-performance implementation involves thorough performance testing. Performance engineering relies heavily on statistics, queueing theory and probability theory for its tools and processes.
-  1. <b>Program management and project management
+  1. <b>Program management & project management
            </b><p>
 Program management (or programme management) has many similarities with systems engineering, but has broader-based origins than the engineering ones of systems engineering. Project management is also closely related to both program management and systems engineering.
   1. <b>Proposal engineering
