@@ -7,12 +7,11 @@ Building a culture of autonomy is not easy. It’s not a case of just saying “
 Here are 5 principles which I believe are essential for autonomous software development teams, and how you can use them to guide the behaviour of teams to increase autonomy. These aren’t the only principles, but they are 5 that are crucially important in my experience.
 The structure of the remainder of this document is how I typically present the principles document internally to the team except for the ‘discussion’ sub-heading, which is used in this article to explain each principle in more detail.
 
- ### 1. <b>Lead by Intent
-   </b><p>
+### 1. Lead by Intent
 Don’t always ask for permission from your colleagues or your boss. Instead, tell them what you are going to do and allow them to give feedback if they disagree.
-   - Example
-Bad: “What should I do next, boss?”.
-Good: “I believe the new Marketplace API is our top priority, so we will pair up on the API design today”.
+  - Example
+    - Bad: “What should I do next, boss?”.
+    - Good: “I believe the new Marketplace API is our top priority, so we will pair up on the API design today”.
   - Benefits
     - enables everyone to make decisions
     - prepares everyone to become future leaders
@@ -29,12 +28,11 @@ This principle is especially relevant to software teams who are used to taking o
 As a leader, you can refer to this team principle and ask your direct reports what they intend to do until it becomes their modus operandi.
 Eventually your teams will grow into leaders who rely on you very little. If you relish on feeling important and making key decisions and you cherish job security, this principle might not be for you.
 
- 1. <b>Stop Starting, Start Finishing
-   </b><p>
+### 2. Stop Starting, Start Finishing
 We should focus on completing existing work before starting new work. The more work we have in a started-but-not-finished state (aka WIP — Work in Process) the more time we spend context switching and the less time delivering value. We get bombarded with notifications, pull requests and so on about all the WIP and it starts to burn us out.
 To focus on finishing we must understand what the most important work is and be comfortable saying no or not yet to lower priorities.
   - Example
-When we are blocked on a piece of work, instead of starting a new piece of work escalate the blockage and try to solve the underlying cause — how can we unblock the work, and what can we do to prevent this type of blocker in future?
+    - When we are blocked on a piece of work, instead of starting a new piece of work escalate the blockage and try to solve the underlying cause — how can we unblock the work, and what can we do to prevent this type of blocker in future?
   - Benefits
     - we deliver more value
     - we are not burnt out
@@ -49,12 +47,11 @@ The typical organisation has so much work in progress that a high volume of engi
 By limiting the amount of work in progress it also forces teams to fix the cause of work being blocked which results in more predictable and more efficient delivery of work.
 You have to read The Goal by Eli Goldratt to truly appreciate how important this principle is, and then you’ll see the world in a completely different way.
 
- 1. <b>Make Work Visible
-      </b><p>
+### 3. Make Work Visible
 Ensure all of the work we are doing is visible to everybody in the team and people outside of the team who need to know.
    - Example
-Bad: Receiving an email from another team to add new features and doing the work immediately without telling anybody.
-Good: Receiving an email from another team to add new features and telling your team you are going to work on it next, and then putting a card on the work board.
+    - Bad: Receiving an email from another team to add new features and doing the work immediately without telling anybody.
+    - Good: Receiving an email from another team to add new features and telling your team you are going to work on it next, and then putting a card on the work board.
   - Benefits
     - everybody in the team can see all of the work in progress
     - no important work gets missed because everyone thinks somebody else is working on it
@@ -66,12 +63,11 @@ For teams to be autonomous there needs to be a safety net that the most importan
 By making the team’s work visible, it’s clear to everyone what is being worked on and what is not. It’s then clear to everybody if something high value is not prioritised accordingly and they can self-organise to resolve the issue.
 It may seem dogmatic, but make sure every piece of work goes on the board. When teams get sloppy and don’t keep their board up to date, people quickly lose alignment with priorities and important work slips through the gaps.
 
- 1. <b>Share Architectural Responsibility
-   </b><p>
+### 4. Share Architectural Responsibility
 No one person in the team dictates the architecture. Architect is a shared role and responsibility where everybody can and should contribute ideas and artefacts.
   - Example
-Bad: “We need to wait for the boss to return to architect the solution”
-Good: “Let’s whiteboard new architectural solutions and share them with the rest of the team, including the boss, for feedback”.
+    - Bad: “We need to wait for the boss to return to architect the solution”
+    - Good: “Let’s whiteboard new architectural solutions and share them with the rest of the team, including the boss, for feedback”.
   - Benefits
     - combining everybody’s expertise results in the best architecture
     - no single-point-of-failure in the team
@@ -84,12 +80,11 @@ Simon Brown’s Software Architecture for Developers and his C4 Model of Archite
 Software architecture is an essential activity. Having a single person who creates and owns the software architecture is a bottleneck, a single point of failure, and a missed opportunity to create a better architecture by leveraging the whole team’s knowledge and insights.
 In autonomous teams, good architectural decisions will still be made and communicated if any member of the team is away. By frequently referring to this core team principle day-to-day, in retrospectives, and in 1:1s, you can ensure everybody has a chance to grow their architecture skills and contribute to the architecture.
 
- 1. <b>Maintain Sustainable Pace
-   </b><p>
+### 5. Maintain Sustainable Pace
 We should work in a way where people’s mental health is not compromised due to the nature or quantity of their work.
   - Example
-Bad: “I have so much work to do, I’m going to work over the weekend to catchup.”
-Good: “I have so much work to do. I’ll let the team know I’m overloaded but then I’m going home to my family because I go home on time every day.”
+    - Bad: “I have so much work to do, I’m going to work over the weekend to catchup.”
+    - Good: “I have so much work to do. I’ll let the team know I’m overloaded but then I’m going home to my family because I go home on time every day.”
   - Benefits
     - we all have the energy and enthusiasm to produce our best work
     - we don’t create hard to maintain code because we are tired
@@ -108,7 +103,7 @@ You have to regularly review this principle and encourage people to leave work o
 
 ### Communicating and Honouring Your Principles
 
-It’s also essential for the team to add and iterate on their own principles. 
-As a lead, you can set the initial principles for the type of culture you would like in the team, but if teams are going to be autonomous they eventually need to define their own way of working and their own additional principles.
-Finally, you have to truly believe in your principles and honour them. You have to think about every action you take each day and ensure it aligns with the principles. If it doesn’t, nobody else in the team will value them either.
-I recommend reflecting on your team’s values in 1:1s, at-least once a quarter. I also think they are good retrospective format, by asking your team to rate themselves how well they think they are doing on each of the values.
+    - It’s also essential for the team to add and iterate on their own principles. 
+    - As a lead, you can set the initial principles for the type of culture you would like in the team, but if teams are going to be autonomous they eventually need to define their own way of working and their own additional principles.
+    - Finally, you have to truly believe in your principles and honour them. You have to think about every action you take each day and ensure it aligns with the principles. If it doesn’t, nobody else in the team will value them either.
+    - I recommend reflecting on your team’s values in 1:1s, at-least once a quarter. I also think they are good retrospective format, by asking your team to rate themselves how well they think they are doing on each of the values.
