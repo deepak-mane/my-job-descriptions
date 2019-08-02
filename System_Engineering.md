@@ -40,6 +40,7 @@ Interface design and its specification are concerned with assuring that the piec
          </b><p>
 Mechatronic engineering, like systems engineering, is a multidisciplinary field of engineering that uses dynamical systems modeling to express tangible constructs. In that regard it is almost indistinguishable from Systems Engineering, but what sets it apart is the focus on smaller details rather than larger generalizations and relationships. As such, both fields are distinguished by the scope of their projects rather than the methodology of their practice.
   1. <b>Operations research
+                   </b><p>
 Operations research supports systems engineering. The tools of operations research are used in systems analysis, decision making, and trade studies. Several schools teach SE courses within the operations research or industrial engineering department,[citation needed] highlighting the role systems engineering plays in complex projects. Operations research, briefly, is concerned with the optimization of a process under multiple constraints.
   1. <b>Performance engineering
            </b><p>
