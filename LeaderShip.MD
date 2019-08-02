@@ -7,7 +7,7 @@ Building a culture of autonomy is not easy. It’s not a case of just saying “
 Here are 5 principles which I believe are essential for autonomous software development teams, and how you can use them to guide the behaviour of teams to increase autonomy. These aren’t the only principles, but they are 5 that are crucially important in my experience.
 The structure of the remainder of this document is how I typically present the principles document internally to the team except for the ‘discussion’ sub-heading, which is used in this article to explain each principle in more detail.
 
- 1. <b>Lead by Intent
+ ### 1. <b>Lead by Intent
    </b><p>
 Don’t always ask for permission from your colleagues or your boss. Instead, tell them what you are going to do and allow them to give feedback if they disagree.
    - Example
