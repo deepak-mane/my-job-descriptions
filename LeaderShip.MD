@@ -7,7 +7,7 @@ Building a culture of autonomy is not easy. It’s not a case of just saying “
 Here are 5 principles which I believe are essential for autonomous software development teams, and how you can use them to guide the behaviour of teams to increase autonomy. These aren’t the only principles, but they are 5 that are crucially important in my experience.
 The structure of the remainder of this document is how I typically present the principles document internally to the team except for the ‘discussion’ sub-heading, which is used in this article to explain each principle in more detail.
 
-1. <b>Lead by Intent
+ 1. <b>Lead by Intent
    </b><p>
 Don’t always ask for permission from your colleagues or your boss. Instead, tell them what you are going to do and allow them to give feedback if they disagree.
    - Example
@@ -29,7 +29,7 @@ This principle is especially relevant to software teams who are used to taking o
 As a leader, you can refer to this team principle and ask your direct reports what they intend to do until it becomes their modus operandi.
 Eventually your teams will grow into leaders who rely on you very little. If you relish on feeling important and making key decisions and you cherish job security, this principle might not be for you.
 
-1. <b>Stop Starting, Start Finishing
+ 1. <b>Stop Starting, Start Finishing
    </b><p>
 We should focus on completing existing work before starting new work. The more work we have in a started-but-not-finished state (aka WIP — Work in Process) the more time we spend context switching and the less time delivering value. We get bombarded with notifications, pull requests and so on about all the WIP and it starts to burn us out.
 To focus on finishing we must understand what the most important work is and be comfortable saying no or not yet to lower priorities.
@@ -49,7 +49,7 @@ The typical organisation has so much work in progress that a high volume of engi
 By limiting the amount of work in progress it also forces teams to fix the cause of work being blocked which results in more predictable and more efficient delivery of work.
 You have to read The Goal by Eli Goldratt to truly appreciate how important this principle is, and then you’ll see the world in a completely different way.
 
-1. <b>Make Work Visible
+ 1. <b>Make Work Visible
       </b><p>
 Ensure all of the work we are doing is visible to everybody in the team and people outside of the team who need to know.
    - Example
@@ -66,7 +66,7 @@ For teams to be autonomous there needs to be a safety net that the most importan
 By making the team’s work visible, it’s clear to everyone what is being worked on and what is not. It’s then clear to everybody if something high value is not prioritised accordingly and they can self-organise to resolve the issue.
 It may seem dogmatic, but make sure every piece of work goes on the board. When teams get sloppy and don’t keep their board up to date, people quickly lose alignment with priorities and important work slips through the gaps.
 
-1. <b>Share Architectural Responsibility
+ 1. <b>Share Architectural Responsibility
    </b><p>
 No one person in the team dictates the architecture. Architect is a shared role and responsibility where everybody can and should contribute ideas and artefacts.
   - Example
@@ -84,7 +84,7 @@ Simon Brown’s Software Architecture for Developers and his C4 Model of Archite
 Software architecture is an essential activity. Having a single person who creates and owns the software architecture is a bottleneck, a single point of failure, and a missed opportunity to create a better architecture by leveraging the whole team’s knowledge and insights.
 In autonomous teams, good architectural decisions will still be made and communicated if any member of the team is away. By frequently referring to this core team principle day-to-day, in retrospectives, and in 1:1s, you can ensure everybody has a chance to grow their architecture skills and contribute to the architecture.
 
-1. <b>Maintain Sustainable Pace
+ 1. <b>Maintain Sustainable Pace
    </b><p>
 We should work in a way where people’s mental health is not compromised due to the nature or quantity of their work.
   - Example
