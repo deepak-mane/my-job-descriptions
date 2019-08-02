@@ -1,5 +1,5 @@
 # Autonomy Software - Systems Engineer
-- (Mountain View, California, United States)[https://waymo.com/joinus/1291820/]
+- [Mountain View, California, United States](https://waymo.com/joinus/1291820/)
 
 ### Role :
 1. Find patterns in operations and testing issues that span software modules, prioritize them, and work with the development teams to develop cross-team solutions that have high impact by generalizing well
