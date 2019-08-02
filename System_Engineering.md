@@ -21,8 +21,11 @@ The systems engineering process encompasses all creative, manual and technical a
 ### Related fields and sub-fields
 Many related fields may be considered tightly coupled to systems engineering. The following areas have contributed to the development of systems engineering as a distinct entity:
 
- 1. Cognitive systems engineering
+ 1. <b>Cognitive systems engineering
+ </b><p>
 Cognitive systems engineering (CSE) is a specific approach to the description and analysis of human-machine systems or sociotechnical systems. The three main themes of CSE are how humans cope with complexity, how work is accomplished by the use of artifacts, and how human-machine systems and socio-technical systems can be described as joint cognitive systems. CSE has since its beginning become a recognized scientific discipline, sometimes also referred to as cognitive engineering. The concept of a Joint Cognitive System (JCS) has in particular become widely used as a way of understanding how complex socio-technical systems can be described with varying degrees of resolution. The more than 20 years of experience with CSE has been described extensively.
+  1. <b>Cognitive systems engineering
+ </b><p>
  1. Configuration management
 Like systems engineering, configuration management as practiced in the defense and aerospace industry is a broad systems-level practice. The field parallels the taskings of systems engineering; where systems engineering deals with requirements development, allocation to development items and verification, configuration management deals with requirements capture, traceability to the development item, and audit of development item to ensure that it has achieved the desired functionality that systems engineering and/or Test and Verification Engineering have proven out through objective testing.
 Control engineering
