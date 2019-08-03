@@ -5,15 +5,15 @@ A guide for students coming from the SDCND and looking to pursue a career in the
 
 The Self-Driving Car nanodegree is great but it can’t teach you everything. So where is it lacking? Unlike Udacity, I can’t just call up SDC companies to ask them, so I have to look at what they’re hiring for. I’ve spent a good bit of time sorting through SDC job listing for jobs that strongly relate to the nanodegree. And I’ve tallied up all the times these job listings mentioned a skill. So I now have a list of what self driving car companies look for in candidates, ranked by how many companies listed the skill in the job description.
 So what do companies say they want to see in new hires? Here’s the top 20.
-
+![alt text](./images/Post_SDCND_1.png)
 Recognize the style of slide from anywhere? :-)
 Hopefully you’ll recognize almost all of the things listed, and that’s a good sign. But you probably don’t know all of them. I’ll be focusing on the skills we aren’t taught in the nanodegree in this article. A quick not though, I think you should really pay attention here to C++, ROS, AI/Deep Learning, and Math. These skills were required significantly more then skills further down the list, and as such, seem to be more important.
 I should note here as well, that learning a little bit of everything might not be in your best interests. You might want to pick one or two skills and really try to dive deep on those topics. For example, a computer vision job might only require you know computer vision, and math. If you want to focus on getting that job, it would be better to spend all your time improving those skills rather than taking a broader approach to your education.
 Now, lets look at the skills you are already somewhat familiar with.
-
+![alt text](./images/Post_SDCND_2.png)
 I’ve highlighted here the skills that they teach in the Nanodegree, and I’ve include Python, C++ and Linux because while the nanodegree only touches on them, they are necessary to complete the course.
 From here you can start picking skills you’d like to learn. You can choose by what is asked for the most, or what you’re interested in, or maybe even what’s offered by Udacity?
-
+![alt text](./images/Post_SDCND_3.png)
 Turns out these are pretty easy to make in google slides.
 <b>Udacity Links:</b>
 Embedded systems: [Embedded Systems](https://www.udacity.com/course/embedded-systems--ud169)
