@@ -8,6 +8,7 @@
  1. [Enterprise Systems Engineer](Enterprise_Systems_Engineer.md)
  1. [Software Engineer, C++ AWS](Software_Engineer_C++.md)
  1. [Sr. Engineer, Software (Architect)](Senior_Software_Engineer-Architect.md)
+ 1. [Software Engineer, C++, Qt, QML](Software_Engineer_C++QtQML.md)
 
 
 ## My Skills Graph
