@@ -6,7 +6,7 @@ The Software Engineer, C++, Qt, QML will be responsible for designing, developin
 
 ### Tasks & Responsibilities
 
-1. API design for enabling user applications
+1.] API design for enabling user applications
 1. Build user interfaces using QtWidgets/QtQuick API for use by the internal teams
 1. Work with users and management to formulate plans of attack
 1. Work with UX team closely for quick turnarounds on UI implementation
