@@ -1,17 +1,21 @@
 # my-job-descriptions
- 1. [Autonomy Software, Systems Engineer](Autonomy_Software-Systems_Engineer.md)
- 1. [Software Engineer, Autonomous Mapping](Software_Engineer-Autonomous_Mapping.md)
- 1. [Software Engineer - Mapping ](Software_Engineer_Mapping.md)
- 1. [Software Engineer, Positioning, Localization, & Inertial Navigation](Software_Engineer-Positioning-Localization-Inertial-Navigation.md)
- 1. [Autonomous Navigation Software Engineer](Autonomous_Navigation_Software_Engineer.md)
- 1. [Full stack Software Enginner](Software_Engineer-Full_Stack.md)
- 1. [IT Manager - ServiceNow](ITManager_ServiceNow.md)
- 1. [Enterprise Systems Engineer](Enterprise_Systems_Engineer.md)
- 1. [Sr. Engineer, Software (Architect)](Senior_Software_Engineer-Architect.md)
- 1. [Senior_Software_Engineer_Distributed-Systems](Senior_Software_Engineer_Distributed-Systems.md)
- 1. [Software Engineer, C++, Qt, QML](Software_Engineer_C++QtQML.md)
- 1. [Software Engineer, C++ AWS](Software_Engineer_C++.md)
- 1. [System Engineer - C/C++ development experience](System_Engineer.md)
+- Autonomous
+  1. [Autonomy Software, Systems Engineer](Autonomy_Software-Systems_Engineer.md)
+  1. [Software Engineer, Autonomous Mapping](Software_Engineer-Autonomous_Mapping.md)
+  1. [Software Engineer - Mapping ](Software_Engineer_Mapping.md)
+  1. [Software Engineer, Positioning, Localization, & Inertial Navigation](Software_Engineer-Positioning-Localization-Inertial-Navigation.md)
+  1. [Autonomous Navigation Software Engineer](Autonomous_Navigation_Software_Engineer.md)
+- Full Stack
+  1. [Full stack Software Enginner](Software_Engineer-Full_Stack.md)
+  1. [IT Manager - ServiceNow](ITManager_ServiceNow.md)
+ 
+- Architect
+  1. [Enterprise Systems Engineer](Enterprise_Systems_Engineer.md)
+  1. [Sr. Engineer, Software (Architect)](Senior_Software_Engineer-Architect.md)
+  1. [Senior_Software_Engineer_Distributed-Systems](Senior_Software_Engineer_Distributed-Systems.md)
+  1. [Software Engineer, C++, Qt, QML](Software_Engineer_C++QtQML.md)
+  1. [Software Engineer, C++ AWS](Software_Engineer_C++.md)
+  1. [System Engineer - C/C++ development experience](System_Engineer.md)
 
 ## My Skills Graph
 - Level of Proficiency (1-5) 
