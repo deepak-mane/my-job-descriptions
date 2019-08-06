@@ -20,7 +20,7 @@ The successful candidate will deliver working code on embedded targets using C/C
 
 ### Key Criteria for the Role
 1. Bachelor’s Degree or Equivalent Experience
-1. Min 3+ years’ experience required
+1. <b>Min 3+ years’ </b>experience required
 1. Problem solver
 1. Proactive
 1. Self-sufficient (self-taught). Someone who "learns by doing"
@@ -36,3 +36,32 @@ The successful candidate will deliver working code on embedded targets using C/C
 
 Reasonable accommodations may be made to enable individuals with disabilities to perform the essential job functions.
 
+# Senior System Engineer
+
+### Main Responsibilities
+
+1. Create C/C++ code running within a Linux stack or elsewhere including documenting and testing code that meets the architecture requirements
+1. Debug existing C/C++ code, find root causes and resolve software issues
+1. Fix existing software, and successfully upstream and merge the patches
+1. Integrate developed code into automation infrastructure and process to include testing
+1. Document code and activities for long term maintainability
+1. Rapidly develop concepts and be able to actively work within development communities
+1. Perform other duties as required
+
+### Key Criteria for the Role
+1. Bachelor’s Degree or Equivalent Experience
+1. <b>Min 5+ years’ </b>experience required
+1. Problem solver
+1. Proactive
+1. Self-sufficient (self-taught). Someone who "learns by doing"
+1. Vendor management experience with cross-time zone teams a plus
+1. Professional level C/C++ development experience is required
+1. Professional Linux based development skills required
+1. Professional level build automation & CI/CD (“DevOps”) experience required
+1. Software versioning and automation experience beneficial • Qt or other HMI tools beneficial
+1. Working with Open Source Communities
+1. Working within team and with outside suppliers/vendors
+1. Professional Agile/Scrum experience
+1. Proactive Learner regarding new technologies and trends
+
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential job functions.
