@@ -1,9 +1,9 @@
 # Top 10 Alogrithms/Methods
 Understanding the Fundamental Techniques or Algorithms that are common
 to most questions then you can tackle any question
-[Reference Youtube Vedio Part1](https://www.youtube.com/watch?v=r1MXwyiGi_U)
-[Reference Youtube Vedio Part2](https://www.youtube.com/watch?v=zHczhZn-z30&t=31s)
-[Practice Algorithms](https://www.algoexpert.io/questions/)
+- [Reference Youtube Vedio Part1](https://www.youtube.com/watch?v=r1MXwyiGi_U)
+- [Reference Youtube Vedio Part2](https://www.youtube.com/watch?v=zHczhZn-z30&t=31s)
+- [Practice Algorithms](https://www.algoexpert.io/questions/)
 
  1. ] <b>Depth First Search -</b> Graph/Tree Reversal
      - E.g Viewsherarkis, Constructing Binary Search to look through string
