@@ -19,11 +19,13 @@
 - Don't Jump into buying House.
 
 ## Tip No: 5
-- Job Doesn't necessarily need to be something that defines you now here and forever.You can be
-- Step towards your next goal.Something to fillup your broader experience
+- Job Doesn't necessarily need to be something that defines you now here and forever.
+- It can be Step towards your next goal.
+- Something to fillup your broader experience
 - Having some extra variety in your Life
 
 ## Tip No: 6
-- To Manage your expectations and To never kill yourself over a project thinking that 
-- you're going to get something out of this.
+- To Manage your expectations and To never kill yourself over a project thinking that you're going to get something out of this.
 - That you're gonna get promoted.
+- That you're gonna get raise
+- Do it anyways and tell yourself that your going to improve the User Experience
