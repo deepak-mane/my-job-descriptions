@@ -13,7 +13,7 @@
 
 ## Tip No: 3
 - Watch your commute
-- It can cause expressuions
+- It can cause depresions
 
 ## Tip No: 4
 - Don't Jump into buying House.
