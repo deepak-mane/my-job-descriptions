@@ -113,8 +113,8 @@ Pathfinding Visualizer project: https://clementmihailescu.github.io/P...
 Sorting Visualizer project: https://clementmihailescu.github.io/S...
 Oak Programming Language: https://repl.it/@cmihai/Oak-Programmi...
 ```
-
-
+4. [Working at Facebook vs Google as a software engineer (pros & cons)](https://www.youtube.com/watch?v=_aXbD6ysQG0)
+5. [Why he left Facebook](https://www.youtube.com/watch?v=I_CyYZ__nPI)
 
  # -
 
