@@ -90,7 +90,8 @@
  
 ### Resume Preparation: 
 1. [Use LaTex](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
-   - [](https://github.com/deedy/Deedy-Resume)
+   - https://github.com/deedy/Deedy-Resume
+   - https://en.wikipedia.org/wiki/Donald_Knuth
 2. [The Resume That Got Me Into Google (software engineer resume tips)](https://www.youtube.com/watch?v=aKjsy-b00QM)
 ```
 In this video, I do a deep dive into the software engineering resume that I used when I applied and 
