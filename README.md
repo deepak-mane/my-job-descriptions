@@ -90,5 +90,21 @@
  
 ### Resume Preparation: 
 1. [Use LaTex](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
+2. [The Resume That Got Me Into Google (software engineer resume tips)](https://www.youtube.com/watch?v=aKjsy-b00QM)
+```
+In this video, I do a deep dive into the software engineering resume that I used when I applied and 
+was accepted to Google. I also share some tips on what differentiates a good software engineer resume
+from a bad software developer resume.
+
+Here's the video on how I landed my coding interviews at Google: https://youtu.be/GyYsnK434DM
+Here's the video on my Software Engineering projects: https://youtu.be/n4t_-NjY_Sg
+
+Resume Template GitHub (overview): https://github.com/deedy/Deedy-Resume
+Resume Template Overleaf (actual template): https://www.overleaf.com/latex/templa...
+```
+
+
+
+
  # -
 
