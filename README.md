@@ -90,6 +90,7 @@
  
 ### Resume Preparation: 
 1. [Use LaTex](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
+   - [](https://github.com/deedy/Deedy-Resume)
 2. [The Resume That Got Me Into Google (software engineer resume tips)](https://www.youtube.com/watch?v=aKjsy-b00QM)
 ```
 In this video, I do a deep dive into the software engineering resume that I used when I applied and 
@@ -102,7 +103,16 @@ Here's the video on my Software Engineering projects: https://youtu.be/n4t_-NjY_
 Resume Template GitHub (overview): https://github.com/deedy/Deedy-Resume
 Resume Template Overleaf (actual template): https://www.overleaf.com/latex/templa...
 ```
+3. [The Projects That Got Me Into Google (tips for software engineering projects)](https://www.youtube.com/watch?v=n4t_-NjY_Sg)
+```
+In this video, I do a deep dive into the coding projects that I had on my resume when I applied and
+was accepted to Google. I also share some tips on what differentiates good programming projects 
+from bad software engineering projects.
 
+Pathfinding Visualizer project: https://clementmihailescu.github.io/P...
+Sorting Visualizer project: https://clementmihailescu.github.io/S...
+Oak Programming Language: https://repl.it/@cmihai/Oak-Programmi...
+```
 
 
 
