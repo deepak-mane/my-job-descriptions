@@ -87,5 +87,8 @@
  1. Experience with stress testing plus performance tuning and optimization
  1. Experience working within the games industries
  
+ 
+### Resume Preparation: 
+1. [Use LaTex](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
  # -
 
