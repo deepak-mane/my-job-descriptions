@@ -8,7 +8,6 @@
 
 - Full Stack
   1. [Full stack Software Enginner](Software_Engineer-Full_Stack.md)
-  1. [IT Manager - ServiceNow](ITManager_ServiceNow.md)
  
 - Architect.Distributed-Systems
   1. [Enterprise Systems Engineer](Enterprise_Systems_Engineer.md)
