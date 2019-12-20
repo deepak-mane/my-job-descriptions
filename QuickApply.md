@@ -23,9 +23,18 @@
 |[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html)||||
 |||||
 
-||||||
-| --- | --- | --- | --- | --- | --- | --- | --- | 
-Top: Qualcomm|Palantir|IBM|Intel|Cisco|Microsoft|Apple|Google|Tesla|SpaceX|
+| 5 |4|
+| --- | --- | 
+||Palantir|
+||IBM|
+||Intel|
+||Cisco|
+||Microsoft|
+||Apple|
+||Google|
+||Tesla|
+||SpaceX|
+
 Top: Facebook|Dropbox|Amazon|Twitter|Snapchat|Riot Games|Cloudera|
 Middle: Uber|Yelp|AirBnB|LinkedIn|Salesforce|Box|Spotify|
 Middle: Pinterest|Lyft|Square|Slack|Quora|Asana|Instacart|Postmates|Stripe|
