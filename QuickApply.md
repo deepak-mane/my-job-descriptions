@@ -1,7 +1,7 @@
 # Quick Apply on Career Portals 
 | -1- | -2- | -3- | -4- | -5- |
 | --- | --- | --- | --- | --- | 
-|Yahoo|Pinterest|[Uber](https://www.uber.com/us/en/careers/)|[facebook](https://www.facebook.com/careers/)|Palantir|
+|[Ampere](https://amperecomputing.com/apply/)|Pinterest|[Uber](https://www.uber.com/us/en/careers/)|[facebook](https://www.facebook.com/careers/)|Palantir|
 |[Aptiv](https://www.aptiv.com/careers)|[Lyft](https://www.lyft.com/careers)|Yelp|Dropbox|[IBM](https://careers.ibm.com/)|
 |[Groupon](https://www.grouponcareers.com/ListJobs/Additional%20Locations/Seattle-WA)|Square|AirBnB|[Amazon](https://www.amazon.jobs/en)|[Intel](https://jobs.intel.com/)|
 |[DiDi](https://boards.greenhouse.io/didi)|[Roblox](https://corp.roblox.com/careers/)|[LinkedIn](https://careers.linkedin.com/)|Twitter|[Cisco](https://jobs.cisco.com/)|
