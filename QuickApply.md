@@ -9,16 +9,24 @@
 |[Uber](https://www.uber.com/us/en/careers/)|||[Boston Dynamics](https://www.bostondynamics.com/careers)|
 |[Slack](https://slack.com/careers)|||[Lyft](https://www.lyft.com/careers)|
 |||||
-|[Roblox](https://corp.roblox.com/careers/)||||
-|[Electronics Arts](https://www.ea.com/careers)||||
+|[Roblox](https://corp.roblox.com/careers/)|||[Netflix](https://jobs.netflix.com/)|
+|[Electronics Arts](https://www.ea.com/careers)|||[Apple](https://www.apple.com/jobs/us/)|
 |[Boeing](https://jobs.boeing.com/)||||
 |[DiDi](https://boards.greenhouse.io/didi)||||
 |[PlayStation](https://www.playstation.com/en-us/corporate/about/careers/)||||
 |[Nordstrom](https://careers.nordstrom.com/)||||
 |[Salesforce](https://www.salesforce.com/company/careers/)||||
-|[Netflix](https://jobs.netflix.com/)||||
+|||||
 |[LinkedIn](https://careers.linkedin.com/)||||
 |[Johnson&Johnson](http://www.jnj.ch/en/careers.html)||||
 |[Tableau](https://www.tableau.com/about/careers)||||
 |[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html)||||
 |||||
+
+||||||
+| --- | --- | --- | --- | --- | --- | --- | --- | 
+Top: Qualcomm|Palantir|IBM|Intel|Cisco|Microsoft|Apple|Google|Tesla|SpaceX|
+Top: Facebook|Dropbox|Amazon|Twitter|Snapchat|Riot Games|Cloudera|
+Middle: Uber|Yelp|AirBnB|LinkedIn|Salesforce|Box|Spotify|
+Middle: Pinterest|Lyft|Square|Slack|Quora|Asana|Instacart|Postmates|Stripe|
+Middle: Yahoo|Etsy|Groupon|||||
