@@ -6,7 +6,7 @@
 |[Groupon](https://www.grouponcareers.com/ListJobs/Additional%20Locations/Seattle-WA)|Square|AirBnB|[Amazon](https://www.amazon.jobs/en)|[Intel](https://jobs.intel.com/)|
 |[DiDi](https://boards.greenhouse.io/didi)|[Roblox](https://corp.roblox.com/careers/)|[LinkedIn](https://careers.linkedin.com/)|Twitter|[Cisco](https://jobs.cisco.com/)|
 |[PlayStation](https://www.playstation.com/en-us/corporate/about/careers/)|[Quora](https://www.quora.com/careers)|[Salesforce](https://www.salesforce.com/company/careers/)|[Snapchat](https://www.snap.com/en-US/jobs)|[Microsoft](https://careers.microsoft.com/us/en/)|
-|[Nordstrom](https://careers.nordstrom.com/)|Box|Riot Games|[Apple](https://www.apple.com/jobs/us/)|
+|[Nordstrom](https://careers.nordstrom.com/)|Box|Riot Games|[Apple](https://www.apple.com/jobs/us/)|[wayfair](https://www.wayfair.com/careers)|
 |[Johnson&Johnson](http://www.jnj.ch/en/careers.html)|Asana|Cloudera|[Google](https://careers.google.com/jobs/)|
 |[Tableau](https://www.tableau.com/about/careers)|Instacart|Spotify|[Boeing](https://jobs.boeing.com/)|Tesla|
 |[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html)|Postmates|Stripe|[Electronics Arts](https://www.ea.com/careers)|SpaceX|
