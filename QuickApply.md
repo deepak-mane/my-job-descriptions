@@ -1,8 +1,9 @@
 # Quick Apply on Career Portals 
 
 
-| --- | --- | --- | --- | 
+
 |[Cruise](https://www.getcruise.com/careers/)||||
+| --- | --- | --- | --- | 
 |[Lyft](https://www.lyft.com/careers)||||
 |[Intel](https://jobs.intel.com/)||||
 |[Uber](https://www.uber.com/us/en/careers/)||||
