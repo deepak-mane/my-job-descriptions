@@ -11,4 +11,3 @@
 |[Tableau](https://www.tableau.com/about/careers)|Instacart|Spotify|[Boeing](https://jobs.boeing.com/)|Tesla|
 |[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html)|Postmates|Stripe|[Electronics Arts](https://www.ea.com/careers)|SpaceX|
 |[Cruise](https://www.getcruise.com/careers/)|[Netflix](https://jobs.netflix.com/)|[Slack](https://slack.com/careers)|[Boston Dynamics](https://www.bostondynamics.com/careers)|[Qualcomm](https://jobs.qualcomm.com/public/search.xhtml)|
-
