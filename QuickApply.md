@@ -23,19 +23,15 @@
 |[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html)||||
 |||||
 
-| 5 |4|
-| --- | --- | 
-||Palantir|
-||IBM|
-||Intel|
-||Cisco|
-||Microsoft|
-||Apple|
-||Google|
-||Tesla|
-||SpaceX|
+| -1- | -2- | -3- | -4- | -5- |
+| --- | --- | --- | --- | --- | 
+|Yahoo|Pinterest|Uber|Facebook|Palantir|
+|Etsy|Lyft|Yelp|Dropbox|IBM|
+|Groupon|Square|AirBnB|Amazon|Intel|
+||Slack|LinkedIn|Twitter|Cisco|
+||Quora|Salesforce|Snapchat|Microsoft|
+||Box|Riot Games|Apple|
+||Asana|Cloudera|Google|
+||Instacart|Spotify||Tesla|
+||Postmates|Stripe||SpaceX|
 
-Top: Facebook|Dropbox|Amazon|Twitter|Snapchat|Riot Games|Cloudera|
-Middle: Uber|Yelp|AirBnB|LinkedIn|Salesforce|Box|Spotify|
-Middle: Pinterest|Lyft|Square|Slack|Quora|Asana|Instacart|Postmates|Stripe|
-Middle: Yahoo|Etsy|Groupon|||||
