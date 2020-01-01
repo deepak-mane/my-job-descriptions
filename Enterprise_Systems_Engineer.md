@@ -60,3 +60,13 @@ Enterprise Engineering is looking for Systems Engineers. Our customers are Faceb
   - [Linux Security](https://www.udemy.com/linux-security-the-complete-iptables-firewall-guide/)
   - [RHEL - Overview](https://www.udemy.com/red-hat-enterprise-linux-technical-overview/learn/)
   - [RHEL - Deploying Containerized Appln Tech Overview](https://www.udemy.com/course-dashboard-redirect/?course_id=946342)
+
+- LinuxAdvPrgConcepts
+  + [Linux System Programming Techniques & Concepts - Abhishek Sagar](https://www.udemy.com/course/advance-programming-concepts/)
+- TCP/IP
+  + [Master Class : TCP/IP Mechanics from Scratch to Expert - Abhishek Sagar](https://www.udemy.com/course/tcpmasterclass/)
+- IPC
+  + [Linux Inter Process Communication (IPC) from Scratch - Abhishek Sagar](https://www.udemy.com/course/linuxipc/)
+  + [Network Concepts and Programming from Scratch - Abhishek Sagar](https://www.udemy.com/course/network-programming-from-scratch/)
+- RPC
+  + [Build Remote Procedure Calls (RPC) - from scratch in C - Abhishek Sagar](https://www.udemy.com/course/linuxrpc/)
