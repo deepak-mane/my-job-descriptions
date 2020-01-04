@@ -34,6 +34,7 @@ Android, iOS, or mobile web (ie., choose some web framework).  Then be able to e
 tradeoffs, and how the client communicates to the server.  That's all I want to hear!This will cover how "most"
 feature teams are operating today.  Ultimately people are categorized into say iOS, Android, frontend, or 
 backend so choose one to concentrate in a bit more.
-Of course, there are other areas -- ie., if you're into ML, AR/VR, or robotics, then it's a bit more specialized and then you'd pick a project to show off something in that area.
+Of course, there are other areas -- ie., if you're into ML, AR/VR, or robotics, then it's a bit more 
+specialized and then you'd pick a project to show off something in that area.
 ```
 
