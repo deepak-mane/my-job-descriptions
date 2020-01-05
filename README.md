@@ -29,27 +29,27 @@
   
 |Job Title|Job Description| Requirements| 
 |---|---|---|
-|Behavior & Planning, Trucking|||
-|Radar Signal Processing|||
-|Lidar Systems|||
-|Perception - Computer Vision/Machine Learning|||
-|Machine Learning,Planner/Behavior Prediction|||
-|Planner & Controls|||
-|Behavior Prediction,Deep Learning|||
-|Perception - Scene Understanding|||
-|Researcher/Robotics|||
-|Simulation Realism|||
-|Perception,Robotics|||
-|Fleet Infrastructure|||
-|Onboard Infrastructure System Software|||
-|Fleet Response|||
-|Transportation Infrastructure|||
-|Machine Learning(Data Warehouse)|||
 |Routing Navigation/Routing|||
 |Mapping|||
+|Planner & Controls|||
+|Planning and Motion Control|||
+|Behavior Prediction,Deep Learning|||
+|Machine Learning,Planner/Behavior Prediction|||
+|Behavior & Planning, Trucking|||
+|Simulation Realism|||
+|Perception,Robotics|||
+|Perception - Scene Understanding|||
+|Perception - Computer Vision/Machine Learning|||
+|Researcher/Robotics|||
+|Radar Signal Processing|||
+|Lidar Systems|||
+|Onboard Infrastructure System Software|||
+|Machine Learning(Data Warehouse)|||
 |Estimaation, Optimization & Sensor Fusion|||
 |Camera Drivers|||
-|Planning and Motion Control|||
+|Fleet Response|||
+|Fleet Infrastructure|||
+|Transportation Infrastructure|||
 |Sensing Systems Engineer| 5 years of experience as a software, controls, sensors, or systems engineer||
 |Systems Engineer,Driving Behaviors|||
 |Test Engineer,Autonomy Software|||
