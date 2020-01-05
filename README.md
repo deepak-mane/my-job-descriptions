@@ -77,7 +77,13 @@
 | A high-level programming language | is a programming language with strong abstraction from the details of the computer. In contrast to low-level programming languages, it may use natural language elements, be easier to use, or may automate (or even hide entirely) significant areas of computing systems (e.g. memory management), making the process of developing a program simpler and more understandable than when using a lower-level language. The amount of abstraction provided defines how "high-level" a programming language is.| C++ |
 |JavaScript frameworks |like angular, react, backbone, and node.js| Angular/NodeJS|
 
-
++ Very low-level: Machine Code
++ Low level: Assembler, Forth
++ Mid level: C, C++, most system programming languages
++ Mid/High level: D, Go, garbage collected system programming languages
++ High level: Java, C#, most interpreted languages
++ Even Higher level: Lisp dialects
++ Highest level: SQL, declarative programming languages
 
 ### Job Description:
 
