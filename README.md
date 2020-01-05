@@ -27,33 +27,33 @@
   4. Advacned
   5. Expert
   
-| | | 
-|---|---|
-|Behavior & Planning, Trucking||
-|Radar Signal Processing||
-|Lidar Systems||
-|Perception - Computer Vision/Machine Learning||
-|Machine Learning,Planner/Behavior Prediction||
-|Planner & Controls||
-|Behavior Prediction,Deep Learning||
-|Perception - Scene Understanding||
-|Researcher/Robotics||
-|Simulation Realism||
-|Perception,Robotics||
-|Fleet Infrastructure||
-|Onboard Infrastructure System Software||
-|Fleet Response||
-|Transportation Infrastructure||
-|Machine Learning(Data Warehouse)||
-|Routing Navigation/Routing||
-|Mapping||
-|Estimaation, Optimization & Sensor Fusion||
-|Camera Drivers||
-|Planning and Motion Control||
-|Sensing Systems Engineer [5 years of experience as a software, controls, sensors, or systems engineer]||
-|Systems Engineer,Driving Behaviors||
-|Test Engineer,Autonomy Software||
-|Systems Engieer,Fault Protection||
+|Job Title|Job Description| Requirements| 
+|---|---|---|
+|Behavior & Planning, Trucking|||
+|Radar Signal Processing|||
+|Lidar Systems|||
+|Perception - Computer Vision/Machine Learning|||
+|Machine Learning,Planner/Behavior Prediction|||
+|Planner & Controls|||
+|Behavior Prediction,Deep Learning|||
+|Perception - Scene Understanding|||
+|Researcher/Robotics|||
+|Simulation Realism|||
+|Perception,Robotics|||
+|Fleet Infrastructure|||
+|Onboard Infrastructure System Software|||
+|Fleet Response|||
+|Transportation Infrastructure|||
+|Machine Learning(Data Warehouse)|||
+|Routing Navigation/Routing|||
+|Mapping|||
+|Estimaation, Optimization & Sensor Fusion|||
+|Camera Drivers|||
+|Planning and Motion Control|||
+|Sensing Systems Engineer| 5 years of experience as a software, controls, sensors, or systems engineer||
+|Systems Engineer,Driving Behaviors|||
+|Test Engineer,Autonomy Software|||
+|Systems Engieer,Fault Protection|||
 
 
 |Needed By| Skill | Level | Details |TARGET |
