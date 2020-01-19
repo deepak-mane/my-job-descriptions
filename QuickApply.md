@@ -10,4 +10,4 @@
 |[Johnson&Johnson](http://www.jnj.ch/en/careers.html)|Asana|Cloudera|[Google](https://careers.google.com/jobs/)|[Lockheed Martin](https://www.lockheedmartinjobs.com/career-areas)||
 |[Tableau](https://www.tableau.com/about/careers)|Instacart|Spotify|[Boeing](https://jobs.boeing.com/)|[Tesla](https://www.tesla.com/careers)||
 |[Splunk](https://www.splunk.com/en_us/careers/search-jobs.html)|[Postmates](https://careers.postmates.com/)|[Stripe](https://stripe.com/jobs/search)|[Electronics Arts](https://www.ea.com/careers)|[SpaceX](https://www.spacex.com/careers)||
-|[Cruise](https://www.getcruise.com/careers/)|[Netflix](https://jobs.netflix.com/)|[Slack](https://slack.com/careers)|[Boston Dynamics](https://www.bostondynamics.com/careers)|[Qualcomm](https://jobs.qualcomm.com/public/search.xhtml)||
+|[Cruise](https://www.getcruise.com/careers/)|[Netflix](https://jobs.netflix.com/)|[Slack](https://slack.com/careers)|[Boston Dynamics](https://www.bostondynamics.com/careers)|[Qualcomm](https://jobs.qualcomm.com/public/search.xhtml)|[dwfritz PDX](https://www.dwfritz.com/careers/job-listings/)|
