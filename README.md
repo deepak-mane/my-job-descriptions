@@ -1,4 +1,35 @@
 # my-job-descriptions
+
+## Apply on 14-Feb-2020
++ Wayfair
++ Cruise
++ Pony.ai
++ Point72
++ Samsung Electronics America
++ Argi AI
++ Tesla - Stag Backend software Engineer
++ DeepMap - Infrastructure and Back-End Engineer
++ Akuna Capital  - Junior Developer C++
++ AutoX.ai - Software engineer - Perception(c++)
++ Chevron - Senior Software Engineer
++ Voyage - Deep Learning Engineer
++ ServiceNow - Staff Software Engineer - Database systems
++ X, the moonshot factory| Mountain View, CA, US - Machine Learning Infrastructure Software Engineer (Everyday Robot project)
+
+
+## Requirements - To Qualify
++ A minimum of 5 years of relevant work experience
++ Advanced understanding of C++
++ Prior development work on distributed systems and client/server architectures
++ Experience with protocol and API design
++ An expert understanding of TCP/IP, DNS, and network-related protocols
++ Proven experience with configuring and operating traffic management components such as 
+  - load balancers, web, DNS and proxy servers in production
++ Object Oriented Design and Programming with proficiency in 2 or more of the following languages: 
+  - C#, C++, Angular, Node.js, SQL, Ansible, R, Java, JavaScript, Python, among others
+
+
+
 - Autonomous
   1. [Autonomy Software, Systems Engineer](Autonomy_Software-Systems_Engineer.md)
   1. [Software Engineer, Autonomous Mapping](Software_Engineer-Autonomous_Mapping.md)
