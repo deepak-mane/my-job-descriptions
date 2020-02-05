@@ -10,3 +10,4 @@
    + [leetcode.com](https://leetcode.com/)
    + [linkedin.com/learning/](https://www.linkedin.com/learning/)
    + [500+ Software programming practices for Absolute beginners](https://www.udemy.com/course/draft/2291467/)
+   + [Beginnersbook.com](https://beginnersbook.com/)
