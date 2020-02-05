@@ -38,17 +38,17 @@ Positions include software engineering, data engineering, data science, product 
 This is worth a look for any tech job seeker but is especially useful if you have a skill set that falls outside of programming/engineering (for example digital marketing, software sales, etc.)
 
 10. <b>Authentic Jobs</b>
-   - Authentic Jobs features job postings for engineers, but also a variety of other positions in tech. 
+    - Authentic Jobs features job postings for engineers, but also a variety of other positions in tech. 
 You can find everything from marketing and copywriting positions to customer support positions here.
 So practically anyone can find a suitable tech job on this job board.
 If you’re an engineer, this is still worth a look. Don’t read this description and write this off just because it includes other roles in tech. This is also a solid choice for engineering positions.
 
 11. <b>TechCareers</b>
-   - While this isn’t the flashiest or most modern-looking technology job board out there, there are some very good job listings on here… and clicking a listing often takes you directly to the employer’s website so you can apply directly and save time.
+    - While this isn’t the flashiest or most modern-looking technology job board out there, there are some very good job listings on here… and clicking a listing often takes you directly to the employer’s website so you can apply directly and save time.
 This is a feature we love, because you’re not wasting time applying without knowing if the job is even still open, etc. (It’s a lot more likely that a job is still open and “active” if it’s still posted on the company’s website).
 
 12. <b>WhiteTruffle</b>
-   - White truffle allows you to apply to 7,500+ tech jobs via one application. You will need to create a “candidate account,” to get started, so this isn’t a job board that you can browse without registering.
+    - White truffle allows you to apply to 7,500+ tech jobs via one application. You will need to create a “candidate account,” to get started, so this isn’t a job board that you can browse without registering.
 However, if you’re willing to register and put in the time, it does feature many high-quality employers.
 
 13. <b>IT Job Pro</b>
