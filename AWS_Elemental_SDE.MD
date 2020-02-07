@@ -1,6 +1,8 @@
 # AWS Elemental Software Development Engineer
 
-Job ID: A984606
+__Software Development Engineer – VOD Transcoding__
+__Job ID: A984606__ *{Base salary $116,000/yr - Range: $86K to $158K}*
+
 ## What You’ll Do
 - Write a lot of high quality code
 - Learn how our products work today, and where we want to take them in the future
@@ -26,3 +28,4 @@ Job ID: A984606
 - Experience with Amazon Web Services
 - Meets/exceeds Amazon’s leadership principles requirements for this role
 - Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+
