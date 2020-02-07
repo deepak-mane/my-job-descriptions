@@ -1,31 +1,32 @@
 # AWS Elemental Software Development Engineer
 
-__Software Development Engineer – VOD Transcoding__
-__Job ID: A984606__ *{Base salary $116,000/yr - Range: $86K to $158K}*
+__Software Development Engineer__
+__Job ID: 965094__ *{Base salary - Range: $86K to $158K}*
 
-## What You’ll Do
-- Write a lot of high quality code
-- Learn how our products work today, and where we want to take them in the future
-- Contribute multiple new features into the product and into customer environments
-- Design and implement new features from specification to final test and automation
-- Work closely with Media Engine, QA, and Automated Test Engineers to deliver a complete, tested customer solution
-- Work in an agile development environment, where you are always working on the most important stuff
-- Have fun in a challenging but rewarding environment
-## Basic Qualifications
-- 2+ years of non-internship professional software development experience
-- Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
-- 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
-- A Bachelor's Degree in Computer Science, Math, or an Engineering discipline, or equivalent experience
-- 1+ year experience developing databases (MySQL, Postgres or RDS)
-## Preferred Qualifications
-- A passion for software development with impeccable drive and ownership
-- Experience designing and implementing REST APIs
-- Experience with web design and web site development
-- Media software development (protocols, DRM, compression, etc.)
-- Experience with full stack system development
-- Distributed systems
-- Experience developing on a Linux platform
-- Experience with Amazon Web Services
-- Meets/exceeds Amazon’s leadership principles requirements for this role
-- Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+## DESCRIPTION
+AWS Elemental is an Amazon Web Services company that combines deep video expertise with the power and scale of the cloud. We are looking for Software Development Engineers to join our team, where you will help us give our customers the freedom to focus on what matters: transforming ideas into compelling content that captivates viewers.
+This role requires outstanding programming skills, and a passion for creating robust distributed systems. As a key member of the team, you will contribute to all aspects of the software lifecycle: design, experimentation, implementation and testing. You should be willing to dive deep, experiment rapidly and get things done. You should have an entrepreneurial spirit, love autonomy, know how to deliver, and long for the opportunity to build pioneering solutions to challenging problems. We are looking for technical leaders!
+## What you’ll do:
+· Design and implement new features from design to final test to operationalization
+· Define and achieve performance metrics, and instill the operational practices needed to sustain them
+· Learn a great deal about modern media technologies
+· Influence the future technical direction of our product
+· Have fun in a challenging but rewarding environment
+· Make a significant contribution to launching new capabilities in AWS Elemental services
+· Become an expert on AWS tooling and operational practices
 
+
+## BASIC QUALIFICATIONS
+· 2+ years of non-internship professional software development experience
+· Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+· 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+· Bachelor's Degree in Computer Science or a related field, or equivalent experience
+
+## PREFERRED QUALIFICATIONS
+· Master's Degree in Computer Science or a related field, or equivalent experience
+· Knowledge of Linux fundamentals
+· Knowledge of IP networking technologies
+· Expertise in building large-scale distributed systems
+· Experience building video solutions
+
+Amazon is an Equal Opportunity Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age
