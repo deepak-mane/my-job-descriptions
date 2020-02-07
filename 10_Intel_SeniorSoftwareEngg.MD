@@ -1,7 +1,7 @@
 # Senior Software Engineer (Distributed Systems) 
 + Company : Intel
 + Company Location : Hillsboro, OR
-+ Job ID: JR0107527
++ [Job ID: JR0107527](https://jobs.intel.com/ShowJob/Id/2067416/Senior%20Software%20Engineer%20(Distributed%20Systems)
 
 ## For Senior System Software Engineer in Hillsboro, OR, US at Intel Corporation
 + Base salary $140,000/yr. Range: $105K to $187K
