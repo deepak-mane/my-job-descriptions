@@ -1,6 +1,6 @@
 # Software Engineer, Engineering Productivity
-Company Name : Google Company 
-Location : Seattle, WA, US
++ Company Name : Google Company 
++ Location : Seattle, WA, US
 
 ##
 
