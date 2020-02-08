@@ -1,4 +1,10 @@
 # Quick Apply on Career Portals 
+
+- [Gaurav Sen - competitve programming](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+- [Rachit Jain - competitive programming](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+
+
+
 | -1- | -2- | -3- | -4- | -5- | -6- |
 | --- | --- | --- | --- | --- |  --- |
 |[Ampere](https://amperecomputing.com/apply/)|[Pinterest](https://www.pinterestcareers.com/homepage)|[Uber](https://www.uber.com/us/en/careers/)|[facebook](https://www.facebook.com/careers/)|[Palantir](https://www.palantir.com/careers/)|[waymo](https://waymo.com/joinus/)|
