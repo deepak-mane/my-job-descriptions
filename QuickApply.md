@@ -1,10 +1,10 @@
 # Quick Apply on Career Portals 
 
-- [Gaurav Sen - competitve programming](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
-- [Rachit Jain - competitive programming](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
-- [JAVAAID - Coding Interview Preparation](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA/featured)
-- [Clément Mihailescu - Algoexpert.io](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
-- [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
+1. [Gaurav Sen - competitve programming](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+1. [Rachit Jain - competitive programming](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+1. [JAVAAID - Coding Interview Preparation](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA/featured)
+1. [Clément Mihailescu - Algoexpert.io](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+1. [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 
 
 | -1- | -2- | -3- | -4- | -5- | -6- |
