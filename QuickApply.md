@@ -2,7 +2,8 @@
 
 - [Gaurav Sen - competitve programming](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - [Rachit Jain - competitive programming](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
-
+- [Clément Mihailescu - Algoexpert.io](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+- [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 
 
 | -1- | -2- | -3- | -4- | -5- | -6- |
