@@ -2,6 +2,7 @@
 
 - [Gaurav Sen - competitve programming](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - [Rachit Jain - competitive programming](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+- [JAVAAID - Coding Interview Preparation](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA/featured)
 - [Clément Mihailescu - Algoexpert.io](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 - [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 
