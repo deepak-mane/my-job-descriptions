@@ -5,6 +5,8 @@
 1. [JAVAAID - Coding Interview Preparation](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA/featured)
 1. [Clément Mihailescu - Algoexpert.io](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
 1. [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
+1. [Jenny's Data Structure Videos](https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w)
+1. [Abdul Bari - Algorithm Concepts](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 
 
 | -1- | -2- | -3- | -4- | -5- | -6- |
