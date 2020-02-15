@@ -49,42 +49,9 @@ how they approach to problems.
 
 ## These 40 companies are the best in the U.S. at attracting and keeping top talent, according to LinkedIn data. Read on for how they do it.
 
-| | | |
-|---|---|---|
-|<li>Google</li><li>Salesforce</li><li>Facebook</li><li>Apple</li><li>Amazon</li><li>Uber</li><li>Microsoft</li><li>Tesla</li><li>Twitter</li><li>Airbnb</li> | | |
-
-
-
-11. Netflix
-12. Stryker
-13. Visa
-14. Adobe
-15. Workday
-16. Pandora
-17. Under Armour
-18. Tableau
-19. BlackRock
-20. Coca-Cola
-21. Epsilon
-22. Dell
-23. McKinsey & Co.
-24. Deloitte
-25. Box
-26. McKesson
-27. Goldman Sachs
-28. JLL
-29. Edelman
-30. Estée Lauder 
-31. Starbucks
-32. Splunk
-33. Viacom
-34. Live Nation
-35. HBO
-36. Leidos
-37. Fox
-38. Cisco
-39. Yelp
-40. Morgan Stanley
+| | | | |
+|---|---|---| ---|
+|<li>Google</li><li>Salesforce</li><li>Facebook</li><li>Apple</li><li>Amazon</li><li>Uber</li><li>Microsoft</li><li>Tesla</li><li>Twitter</li><li>Airbnb</li> | <li>Netflix</li><li>Stryker</li><li>Visa</li><li>Adobe</li><li>Workday</li><li>Pandora</li><li>Under Armour</li><li>Tableau</li><li>BlackRock</li><li>Coca-Cola</li> | <li>Epsilon</li><li>Dell</li><li>McKinsey & Co.</li><li>Deloitte</li><li>Box</li><li>McKesson</li><li>Goldman Sachs</li><li>JLL</li><li>Edelman</li><li>Estée Lauder</li> | <li>Starbucks</li><li>Splunk</li><li>Viacom</li><li>Live Nation</li><li>HBO</li><li>Leidos</li><li>Fox</li><li>Cisco</li><li>Yelp</li><li>Morgan Stanley</li> |
 
 
 ## Hands-on experience with most of the following technologies: 
