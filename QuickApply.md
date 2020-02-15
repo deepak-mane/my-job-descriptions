@@ -51,16 +51,7 @@ how they approach to problems.
 
 | | | |
 |---|---|---|
-|<li>Google</li>
-<li>Salesforce</li>
-<li>Facebook</li>
-<li>Apple</li>
-<li>Amazon</li>
-<li>Uber</li>
-<li>Microsoft</li>
-<li>Tesla</li>
-<li>Twitter</li>
-<li>Airbnb</li> | | |
+|<li>Google</li><li>Salesforce</li><li>Facebook</li><li>Apple</li><li>Amazon</li><li>Uber</li><li>Microsoft</li><li>Tesla</li><li>Twitter</li><li>Airbnb</li> | | |
 
 
 
