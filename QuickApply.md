@@ -49,13 +49,13 @@ how they approach to problems.
 
 ## These 40 companies are the best in the U.S. at attracting and keeping top talent, according to LinkedIn data. Read on for how they do it.
 
-| | | | |
+| -1_10- | -11_20- | -21_30- | -31_40- |
 |---|---|---| ---|
 |<li>Google</li><li>Salesforce</li><li>Facebook</li><li>Apple</li><li>Amazon</li><li>Uber</li><li>Microsoft</li><li>Tesla</li><li>Twitter</li><li>Airbnb</li> | <li>Netflix</li><li>Stryker</li><li>Visa</li><li>Adobe</li><li>Workday</li><li>Pandora</li><li>Under Armour</li><li>Tableau</li><li>BlackRock</li><li>Coca-Cola</li> | <li>Epsilon</li><li>Dell</li><li>McKinsey & Co.</li><li>Deloitte</li><li>Box</li><li>McKesson</li><li>Goldman Sachs</li><li>JLL</li><li>Edelman</li><li>Estée Lauder</li> | <li>Starbucks</li><li>Splunk</li><li>Viacom</li><li>Live Nation</li><li>HBO</li><li>Leidos</li><li>Fox</li><li>Cisco</li><li>Yelp</li><li>Morgan Stanley</li> |
 
 
 ## Hands-on experience with most of the following technologies: 
-1. [Apache Spark]()
+1. [Apache Spark](https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/)
 1. [Squid - Proxy Server](https://www.udemy.com/course/squid-proxy-server/)
 1. [distributed database clusters, ]()
 1. [Hands-on experience with mySQL or similar RDBMS]()
