@@ -51,18 +51,17 @@ how they approach to problems.
 
 | | | |
 |---|---|---|
-|<li>1. Google</li>
-<li>2. Salesforce</li>
-<li>3. Facebook</li>
-<li>4. Apple</li>
-<li>5. Amazon</li>
-<li>6. Uber</li>
-<li>7. Microsoft</li>
-<li>8. Tesla</li>
-<li>9. Twitter</li>
-<li>10. Airbnb</li> | | |
-| | | |
-| | | |
+|<li>Google</li>
+<li>Salesforce</li>
+<li>Facebook</li>
+<li>Apple</li>
+<li>Amazon</li>
+<li>Uber</li>
+<li>Microsoft</li>
+<li>Tesla</li>
+<li>Twitter</li>
+<li>Airbnb</li> | | |
+
 
 
 11. Netflix
