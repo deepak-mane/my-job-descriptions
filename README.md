@@ -2,6 +2,9 @@
 
 - [Sources - Gaurav Sen,Rachit Jain - competitive programming ](https://github.com/deepak-mane/my-job-descriptions/blob/master/QuickApply.md)
 
+## My Inspirations
+- [Elon Musk : The Story Of How He Became A Multi-Millionaire Entrepreneur in his 20's](https://www.youtube.com/watch?v=kTh-28ubvCU)
+
 ## Apply on 14-Feb-2020
 + Wayfair
 + Cruise
