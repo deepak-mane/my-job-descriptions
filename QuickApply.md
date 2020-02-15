@@ -77,6 +77,7 @@ how they approach to problems.
 
 ## Try to get experience on below:
 1. C++ programming
+1. Knowledge of algorithms and data structures relevant to robotics
 1. Implementing high-bandwidth feedback control in hardware
 1. Developing simple models of complex systems
 1. Collaborative development of perception and autonomy algorithms
