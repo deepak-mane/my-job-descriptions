@@ -3,7 +3,7 @@
 1. [Gaurav Sen - competitve programming](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 1. [Rachit Jain - competitive programming](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 1. [JAVAAID - Coding Interview Preparation](https://www.youtube.com/channel/UCx1hbK753l3WhwXP5r93eYA/featured)
-1. [Clément Mihailescu - Algoexpert.io](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)
+1. [Clément Mihailescu - Algoexpert.io](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g)https://github.com/deepak-mane/my-job-descriptions/blob/master/DataStructures_Algorithms_Robotics.MD
 1. [TechLead](https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw)
 1. [Jenny's Data Structure Videos](https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w)
 1. [Abdul Bari - Algorithm Concepts](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
@@ -77,7 +77,7 @@ how they approach to problems.
 
 ## Try to get experience on below:
 1. C++ programming
-1. Knowledge of algorithms and data structures relevant to robotics
+1. [Knowledge of algorithms and data structures relevant to robotics](./DataStructures_Algorithms_Robotics.MD)
 1. Implementing high-bandwidth feedback control in hardware
 1. Developing simple models of complex systems
 1. Collaborative development of perception and autonomy algorithms
