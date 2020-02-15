@@ -55,16 +55,17 @@ how they approach to problems.
 
 
 ## Hands-on experience with most of the following technologies: 
-1. Apache Spark, 
-1. distributed database clusters, 
-1. Hands-on experience with mySQL or similar RDBMS
+1. [Apache Spark]()
+1. [Squid - Proxy Server](https://www.udemy.com/course/squid-proxy-server/)
+1. [distributed database clusters, ]()
+1. [Hands-on experience with mySQL or similar RDBMS]()
 1. Redis 
-1. Kafka 
-1. Tableau
-1. Monitoring systems (Icinga2, Prometheus, Grafana)
-1. Virtualization and container technologies (KVM, Vagrant, Docker, Docker compose, Kubernetes)
-1. Solid knowledge of protocols such as DNS, HTTPS, LDAP, SMTP and SNMP
-1. Familiarity with Python or ROS (Robot Operating System) a plus.
+1. [Kafka]()
+1. [Tableau]()
+1. [Monitoring systems (Icinga2, Prometheus, Grafana)]()
+1. [Virtualization and container technologies (KVM, Vagrant, Docker, Docker compose, Kubernetes)]()
+1. [Solid knowledge of protocols such as DNS, HTTPS, LDAP, SMTP and SNMP]()
+1. [Familiarity with Python or ROS (Robot Operating System)]()
 
 
 
