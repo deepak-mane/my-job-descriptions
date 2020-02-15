@@ -190,3 +190,25 @@ Oak Programming Language: https://repl.it/@cmihai/Oak-Programmi...
 
  # -
 
+## 15 High Paid Jobs
+1. Plastic Surgeon & Specialized Doctors - $250K
+2. Corporate Laywer - $200K
+   - Merger Acquisitons
+   - Patents
+3. Architect - $100K to $250K
+4. Pilots & Air traffic Control - $100K ($300/hr)
+5. Cyber Security - $250K
+6. Marketing Managers - $250K
+7. High-End Sales - $200K (high ticket sales)
+   - Realestate - $250K
+   - Pharamceutical sales - $200K
+   - Software Sales - $100K
+8. Software Developer - $150K
+9. Petroleum Engineer - $200K
+10. Youtuber & New-Media Personality - $5Million in 5years (Ryan's Toy Reviues $20M per year)
+11. Professional Athelete - $250K - 90M per year
+12. Professional Entertainer - 250K to 10M peryear
+13. Investment Banker - $200K - 1M (Yearly bonus is more)
+14. Hedge Fund Manager - $1Billion (Principals by Ray Dalo book)
+15. Business Owner - $75K (1 in 10 survives business can earn)
+
