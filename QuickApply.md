@@ -65,6 +65,11 @@ how they approach to problems.
 1. [Monitoring systems (Icinga2, Prometheus, Grafana)]()
 1. [Virtualization and container technologies (KVM, Vagrant, Docker, Docker compose, Kubernetes)]()
 1. [Solid knowledge of protocols such as DNS, HTTPS, LDAP, SMTP and SNMP]()
+   + [LinuxSystemProgrammingConepts](https://www.udemy.com/course/advance-programming-concepts/)
+   + [TCP/IP](https://www.udemy.com/course/tcpmasterclass/)
+   + [IPC](https://www.udemy.com/course/linuxipc/)
+   + [NetworkProgramming](https://www.udemy.com/course/network-programming-from-scratch/)
+   + [RPC](https://www.udemy.com/course/linuxrpc/)
 1. [Familiarity with Python or ROS (Robot Operating System)]()
 
 
