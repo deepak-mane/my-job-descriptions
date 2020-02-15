@@ -4,6 +4,7 @@
 
 ## My Inspirations
 - [Elon Musk : The Story Of How He Became A Multi-Millionaire Entrepreneur in his 20's](https://www.youtube.com/watch?v=kTh-28ubvCU)
+- [15 Jobs That Can Make You a Millionaire](https://www.youtube.com/watch?v=l7lOQ4MW5wg)
 
 ## Apply on 14-Feb-2020
 + Wayfair
