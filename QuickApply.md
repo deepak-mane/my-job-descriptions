@@ -49,16 +49,22 @@ how they approach to problems.
 
 ## These 40 companies are the best in the U.S. at attracting and keeping top talent, according to LinkedIn data. Read on for how they do it.
 
-1. Google
-2. Salesforce
-3. Facebook
-4. Apple
-5. Amazon
-6. Uber
-7. Microsoft
-8. Tesla
-9. Twitter
-10. Airbnb
+| | | |
+|---|---|---|
+|<li>1. Google</li>
+<li>2. Salesforce</li>
+<li>3. Facebook</li>
+<li>4. Apple</li>
+<li>5. Amazon</li>
+<li>6. Uber</li>
+<li>7. Microsoft</li>
+<li>8. Tesla</li>
+<li>9. Twitter</li>
+<li>10. Airbnb</li> | | |
+| | | |
+| | | |
+
+
 11. Netflix
 12. Stryker
 13. Visa
@@ -94,9 +100,36 @@ how they approach to problems.
 ## Hands-on experience with most of the following technologies: 
 1. Apache Spark, 
 1. distributed database clusters, 
+1. Hands-on experience with mySQL or similar RDBMS
 1. Redis 
 1. Kafka 
 1. Tableau
 1. Monitoring systems (Icinga2, Prometheus, Grafana)
 1. Virtualization and container technologies (KVM, Vagrant, Docker, Docker compose, Kubernetes)
+1. Solid knowledge of protocols such as DNS, HTTPS, LDAP, SMTP and SNMP
+1. Familiarity with Python or ROS (Robot Operating System) a plus.
+
+
+
+## Try to get experience on below:
+1. C++ programming
+1. Implementing high-bandwidth feedback control in hardware
+1. Developing simple models of complex systems
+1. Collaborative development of perception and autonomy algorithms
+1. experience with perception or motion planning on real-world robots
+1. 2D/3D Vision (OpenCV/PCL).
+1. Deep learning (Tensorflow) for perception.
+1. Camera calibration.
+1. Object detection/recognition and 6-DOF pose estimation , Control of multi-DOF systems
+1. 2+ years experience working with actuator hardware,Experience with hydraulic servovalves
+1. Strong linear control theory (root locus control design)
+1. Familiarity with multi-body kinematics  
+1. Dynamic simulation
+1. Convex optimization
+1. Path planning
+1. System integration
+1. Sensing and state estimation
+1. Debugging and creating robot behaviors
+
+
 
