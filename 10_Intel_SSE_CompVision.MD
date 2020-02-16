@@ -26,7 +26,7 @@
 # Computer Vision SW Engineer (Entry Level)
 + Company : Intel
 + Company Location : Hillsboro, OR
-+ JR0107993 - Computer Vision SW Engineer
++ [JR0107993 - Computer Vision SW Engineer](https://www.linkedin.com/jobs/view/1523603649/)
 
 ## Minimum Qualifications
 + MS or PhD in CS/CE or equivalent discipline, with focus in Computer Vision.
