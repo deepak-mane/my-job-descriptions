@@ -35,6 +35,10 @@
   - C/C++ development
   - 3-D Vision Recognition
   - SLAM (Simultaneous Localization and Mapping)
+  - Probabilistic  Robotics by Thrun is the state-of-the-art book in the field.  But if you're ever looking to implement SLAM,  the best tool out there  is the gmapping package in ROS. It contains code that help you generate a 2-D occupancy grid and figure out the pose of the robot. If you see yourself writing your own algorithms in the future,  I'd still recommend writing them over  ROS because it contains visualization and simulation tools that could guide you through the process.  Find research papers in the field and try solving existing problems. Presently, SLAM is not yet fully equipped with algorithms that someone could present you out of the box.  Learning it is a long and slow process and requires to understand a lot of fundamental concepts
+  - [SLAM-Course- Cyrill Stachniss](https://www.youtube.com/watch?t=246s&v=wVsfCnyt5jA)
+  
+  
 
 ## Preferred Qualifications
 + Strong experience in developing, training and validation of various algorithms in the field of, Visual Odometry and 3D Reconstruction
