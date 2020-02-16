@@ -21,3 +21,30 @@
 + Demonstrable expertise in network programming, Linux network stack, IP tables, etc.
 + Familiarity with network namespaces and container networking is a plus
 + Strong programming skills in C++, Go, and Python
+
+
+# Computer Vision SW Engineer (Entry Level)
++ Company : Intel
++ Company Location : Hillsboro, OR
++ JR0107993 - Computer Vision SW Engineer
+
+## Minimum Qualifications
++ MS or PhD in CS/CE or equivalent discipline, with focus in Computer Vision.
++ 2+ years experience of:
+  - Software architecture
+  - C/C++ development
+  - 3-D Vision Recognition
+  - SLAM (Simultaneous Localization and Mapping)
+
+## Preferred Qualifications
++ Strong experience in developing, training and validation of various algorithms in the field of, Visual Odometry and 3D Reconstruction
++ Experience in developing, training and validation various of algorithms in the field of:
++ Real-time Object Detection and Segmentation techniques
++ Point Cloud Data Optimizations techniques
++ Detection, tracking, and prediction in dynamic environments.
++ Video and media coding
++ Publications in the field of Computer Vision & Machine Learning
++ System engineering experience is a plus.
++ Open Source experience is a plus
++ This is an entry level position and will be compensated accordingly.
+
