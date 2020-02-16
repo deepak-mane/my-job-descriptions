@@ -39,10 +39,10 @@
 ## Preferred Qualifications
 + Strong experience in developing, training and validation of various algorithms in the field of, Visual Odometry and 3D Reconstruction
 + Experience in developing, training and validation various of algorithms in the field of:
-+ Real-time Object Detection and Segmentation techniques
-+ Point Cloud Data Optimizations techniques
-+ Detection, tracking, and prediction in dynamic environments.
-+ Video and media coding
+  - Real-time Object Detection and Segmentation techniques
+  - Point Cloud Data Optimizations techniques
+  - Detection, tracking, and prediction in dynamic environments.
+  - Video and media coding
 + Publications in the field of Computer Vision & Machine Learning
 + System engineering experience is a plus.
 + Open Source experience is a plus
