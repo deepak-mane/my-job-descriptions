@@ -146,14 +146,14 @@ Academind by Maximilian Schwarzmüller, Online Education
 Academind by Maximilian Schwarzmüller, Online Education
 
 ### Abhishek Sagar, Network Protocol Developer at Juniper [0037]
-- Theory Based Courses:
+- <b>Theory Based Courses:</b>
   + [Linux System Programming Techniques & Concepts](https://www.udemy.com/course/advance-programming-concepts/)
   + [Master Class : TCP/IP Mechanics from Scratch to Expert](https://www.udemy.com/course/tcpmasterclass/)
   + [Network Concepts and Programming from Scratch - Academic LvL](https://www.udemy.com/course/network-programming-from-scratch/)
-- Project Based Courses:
+- <b>Project Based Courses:</b>
   + [System C Project - Write a Garbage Collector from Scratch](https://www.udemy.com/course/memory-leak-detector/)
   + [Build Remote Procedure Calls (RPC) - from scratch in C](https://www.udemy.com/course/linuxrpc/)
-  + Linux Inter Process Communication (IPC) from Scratch
+  + [Linux Inter Process Communication (IPC) from Scratch](https://www.udemy.com/course/linuxipc/)
   + [System C/C++ Project : Design and Implement Timer/Schedulers](https://www.udemy.com/course/wheeltimers/)
   + [Integrate CLI interface to your C/C++ Projects Quickly](https://www.udemy.com/course/clilibrary/)
   + [Networking Coding Projects - Implement TCP/IP Stack in C](https://www.udemy.com/course/tcpipstack/)
