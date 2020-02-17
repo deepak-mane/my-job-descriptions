@@ -146,15 +146,15 @@ Academind by Maximilian Schwarzmüller, Online Education
 Academind by Maximilian Schwarzmüller, Online Education
 
 ### Abhishek Sagar, Network Protocol Developer at Juniper [0037]
-+ Theory Based Courses:
-  - Linux System Programming Techniques & Concepts
-  - Network Concepts and Programming from Scratch - Academic LvL
-+ Project Based Courses:
-  - System C Project - Write a Garbage Collector from Scratch
-  - Master Class : TCP/IP Mechanics from Scratch to Expert
-  - Build Remote Procedure Calls (RPC) - from scratch in C
-  - Linux Inter Process Communication (IPC) from Scratch
-  - System C/C++ Project : Design and Implement Timer/Schedulers
-  - Integrate CLI interface to your C/C++ Projects Quickly
-  - Networking Coding Projects - Implement TCP/IP Stack in C
+- Theory Based Courses:
+  + [Linux System Programming Techniques & Concepts](https://www.udemy.com/course/advance-programming-concepts/)
+  + [Master Class : TCP/IP Mechanics from Scratch to Expert](https://www.udemy.com/course/tcpmasterclass/)
+  + [Network Concepts and Programming from Scratch - Academic LvL](https://www.udemy.com/course/network-programming-from-scratch/)
+- Project Based Courses:
+  + [System C Project - Write a Garbage Collector from Scratch](https://www.udemy.com/course/memory-leak-detector/)
+  + [Build Remote Procedure Calls (RPC) - from scratch in C](https://www.udemy.com/course/linuxrpc/)
+  + Linux Inter Process Communication (IPC) from Scratch
+  + [System C/C++ Project : Design and Implement Timer/Schedulers](https://www.udemy.com/course/wheeltimers/)
+  + [Integrate CLI interface to your C/C++ Projects Quickly](https://www.udemy.com/course/clilibrary/)
+  + [Networking Coding Projects - Implement TCP/IP Stack in C](https://www.udemy.com/course/tcpipstack/)
 
