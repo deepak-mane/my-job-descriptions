@@ -5,16 +5,7 @@
 
 | Stocks Name | Symbol | Sector | Founded | Div Yield | P/E|
 |---|---|---|---|---|---|
-| AbbVie | ABBV | 50 | Pharma | 2011 | 4.95 | 17.71 | 
-| British American Tobacco |BTI | |  || |
-|Colgate|CL|| || |
-|STORE Capital|STOR|| || |
-|Fortis|FTS|| || |
-|Emerson|EMR|| || |
-|Vector Group|VGR|| || |
-|Canadian Natural Resource|CNQ|| || |
-|Leggett & Platt|LEG|| || |
-|Arlington Asset Investment|AI| || |
+
 
 | Sector | Stocks Name |  Founded | Symbol  | Div amount|	Div yield|	Ex-div date|	P/E|
 |---|---|---|---|---|---|---|---|
@@ -34,5 +25,16 @@
 ||||T	|2.08	|5.44%	|01/09/2020	|20.15X|
 ||||KHC	|1.6	|5.95%	|11/14/2019	|16.99X|
 ||||OXY	|3.16|	7.60%	|03/09/2020	|29.86X|
+| Pharma | AbbVie |  2011 |ABBV | | | 4.95 | 17.71 | 
+|| British American Tobacco ||BTI | |  || |
+||Colgate||CL|| || |
+||STORE Capital||STOR|| || |
+||Fortis||FTS|| || |
+||Emerson||EMR|| || |
+||Vector Group||VGR|| || |
+||Canadian Natural Resource||CNQ|| || |
+||Leggett & Platt||LEG|| || |
+||Arlington Asset Investment||AI| || |
+
 
 
