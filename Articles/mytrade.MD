@@ -1,5 +1,6 @@
 # My Investment Interests
 
+## TDAmeritrade
 | Sector | Stocks Name |  Founded | Symbol  | Div amount|	Div yield|	Ex-div date|	P/E|
 |---|---|---|---|---|---|---|---|
 ||||COST	|2.6	|0.82%	|02/06/2020	|38.72X|
@@ -19,6 +20,7 @@
 ||||KHC	|1.6	|5.95%	|11/14/2019	|16.99X|
 ||||OXY	|3.16|	7.60%	|03/09/2020	|29.86X|
 
+## Robinhood
 | Sector | Stocks Name |  Founded | Symbol  | Div amount|	Div yield|	Ex-div date|	P/E|
 |---|---|---|---|---|---|---|---|
 | Pharma | AbbVie |  2011 |ABBV | | | 4.95 | 17.71 | 
@@ -31,6 +33,18 @@
 ||Canadian Natural Resource||CNQ|| || |
 ||Leggett & Platt||LEG|| || |
 ||Arlington Asset Investment||AI| || |
+
+## Voya
+| Sector | Stocks Name |  Founded | Symbol  | Div amount|	Div yield|	Ex-div date|	P/E|
+|---|---|---|---|---|---|---|---|
+| Vangaurd International Index | AbbVie |  2011 |ABBV | | | 4.95 | 17.71 | 
+| Vangaurd Domestic Index | AbbVie |  2011 |ABBV | | | 4.95 | 17.71 | 
+
+## Optum
+| Sector | Stocks Name |  Founded | Symbol  | Div amount|	Div yield|	Ex-div date|	P/E|
+|---|---|---|---|---|---|---|---|
+| Vangaurd Total Index Domestic | AbbVie |  2011 |ABBV | | | 4.95 | 17.71 | 
+
 
 
 
