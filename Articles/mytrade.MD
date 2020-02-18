@@ -4,7 +4,7 @@
 
 
 | Stocks Name | Symbol | Sector | Founded | Div Yield | Price-Earnings Ratio | 
-|---|---|---|---|
+|---|---|---|---|---|---|
 | AbbVie | ABBV | 50 | Pharma | 2011 | 4.95 | 17.71 | 
 | British American Tobacco |BTI | |  || |
 |Colgate|CL|| || |
