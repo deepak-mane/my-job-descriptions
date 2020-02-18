@@ -1,12 +1,5 @@
 # My Investment Interests
 
-
-
-
-| Stocks Name | Symbol | Sector | Founded | Div Yield | P/E|
-|---|---|---|---|---|---|
-
-
 | Sector | Stocks Name |  Founded | Symbol  | Div amount|	Div yield|	Ex-div date|	P/E|
 |---|---|---|---|---|---|---|---|
 ||||COST	|2.6	|0.82%	|02/06/2020	|38.72X|
