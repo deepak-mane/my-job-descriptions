@@ -31,5 +31,5 @@
     - [Adv C programs](https://www.udemy.com/course/build-undetectable-malware-using-c-language-ethical-hacking/)
     
 - __Apache Spark & Scala__ 
-  + [Apache Spark with Scala - Frank Kane](https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/l)
+  + [Apache Spark with Scala - Frank Kane](https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/)
     - Apache Spark Application #1 - Movie Recommendation Engine
