@@ -30,3 +30,6 @@ Job location : Portland Oregon, US
 + Previous experience with Scala, Java, Python, C++, and/or JavaScript.
 + Strong computer science fundamentals, algorithms, and data structures background
 + Bachelors or higher in Computer Science or a related discipline or equivalent experience.
+
+
+- Apache Spark & Scala
