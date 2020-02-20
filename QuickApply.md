@@ -55,11 +55,12 @@ how they approach to problems.
 
 
 ## Hands-on experience with most of the following technologies: 
+1. [ElasticSearch & ElasticStack](https://www.udemy.com/course/elasticsearch-and-elastic-stack-in-depth-and-hands-on/l)
 1. [Apache Spark](https://www.udemy.com/course/apache-spark-with-scala-hands-on-with-big-data/)
 1. [Squid - Proxy Server](https://www.udemy.com/course/squid-proxy-server/)
-1. [distributed database clusters, ]()
+1. [distributed database clusters]()
 1. [Hands-on experience with mySQL or similar RDBMS]()
-1. Redis 
+1. [Redis]() 
 1. [Kafka]()
 1. [Tableau]()
 1. [Monitoring systems (Icinga2, Prometheus, Grafana)]()
