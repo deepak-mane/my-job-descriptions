@@ -63,6 +63,7 @@ how they approach to problems.
 1. [Redis]() 
 1. [Kafka]()
 1. [Tableau]()
+1. [SAN NAS Storage](https://www.udemy.com/course/storageintro/)
 1. [Monitoring systems (Icinga2, Prometheus, Grafana)]()
 1. [Virtualization and container technologies (KVM, Vagrant, Docker, Docker compose, Kubernetes)]()
 1. [Solid knowledge of protocols such as DNS, HTTPS, LDAP, SMTP and SNMP]()
