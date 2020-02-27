@@ -162,123 +162,123 @@ Academind by Maximilian Schwarzmüller, Online Education
 1. ) [Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/course/apache-kafka/)
      + What you’ll learn
        - Understand Apache Kafka Ecosystem, Architecture, Core Concepts and Operations
-    - Master Concepts such as Topics, Partitions, Brokers, Producers, Consumers
-    - Start a personal Kafka development environment
-    - Learn major CLIs: kafka-topics, kafka-console-producer, kafka-console-consumer, kafka-consumer-groups, kafka-configs
-    - Create your Producers and Consumers in Java to interact with Kafka
-    - Program a Real World Twitter Producer & ElasticSearch Consumer
-    - Extended APIs Overview (Kafka Connect, Kafka Streams), Case Studies and Big Data Architecture
-    - Practice and Understand Log Compaction
-  + Are there any course requirements or prerequisites?
-    - A recent Windows / Mac / Linux machine with minimum 4GB of RAM, 5 GB of disk space
-    - Some understanding of Java Programming
-    - Good to have knowledge about Linux command line
-    - Desire to learn something awesome and new!
-  + Who this course is for:
-    - Developers who want to learn the Apache Kafka Fundamentals, start a cluster and write their first application
-    - Architects who want to understand how Apache Kafka fits into their solution architecture
-    - Anyone looking to learn the full theory of how Apache Kafka works as a distributed system
+       - Master Concepts such as Topics, Partitions, Brokers, Producers, Consumers
+       - Start a personal Kafka development environment
+       - Learn major CLIs: kafka-topics, kafka-console-producer, kafka-console-consumer, kafka-consumer-groups, kafka-configs
+       - Create your Producers and Consumers in Java to interact with Kafka
+       - Program a Real World Twitter Producer & ElasticSearch Consumer
+       - Extended APIs Overview (Kafka Connect, Kafka Streams), Case Studies and Big Data Architecture
+       - Practice and Understand Log Compaction
+     + Are there any course requirements or prerequisites?
+       - A recent Windows / Mac / Linux machine with minimum 4GB of RAM, 5 GB of disk space
+       - Some understanding of Java Programming
+       - Good to have knowledge about Linux command line
+       - Desire to learn something awesome and new!
+     + Who this course is for:
+       - Developers who want to learn the Apache Kafka Fundamentals, start a cluster and write their first application
+       - Architects who want to understand how Apache Kafka fits into their solution architecture
+       - Anyone looking to learn the full theory of how Apache Kafka works as a distributed system
 
 1. ) [Apache Kafka Series - Kafka Connect Hands-on Learning](https://www.udemy.com/course/kafka-connect/)
-  + What you’ll learn
-    - Configure and run Apache Kafka Source and Sink Connectors
-    - Learn concepts behind Kafka Connect & the Kafka Connect architecture
-    - Launch a Kafka Connect Cluster using Docker Compose
-    - Deploy Kafka Connectors in Standalone and Distributed Mode
-    - Write your own Kafka Connector
-  + Are there any course requirements or prerequisites?
-    - Good understanding of Kafka Basic is REQUIRED to take this course
-    - A recent Windows / Mac / Linux machine with minimum 4GB of RAM, 5 GB of disk space
-    - Good to have knowledge about Linux command line
-    - Good to have knowledge about Docker
-    - A note book and pen is recommended to take notes during the entire course
-  + Who this course is for:
-    - Developers who wants to learn Apache Kafka Connect Framework and get hands-on with it
-    - Professionals who are good at Apache Kafka ecosystem and basic core concepts
-    - Architects who want to understand how Kafka Connect fits in their Solution Architecture
+     + What you’ll learn
+       - Configure and run Apache Kafka Source and Sink Connectors
+       - Learn concepts behind Kafka Connect & the Kafka Connect architecture
+       - Launch a Kafka Connect Cluster using Docker Compose
+       - Deploy Kafka Connectors in Standalone and Distributed Mode
+       - Write your own Kafka Connector
+     + Are there any course requirements or prerequisites?
+       - Good understanding of Kafka Basic is REQUIRED to take this course
+       - A recent Windows / Mac / Linux machine with minimum 4GB of RAM, 5 GB of disk space
+       - Good to have knowledge about Linux command line
+       - Good to have knowledge about Docker
+       - A note book and pen is recommended to take notes during the entire course
+     + Who this course is for:
+       - Developers who wants to learn Apache Kafka Connect Framework and get hands-on with it
+       - Professionals who are good at Apache Kafka ecosystem and basic core concepts
+       - Architects who want to understand how Kafka Connect fits in their Solution Architecture
 
 1. ) [Apache Kafka Series - Kafka Streams for Data Processing](https://www.udemy.com/course/kafka-streams/)
-  + What you’ll learn
-    - Write four Kafka Streams application in Java 8
-    - Configure Kafka Streams to use Exactly Once Semantics
-    - Scale Kafka Streams applications
-    - Program with the High Level DSL of Kafka Streams
-    - Build and package your application
-    - Write tests for your Kafka Streams Topology
-    - And so much more!
-  + Are there any course requirements or prerequisites?
-    - Good knowledge of Apache Kafka
-    - A recent computer (Windows / Linux / Mac OS X) with 4GB of RAM
-    - Good knowledge of Java 8 Programming Language
-  + Who this course is for:
-    - Developers and devops who would like to learn how to write, package, deploy and run a Kafka Streams applications
-    - Architects who would like to understand how Kafka Streams work and its position in the Kafka-centered data pipeline and enterprise architecture
-    - People who fully understand the basics of Kafka
-    - Java 8 and Scala developers only
+     + What you’ll learn
+       - Write four Kafka Streams application in Java 8
+       - Configure Kafka Streams to use Exactly Once Semantics
+       - Scale Kafka Streams applications
+       - Program with the High Level DSL of Kafka Streams
+       - Build and package your application
+       - Write tests for your Kafka Streams Topology
+       - And so much more!
+     + Are there any course requirements or prerequisites?
+       - Good knowledge of Apache Kafka
+       - A recent computer (Windows / Linux / Mac OS X) with 4GB of RAM
+       - Good knowledge of Java 8 Programming Language
+     + Who this course is for:
+       - Developers and devops who would like to learn how to write, package, deploy and run a Kafka Streams applications
+       - Architects who would like to understand how Kafka Streams work and its position in the Kafka-centered data pipeline and enterprise architecture
+       - People who fully understand the basics of Kafka
+       - Java 8 and Scala developers only
 
 1. ) [Apache Kafka Series - Kafka Cluster Setup & Administration](https://www.udemy.com/course/kafka-cluster-setup/)
-  + What you’ll learn
-    - Setup a Zookeeper and Kafka cluster on three machines in AWS
-    - Learn how to deploy Kafka in Production and understand the target architecture for clusters in AWS
-    - Setup ZooKeeper Cluster, learn its role for Kafka and usage
-    - Setup Kafka in Cluster Mode with 3 brokers, including configuration, usage and maintenance
-    - Shutdown and Recover Kafka brokers, to overcome the common Kafka broker problems
-    - Configure Kafka Cluster with production settings and optimisations for better performances based on your workload
-    - Setup web administration tools using Docker: ZooNavigator, Kafka Manager, Confluent Schema Registry, Confluent REST Proxy, Landoop Kafka Topics UI
-    - Administer Kafka using Kafka Manager
-  + Are there any course requirements or prerequisites?
-    - Strong knowledge on Computers, Servers and Networking
-    - Strong knowledge of Linux commands, we will use Ubuntu 16.04
-    - Good knowledge of AWS, we will use it as our cloud provider
-    - Good knowledge of Apache Kafka
-    - An AWS account and a budget to setup the required machines for the course
-  + Who this course is for:
-    - System Administrators or Architects, who would like to learn or setup a Kafka Cluster on multiple servers
-    - Developers who want to understand the inner depth of a Kafka setup
-    - This course is designed for expert students and should not be taken until all the pre-requisites are met
+     + What you’ll learn
+       - Setup a Zookeeper and Kafka cluster on three machines in AWS
+       - Learn how to deploy Kafka in Production and understand the target architecture for clusters in AWS
+       - Setup ZooKeeper Cluster, learn its role for Kafka and usage
+       - Setup Kafka in Cluster Mode with 3 brokers, including configuration, usage and maintenance
+       - Shutdown and Recover Kafka brokers, to overcome the common Kafka broker problems
+       - Configure Kafka Cluster with production settings and optimisations for better performances based on your workload
+       - Setup web administration tools using Docker: ZooNavigator, Kafka Manager, Confluent Schema Registry, Confluent REST Proxy, Landoop Kafka Topics UI
+       - Administer Kafka using Kafka Manager
+     + Are there any course requirements or prerequisites?
+       - Strong knowledge on Computers, Servers and Networking
+       - Strong knowledge of Linux commands, we will use Ubuntu 16.04
+       - Good knowledge of AWS, we will use it as our cloud provider
+       - Good knowledge of Apache Kafka
+       - An AWS account and a budget to setup the required machines for the course
+     + Who this course is for:
+       - System Administrators or Architects, who would like to learn or setup a Kafka Cluster on multiple servers
+       - Developers who want to understand the inner depth of a Kafka setup
+       - This course is designed for expert students and should not be taken until all the pre-requisites are met
 
 1. ) [Apache Kafka Series - Confluent Schema Registry & REST Proxy](https://www.udemy.com/course/confluent-schema-registry/)
-  + What you’ll learn
-    - Write simple and complex Avro Schemas
-    - Create, Write and Read Avro objects in Java
-    - Write a Java Producer and Consumer leveraging Avro data and the Schema Registry
-    - Learn about Schema Evolution
-    - Perform Schema evolution using the command line and in Java
-    - Utilize the REST Proxy using a REST Client
-  + Are there any course requirements or prerequisites?
-    - Good knowledge of Apache Kafka
-    - Some Java knowledge
-    - A recent computer (Windows / Linux / Mac OS X) with 4GB of RAM
-    - Understand JSON data format
-    - Knowledge of REST APIs is better
-  + Who this course is for:
-    - Developers who would like to learn how to write and run an application that leverages Avro and the Schema Registry
-    - Architects who want to understand the role of the Schema Registry and REST Proxy in an enterprise pipeline
-    - This course is intended for people who fully understand the basics of Kafka
-    - People who want to learn the Confluent Components: Schema Registry and REST Proxy
+     + What you’ll learn
+       - Write simple and complex Avro Schemas
+       - Create, Write and Read Avro objects in Java
+       - Write a Java Producer and Consumer leveraging Avro data and the Schema Registry
+       - Learn about Schema Evolution
+       - Perform Schema evolution using the command line and in Java
+       - Utilize the REST Proxy using a REST Client
+     + Are there any course requirements or prerequisites?
+       - Good knowledge of Apache Kafka
+       - Some Java knowledge
+       - A recent computer (Windows / Linux / Mac OS X) with 4GB of RAM
+       - Understand JSON data format
+       - Knowledge of REST APIs is better
+     + Who this course is for:
+       - Developers who would like to learn how to write and run an application that leverages Avro and the Schema Registry
+       - Architects who want to understand the role of the Schema Registry and REST Proxy in an enterprise pipeline
+       - This course is intended for people who fully understand the basics of Kafka
+       - People who want to learn the Confluent Components: Schema Registry and REST Proxy
 
 1. ) Kafka Security (SSL SASL ACL)
 1. ) [Apache Kafka Series - Kafka Monitoring & Operations](https://www.udemy.com/course/kafka-monitoring-and-operations/)
-  + What you’ll learn
-    - Setup a Multi Broker Kafka Cluster in no-time in AWS (using CloudFormation)
-    - Setup Administration Tools such as Kafka Manager, ZooNavigator, LinkedIn's Kafka Monitor
-    - Setup Monitoring using Grafana and Prometheus
-    - Learn how to perform a safe and automated Roll Restart of Kafka Brokers
-    - Update Brokers Configurations in a safe way
-    - Rebalance Partitions in a Kafka Cluster
-    - Increase and Decrease the Replication Factor of Topics
-    - Add a Broker to a Kafka Cluster
-    - Service and Replace a Broker in a Kafka Cluster
-    - Remove a Broker in a Kafka Cluster
-    - Install Command Line Interface (CLI) tools to automate workflows
-    - Upgrade a Kafka Cluster with no downtime
-  + Are there any course requirements or prerequisites?
-    - Kafka Basics + Setup Knowledge
-    - Linux Knowledge
-    - Windows / Linux / MacOS X are ok
-    - Cloud Computing Understanding preferred
-    - No Knowledge of AWS CloudFormation is required
-  + Who this course is for:
-    - Kafka Administrators who want to learn how to setup monitoring
-    - Kafka Administrators who want to learn how to perform Kafka operations
-    - Kafka Administrators who want to learn how to upgrade a Kafka cluster
+     + What you’ll learn
+       - Setup a Multi Broker Kafka Cluster in no-time in AWS (using CloudFormation)
+       - Setup Administration Tools such as Kafka Manager, ZooNavigator, LinkedIn's Kafka Monitor
+       - Setup Monitoring using Grafana and Prometheus
+       - Learn how to perform a safe and automated Roll Restart of Kafka Brokers
+       - Update Brokers Configurations in a safe way
+       - Rebalance Partitions in a Kafka Cluster
+       - Increase and Decrease the Replication Factor of Topics
+       - Add a Broker to a Kafka Cluster
+       - Service and Replace a Broker in a Kafka Cluster
+       - Remove a Broker in a Kafka Cluster
+       - Install Command Line Interface (CLI) tools to automate workflows
+       - Upgrade a Kafka Cluster with no downtime
+     + Are there any course requirements or prerequisites?
+       - Kafka Basics + Setup Knowledge
+       - Linux Knowledge
+       - Windows / Linux / MacOS X are ok
+       - Cloud Computing Understanding preferred
+       - No Knowledge of AWS CloudFormation is required
+     + Who this course is for:
+       - Kafka Administrators who want to learn how to setup monitoring
+       - Kafka Administrators who want to learn how to perform Kafka operations
+       - Kafka Administrators who want to learn how to upgrade a Kafka cluster
