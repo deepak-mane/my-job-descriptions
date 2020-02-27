@@ -257,7 +257,25 @@ Academind by Maximilian Schwarzmüller, Online Education
        - This course is intended for people who fully understand the basics of Kafka
        - People who want to learn the Confluent Components: Schema Registry and REST Proxy
 
-1. ) Kafka Security (SSL SASL ACL)
+1. ) [Apache Kafka Series - Kafka Security (SSL SASL Kerberos ACL)](https://www.udemy.com/course/apache-kafka-security)
+     + What you’ll learn
+       - Setup and use SSL encryption in Kafka
+       - Setup and use SSL authentication in Kafka
+       - Setup and use SASL Kerberos authentication in Kafka
+       - Create and use ACLs in Kafka
+       - Configure Kafka Clients to make them work with security
+       - Configure Zookeeper Security
+     + Are there any course requirements or prerequisites?
+       - Knowledge of Kafka + Setup is necessary
+       - Knowledge of Linux is necessary
+       - Mac / Linux computer or Windows 10 computer with Ubuntu Bash installed
+       - No prior knowledge of SSL, SASL, Kerberos is required
+       - Prior knowledge of AWS is preferred
+     + Who this course is for:
+       - Administrators who want to start setting up Kafka Security
+       - Developers who want to learn which security settings to use in their programs
+       - Solution Architects who want to learn how Kafka Security works
+
 1. ) [Apache Kafka Series - Kafka Monitoring & Operations](https://www.udemy.com/course/kafka-monitoring-and-operations/)
      + What you’ll learn
        - Setup a Multi Broker Kafka Cluster in no-time in AWS (using CloudFormation)
