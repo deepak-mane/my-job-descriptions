@@ -158,16 +158,14 @@ Academind by Maximilian Schwarzmüller, Online Education
   + [Integrate CLI interface to your C/C++ Projects Quickly](https://www.udemy.com/course/clilibrary/)
   + [Networking Coding Projects - Implement TCP/IP Stack in C](https://www.udemy.com/course/tcpipstack/)
 
-### 0045_ApacheKafka
-Stephane Maarek | AWS Certified Solutions Architect & Developer, Best Selling Instructor, Kafka Guru, AWS Certified Developer
-Looking for more advanced Kafka concepts? There are many volumes in the Apache Kafka Series:
-- Learn Kafka for Beginners v2 (this course - great to start)
-- Kafka Connect Hands On Learning
-- Kafka Streams for Data Processing
-- Kafka Cluster Setup & Administration
-- Confluent Schema Registry & Kafka REST Proxy
-- Kafka Security (SSL SASL ACL)
-- Kafka Monitoring and Operations
+### 0045_ApacheKafka (Stephane Maarek | AWS Certified Solutions Architect & Developer, Best Selling Instructor, Kafka Guru, AWS Certified Developer)
+1. )Learn Kafka for Beginners v2 (this course - great to start)
+1. )Kafka Connect Hands On Learning
+1. )Kafka Streams for Data Processing
+1. )Kafka Cluster Setup & Administration
+1. )Confluent Schema Registry & Kafka REST Proxy
+1. )Kafka Security (SSL SASL ACL)
+1. )Kafka Monitoring and Operations
 
 - [Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/course/apache-kafka/)
   + What you’ll learn
