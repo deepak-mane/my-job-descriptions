@@ -34,7 +34,7 @@
 ||Leggett & Platt||LEG|| || |
 ||Arlington Asset Investment||AI| || |
 
-|||||
+|02-27-2020| $13,720.25 | -$727.37 | (-5.03%) |
 |---|---|---|---|
 |BTI |30 Shares |$42.53 |+3.61%|
 |ABBV |50 Shares |$88.18 |-1.12%|
