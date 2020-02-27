@@ -158,7 +158,7 @@ Academind by Maximilian Schwarzmüller, Online Education
   + [Integrate CLI interface to your C/C++ Projects Quickly](https://www.udemy.com/course/clilibrary/)
   + [Networking Coding Projects - Implement TCP/IP Stack in C](https://www.udemy.com/course/tcpipstack/)
 
-### 0045_ApacheKafka (Stephane Maarek | AWS Certified Solutions Architect & Developer, Best Selling Instructor, Kafka Guru, AWS Certified Developer)
+### 0045_ApacheKafka (By Stephane Maarek | AWS Certified Solutions Architect & Developer)
 1. ) [Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/course/apache-kafka/)
      + What you’ll learn
        - Understand Apache Kafka Ecosystem, Architecture, Core Concepts and Operations
