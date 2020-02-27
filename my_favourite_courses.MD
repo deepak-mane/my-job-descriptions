@@ -161,7 +161,7 @@ Academind by Maximilian Schwarzmüller, Online Education
 ### 0045_ApacheKafka (Stephane Maarek | AWS Certified Solutions Architect & Developer, Best Selling Instructor, Kafka Guru, AWS Certified Developer)
 1. ) [Apache Kafka Series - Learn Apache Kafka for Beginners v2](https://www.udemy.com/course/apache-kafka/)
      + What you’ll learn
-    - Understand Apache Kafka Ecosystem, Architecture, Core Concepts and Operations
+       - Understand Apache Kafka Ecosystem, Architecture, Core Concepts and Operations
     - Master Concepts such as Topics, Partitions, Brokers, Producers, Consumers
     - Start a personal Kafka development environment
     - Learn major CLIs: kafka-topics, kafka-console-producer, kafka-console-consumer, kafka-consumer-groups, kafka-configs
