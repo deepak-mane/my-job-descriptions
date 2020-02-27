@@ -34,6 +34,21 @@
 ||Leggett & Platt||LEG|| || |
 ||Arlington Asset Investment||AI| || |
 
+|||||
+|---|---|---|---|
+|BTI |30 Shares |$42.53 |+3.61%|
+|ABBV |50 Shares |$88.18 |-1.12%|
+|FTS |10 Shares |$43.23 |-0.71%|
+|LEG |10 Shares |$40.71 |-1.97%|
+|CNQ |10 Shares |$26.87 |-2.64%|
+|EMR |9 Shares |$66.63 |+0.05%|
+|CL |10 Shares |$72.92 |-1.19%|
+|AI |303 Shares |$6.28 |+0.64%|
+|VGR |80 Shares |$12.43 |-1.11%|
+|STOR |48 Shares |$36.41 |-1.73%|
+|AMD |20 Shares |$46.90 |-1.41%|
+
+
 ## Voya
 | Sector | Stocks Name |  Founded | Symbol  | Div amount|	Div yield|	Ex-div date|	P/E|
 |---|---|---|---|---|---|---|---|
