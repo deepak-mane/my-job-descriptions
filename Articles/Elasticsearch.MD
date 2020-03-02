@@ -16,12 +16,14 @@ sudo apt-get update && sudo apt-get install elasticsearch
 ```sh
 sudo vi /etc/elasticsearch/elasticsearch.yml
 Update below fields
-sudo grep -v '^$\|^\s*#' /etc/elasticsearch/elasticsearch.yml
+deeros@deeros:~$ sudo grep -v '^$\|^\s*#' /etc/elasticsearch/elasticsearch.yml
+node.name: node-1
 path.data: /var/lib/elasticsearch
 path.logs: /var/log/elasticsearch
 network.host: 0.0.0.0 
 discovery.seed_hosts: ["127.0.0.1"]
 cluster.initial_master_nodes: ["node-1"]
+deeros@deeros:~$ 
 ```
 - To Start/Enable Service
 ```sh
