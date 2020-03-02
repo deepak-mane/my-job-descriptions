@@ -106,4 +106,51 @@ curl -H "Content-Type: application/json" -XPUT 127.0.0.1"9200/shakespeare --data
 
 1. ```curl -H "Content-Type: application/json" -XPUT 127.0.0.1:9200/shakespeare --data-binary @shakes-mapping.json```
 2. ```curl -H "Content-Type: application/json" -XPOST '127.0.0.1:9200/shakespeare/_bulk' --data-binary @shakespeare_7.0.json```
+3. 
+```curl -H "Content-Type: application/json" -XGET '127.0.0.1:9200/shakespeare/_search?pretty' -d '
+{
+"query" : {
+"match_phrase" : {
+"text_entry" : "to be or not to be"
+}
+}
+}'
+
+Repsonse, you should get:
+{
+  "took" : 83,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 1,
+      "relation" : "eq"
+    },
+    "max_score" : 13.889601,
+    "hits" : [
+      {
+        "_index" : "shakespeare",
+        "_type" : "_doc",
+        "_id" : "34229",
+        "_score" : 13.889601,
+        "_source" : {
+          "type" : "line",
+          "line_id" : 34230,
+          "play_name" : "Hamlet",
+          "speech_number" : 19,
+          "line_number" : "3.1.64",
+          "speaker" : "HAMLET",
+          "text_entry" : "To be, or not to be: that is the question:"
+        }
+      }
+    ]
+  }
+}
+
+```
 
