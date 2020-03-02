@@ -54,4 +54,20 @@ deeros@deeros:~$ curl -XGET 127.0.0.1:9200
 }
 deeros@deeros:~$ 
 ```
+- To Download the works of Shakespear to use it for our testing
+```sh
+wget http://media.sundog-soft.com/es7/shakes-mapping.json
+--2020-03-02 08:01:14--  http://media.sundog-soft.com/es7/shakes-mapping.json
+Resolving media.sundog-soft.com (media.sundog-soft.com)... 52.216.10.75
+Connecting to media.sundog-soft.com (media.sundog-soft.com)|52.216.10.75|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 215 [application/octet-stream]
+Saving to: ‘shakes-mapping.json’
+
+shakes-mapping.json  100%[=====================>]     215  --.-KB/s    in 0s      
+
+2020-03-02 08:01:15 (12.8 MB/s) - ‘shakes-mapping.json’ saved [215/215]
+
+deeros@deeros:~$ 
+
 
