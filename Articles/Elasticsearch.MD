@@ -69,5 +69,11 @@ shakes-mapping.json  100%[=====================>]     215  --.-KB/s    in 0s
 2020-03-02 08:01:15 (12.8 MB/s) - ‘shakes-mapping.json’ saved [215/215]
 
 deeros@deeros:~$ 
+```
+- To use it for searching
+```sh
+curl -H "Content-Type: application/json" -XPUT 127.0.0.1"9200/shakespeare --data-binary @shakes-mapping.json
+```
+
 
 
