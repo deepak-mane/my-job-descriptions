@@ -31,6 +31,10 @@ Synchronizing state of elasticsearch.service with SysV service script with /lib/
 Executing: /lib/systemd/systemd-sysv-install enable elasticsearch
 Created symlink /etc/systemd/system/multi-user.target.wants/elasticsearch.service → /usr/lib/systemd/system/elasticsearch.service.
 deeros@deeros:~$ sudo /bin/systemctl start elasticsearch.service
+
+# To start elastic search use the below command:
+sudo systemctl start elasticsearch.service
+
 ```
 - To Test Elasticsearch is working
 ```sh
