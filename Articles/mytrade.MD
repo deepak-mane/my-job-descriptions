@@ -3,34 +3,34 @@
 
 |LOC	|Sector	|Stocks Name	|Founded	|Symbol	|Div yield	|P/E	|Hist Price	|Purchase price	|TargetQty	|PresentQty|
 |---|---|---|---|---|---|---|---|---|---|---|
-|TDAmeritrade	|Banking	|Bank of America	|1904	|BAC	|2.5	|10.31	|30.63	|$25.44 	|52.0	|1|
-|TDAmeritrade	|Manufacturing	|Caterpillar	|1925	|CAT	|3.2	|11.87	|128.25	|$119.00 	|5.0|	1|
-|TDAmeritrade	|Transportation	|Canadian National Railway	|1919	|CNI	|2.0	|19.95	|88.46	|$85.05 	|7.0	|1|
-|TDAmeritrade	|Consumer Staples	|Costco Wholesale	|1983	|COST	|0.8	|38.02	|305.69	|$303.69 	|6.0	|1|
-|TDAmeritrade	|Information Technology	|Cisco Systems	|1984	|CSCO	|3.5	|16.2	|42.16	|$38.96 	|40.0	|1|
-|TDAmeritrade	|Energy	|Ecolab	|1923	|ECL	|0.9	|37.32	|194.43	|$190.30 	|3.0	|1|
-|TDAmeritrade	|Industrials	|General Electric	|1878	|GE	0.4	|136.77	|10.95	$9.20 	|58.0	|1|
-|TDAmeritrade	|Consumer Discretionary	|General Motors	|1908	|GM	4.8	|6.89	|32	|$28.67 	|19.0	|1|
-|TDAmeritrade	|Information Technology	|Intel Corp	|1968	|INTC	|2.3	|12.47	|59.65	|$54.84 	|36.0	|1|
-|TDAmeritrade	|Consumer Staples	|Kraft Heinz Co	|2015	|KHC	|6.1	|16.86	|25.64	|$25.67 	|25.0	|1|
-|TDAmeritrade	|Consumer Discretionary	|McDonald's Corp	|1955	|MCD	|2.4	|25.18	|210.1	|$192.68 	|6.0	|1|
-|TDAmeritrade	|Information Technology	|Microsoft Corp	|1975	|MSFT	|1.2	|29.69	|170.17	|$156.86 	|4.0	|1|
-|TDAmeritrade	|Oil	|Occidental Petroleum	|1920	|OXY	|9.6	|0	|34.22	|$26.67 	|18.0	|1|
-|TDAmeritrade	|Pharmaceutical	|Pfizer Inc	|1849	|PFE	|4.2	|12.69	|34.72	|$34.26 	|46.0	|1|
-|TDAmeritrade	|Communication	|AT&T	|1983	|T	|5.5	|20.15	|37.1	|$36.28 	|28.0	|1|
-|TDAmeritrade	|Logistics	|UPS	|1907	|UPS	|4.2	|18.75	|93.73	|$92.50 |6.0|	1|
-|TDAmeritrade	|Industrials	|Waste Management	|1987	|WM	|1.8	|30.15	|120.93	|$114.00 	|5.0	|1|
-|Robinhood	|Pharmaceutical	|AbbVie Inc	|2011	|ABBV	|5.1	|17.36	|$88.18 	|$87.84 	|50	|1|
-|Robinhood	|Manufacturing	|Advanced Micro Devices	|1969	|AMD	|0.0	|164	|$46.90 	|$47.19 	|20	|1|
-|Robinhood	|REIT	|Arlington Asset Investment	|1989	|AI	14.9	|19.43	|$6.28 	|$5.57 	|303	|1|
-|Robinhood	|Consumer Staples	|British American Tobacco	|1997	|BTI	|6.4	|13.19	|$42.53 	|$40.51 	|30	|1|
-|Robinhood	|Consumer Staples	|Colgate	|1806	|CL	|2.3	|27.42	|$72.92 	|$22.57 	|10	|1|
-|Robinhood	|Energy	Canadian |Natural Resource	|1973	|CNQ	|4.7	|9.53	|$26.87 	|$71.55 	|10	|1|
-|Robinhood	|Engineering	|Emerson	|1890	|EMR	|3.0	|18.48	|$66.63 	|$62.08 	|9	|1|
-|Robinhood	|Utilities	|Fortis	|1885	|FTS	|3.3	|15.19	|$43.23 	|$43.41 	|10	|1|
-|Robinhood	|Consumer Discretionary	|Leggett & Platt	|1883	|LEG	|4.0	|15.52	|$40.71 	|$37.26 |10	|1|
-|Robinhood	|REIT	|STORE Capital	|2011	|STOR	|4.1	|27.56	|$36.41 	|$31.83 	|48	|1|
-|Robinhood	|Consumer Staples	|Vector Group	|1980	|VGR	|13.8	|18.48	|$12.43 	|$11.49 	|80	|1|
+|TDA	|BANK	|Bank of America	|1904	|BAC	|2.5	|10.31	|30.63	|$25.44 	|52.0	|1|
+|TDA	|MFG	|Caterpillar	|1925	|CAT	|3.2	|11.87	|128.25	|$119.00 	|5.0|	1|
+|TDA	|TRANS	|Canadian National Railway	|1919	|CNI	|2.0	|19.95	|88.46	|$85.05 	|7.0	|1|
+|TDA	|CSTAPLES	|Costco Wholesale	|1983	|COST	|0.8	|38.02	|305.69	|$303.69 	|6.0	|1|
+|TDA	|IT	|Cisco Systems	|1984	|CSCO	|3.5	|16.2	|42.16	|$38.96 	|40.0	|1|
+|TDA	|ENERGY	|Ecolab	|1923	|ECL	|0.9	|37.32	|194.43	|$190.30 	|3.0	|1|
+|TDA	|INDUSTRIALS	|General Electric	|1878	|GE	0.4	|136.77	|10.95	$9.20 	|58.0	|1|
+|TDA	|CDISCRET	|General Motors	|1908	|GM	4.8	|6.89	|32	|$28.67 	|19.0	|1|
+|TDA	|IT	|Intel Corp	|1968	|INTC	|2.3	|12.47	|59.65	|$54.84 	|36.0	|1|
+|TDA	|CSTAPLES	|Kraft Heinz Co	|2015	|KHC	|6.1	|16.86	|25.64	|$25.67 	|25.0	|1|
+|TDA	|CDISCRET	|McDonald's Corp	|1955	|MCD	|2.4	|25.18	|210.1	|$192.68 	|6.0	|1|
+|TDA	|IT	|Microsoft Corp	|1975	|MSFT	|1.2	|29.69	|170.17	|$156.86 	|4.0	|1|
+|TDA	|Oil	|Occidental Petroleum	|1920	|OXY	|9.6	|0	|34.22	|$26.67 	|18.0	|1|
+|TDA	|PHARMA	|Pfizer Inc	|1849	|PFE	|4.2	|12.69	|34.72	|$34.26 	|46.0	|1|
+|TDA	|COMM	|AT&T	|1983	|T	|5.5	|20.15	|37.1	|$36.28 	|28.0	|1|
+|TDA	|LOGISTICS	|UPS	|1907	|UPS	|4.2	|18.75	|93.73	|$92.50 |6.0|	1|
+|TDA	|INDUSTRIALS	|Waste Management	|1987	|WM	|1.8	|30.15	|120.93	|$114.00 	|5.0	|1|
+|RH	|PHARMA	|AbbVie Inc	|2011	|ABBV	|5.1	|17.36	|$88.18 	|$87.84 	|50	|1|
+|RH	|MFG	|Advanced Micro Devices	|1969	|AMD	|0.0	|164	|$46.90 	|$47.19 	|20	|1|
+|RH	|REIT	|Arlington Asset Investment	|1989	|AI	14.9	|19.43	|$6.28 	|$5.57 	|303	|1|
+|RH	|CSTAPLES	|British American Tobacco	|1997	|BTI	|6.4	|13.19	|$42.53 	|$40.51 	|30	|1|
+|RH	|CSTAPLES	|Colgate	|1806	|CL	|2.3	|27.42	|$72.92 	|$22.57 	|10	|1|
+|RH	|ENERGY	|Canadian Natural Resource	|1973	|CNQ	|4.7	|9.53	|$26.87 	|$71.55 	|10	|1|
+|RH	|ENGG	|Emerson	|1890	|EMR	|3.0	|18.48	|$66.63 	|$62.08 	|9	|1|
+|RH	|Utilities	|Fortis	|1885	|FTS	|3.3	|15.19	|$43.23 	|$43.41 	|10	|1|
+|RH	|CDISCRET	|Leggett & Platt	|1883	|LEG	|4.0	|15.52	|$40.71 	|$37.26 |10	|1|
+|RH	|REIT	|STORE Capital	|2011	|STOR	|4.1	|27.56	|$36.41 	|$31.83 	|48	|1|
+|RH	|CSTAPLES	|Vector Group	|1980	|VGR	|13.8	|18.48	|$12.43 	|$11.49 	|80	|1|
 
 
 
