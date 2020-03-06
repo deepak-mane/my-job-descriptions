@@ -9,7 +9,7 @@
 |TDA	|MFG	|Caterpillar	|3.2	|11.87	|128.25	|$119.00 	|5.0|	
 |RH	|MFG	|Advanced Micro Devices	|0.0	|164	|$46.90 	|$47.19 	|20	|
 |TDA	|IT	|Cisco Systems	|3.5	|16.2	|42.16	|$38.96 	|40.0	|
-|TDA	|IT	|Intel Corp	|12.47	|59.65	|$54.84 	|36.0	|
+|TDA	|IT	|Intel Corp	|2.3 |12.47	|59.65	|$54.84 	|36.0	|
 |TDA	|IT	|Microsoft Corp	|1.2	|29.69	|170.17	|$156.86 	|4.0	|
 |RH	|CSTAPLES	|Vector Group	|13.8	|18.48	|$12.43 	|$11.49 	|80	|
 |RH	|CSTAPLES	|British American Tobacco	|6.4	|13.19	|$42.53 	|$40.51 	|30	|
