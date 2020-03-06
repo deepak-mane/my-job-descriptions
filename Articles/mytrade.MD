@@ -28,9 +28,9 @@
 |RH	|UTILITIES	|Fortis	|3.3	|15.19	|$43.23 	|$43.41 	|10	|
 |TDA	|COMM	|AT&T	|5.5	|20.15	|37.1	|$36.28 	|28.0	|
 |TDA	|LOGISTICS	|UPS	|4.2	|18.75	|93.73	|$92.50 |6.0|	
-|TDA	|TRANS	|Canadian National Railway	|2.0	|19.95	|88.46	|$85.05 	|7.0	|
+|TDA	|TRANS	|Canadian National Rai|2.0	|19.95	|88.46	|$85.05 	|7.0	|
 |RH	|REIT	|STORE Capital	|4.1	|27.56	|$36.41 	|$31.83 	|48	|
-|RH	|REIT	|Arlington Asset Investment	|14.9	|19.43	|$6.28 	|$5.57 	|303	|
+|RH	|REIT	|Arlington Asset Inv	|14.9	|19.43	|$6.28 	|$5.57 	|303	|
 
 
 |02-27-2020| $13,000.00 | $13,720.25 | (-5.03%)Prev Day |$13,194.27 | -$504.88 (-3.69%) Today|
