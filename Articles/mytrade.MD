@@ -15,7 +15,7 @@
 |TDA	|CSTAPLES	|Kraft Heinz Co	|6.1	|16.86	|25.64	|$25.67 	|25.0	|
 |TDA	|CDISCRET	|McDonald's Corp	|2.4	|25.18	|210.1	|$192.68 	|6.0	|
 |TDA	|IT	|Microsoft Corp	|1.2	|29.69	|170.17	|$156.86 	|4.0	|
-|TDA	|OIL	|Occidental Petroleum	|1920	|OXY	|9.6	|0	|34.22	|$26.67 	|18.0	|
+|TDA	|OIL	|Occidental Petroleum	|9.6	|0	|34.22	|$26.67 	|18.0	|
 |TDA	|PHARMA	|Pfizer Inc	|4.2	|12.69	|34.72	|$34.26 	|46.0	|
 |TDA	|COMM	|AT&T	|5.5	|20.15	|37.1	|$36.28 	|28.0	|
 |TDA	|LOGISTICS	|UPS	|4.2	|18.75	|93.73	|$92.50 |6.0|	
