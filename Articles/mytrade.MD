@@ -11,7 +11,7 @@
 |TDA	|ENERGY	|Ecolab	|0.9	|37.32	|194.43	|$190.30 	|3.0	|
 |TDA	|INDUSTRIALS	|General Electric	|	0.4	|136.77	|10.95	$9.20 	|58.0	|
 |TDA	|CDISCRET	|General Motors	|4.8	|6.89	|32	|$28.67 	|19.0	|
-|TDA	|IT	|Intel Corp	|1968	|12.47	|59.65	|$54.84 	|36.0	|
+|TDA	|IT	|Intel Corp	|12.47	|59.65	|$54.84 	|36.0	|
 |TDA	|CSTAPLES	|Kraft Heinz Co	|6.1	|16.86	|25.64	|$25.67 	|25.0	|
 |TDA	|CDISCRET	|McDonald's Corp	|2.4	|25.18	|210.1	|$192.68 	|6.0	|
 |TDA	|IT	|Microsoft Corp	|1.2	|29.69	|170.17	|$156.86 	|4.0	|
