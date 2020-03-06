@@ -1,36 +1,36 @@
 # My Investment Interests
 
 
-|LOC	|Sector	|Stocks Name	|Founded	|Symbol	|Div yield	|P/E	|Hist Price	|Purchase price	|TargetQty	|
-|---|---|---|---|---|---|---|---|---|---|
-|TDA	|BANK	|Bank of America	|1904	|BAC	|2.5	|10.31	|30.63	|$25.44 	|52.0	|
-|TDA	|MFG	|Caterpillar	|1925	|CAT	|3.2	|11.87	|128.25	|$119.00 	|5.0|	
-|TDA	|TRANS	|Canadian National Railway	|1919	|CNI	|2.0	|19.95	|88.46	|$85.05 	|7.0	|
-|TDA	|CSTAPLES	|Costco Wholesale	|1983	|COST	|0.8	|38.02	|305.69	|$303.69 	|6.0	|
-|TDA	|IT	|Cisco Systems	|1984	|CSCO	|3.5	|16.2	|42.16	|$38.96 	|40.0	|
-|TDA	|ENERGY	|Ecolab	|1923	|ECL	|0.9	|37.32	|194.43	|$190.30 	|3.0	|
-|TDA	|INDUSTRIALS	|General Electric	|1878	|GE	0.4	|136.77	|10.95	$9.20 	|58.0	|
-|TDA	|CDISCRET	|General Motors	|1908	|GM	4.8	|6.89	|32	|$28.67 	|19.0	|
-|TDA	|IT	|Intel Corp	|1968	|INTC	|2.3	|12.47	|59.65	|$54.84 	|36.0	|
-|TDA	|CSTAPLES	|Kraft Heinz Co	|2015	|KHC	|6.1	|16.86	|25.64	|$25.67 	|25.0	|
-|TDA	|CDISCRET	|McDonald's Corp	|1955	|MCD	|2.4	|25.18	|210.1	|$192.68 	|6.0	|
-|TDA	|IT	|Microsoft Corp	|1975	|MSFT	|1.2	|29.69	|170.17	|$156.86 	|4.0	|
+|LOC	|Sector	|Stocks Name	||Div yield	|P/E	|Hist Price	|Purchase price	|TargetQty	|
+|---|---|---|---|---|---|---|---|
+|TDA	|BANK	|Bank of America	|2.5	|10.31	|30.63	|$25.44 	|52.0	|
+|TDA	|MFG	|Caterpillar	|3.2	|11.87	|128.25	|$119.00 	|5.0|	
+|TDA	|TRANS	|Canadian National Railway	|2.0	|19.95	|88.46	|$85.05 	|7.0	|
+|TDA	|CSTAPLES	|Costco Wholesale	|0.8	|38.02	|305.69	|$303.69 	|6.0	|
+|TDA	|IT	|Cisco Systems	|3.5	|16.2	|42.16	|$38.96 	|40.0	|
+|TDA	|ENERGY	|Ecolab	|0.9	|37.32	|194.43	|$190.30 	|3.0	|
+|TDA	|INDUSTRIALS	|General Electric	|	0.4	|136.77	|10.95	$9.20 	|58.0	|
+|TDA	|CDISCRET	|General Motors	|4.8	|6.89	|32	|$28.67 	|19.0	|
+|TDA	|IT	|Intel Corp	|1968	|12.47	|59.65	|$54.84 	|36.0	|
+|TDA	|CSTAPLES	|Kraft Heinz Co	|6.1	|16.86	|25.64	|$25.67 	|25.0	|
+|TDA	|CDISCRET	|McDonald's Corp	|2.4	|25.18	|210.1	|$192.68 	|6.0	|
+|TDA	|IT	|Microsoft Corp	|1.2	|29.69	|170.17	|$156.86 	|4.0	|
 |TDA	|Oil	|Occidental Petroleum	|1920	|OXY	|9.6	|0	|34.22	|$26.67 	|18.0	|
-|TDA	|PHARMA	|Pfizer Inc	|1849	|PFE	|4.2	|12.69	|34.72	|$34.26 	|46.0	|
-|TDA	|COMM	|AT&T	|1983	|T	|5.5	|20.15	|37.1	|$36.28 	|28.0	|
-|TDA	|LOGISTICS	|UPS	|1907	|UPS	|4.2	|18.75	|93.73	|$92.50 |6.0|	
-|TDA	|INDUSTRIALS	|Waste Management	|1987	|WM	|1.8	|30.15	|120.93	|$114.00 	|5.0	|
-|RH	|PHARMA	|AbbVie Inc	|2011	|ABBV	|5.1	|17.36	|$88.18 	|$87.84 	|50	|
-|RH	|MFG	|Advanced Micro Devices	|1969	|AMD	|0.0	|164	|$46.90 	|$47.19 	|20	|
-|RH	|REIT	|Arlington Asset Investment	|1989	|AI	|14.9	|19.43	|$6.28 	|$5.57 	|303	|
-|RH	|CSTAPLES	|British American Tobacco	|1997	|BTI	|6.4	|13.19	|$42.53 	|$40.51 	|30	|
-|RH	|CSTAPLES	|Colgate	|1806	|CL	|2.3	|27.42	|$72.92 	|$22.57 	|10	|
-|RH	|ENERGY	|Canadian Natural Resource	|1973	|CNQ	|4.7	|9.53	|$26.87 	|$71.55 	|10	|
-|RH	|ENGG	|Emerson	|1890	|EMR	|3.0	|18.48	|$66.63 	|$62.08 	|9	|
-|RH	|Utilities	|Fortis	|1885	|FTS	|3.3	|15.19	|$43.23 	|$43.41 	|10	|
-|RH	|CDISCRET	|Leggett & Platt	|1883	|LEG	|4.0	|15.52	|$40.71 	|$37.26 |10	|
-|RH	|REIT	|STORE Capital	|2011	|STOR	|4.1	|27.56	|$36.41 	|$31.83 	|48	|
-|RH	|CSTAPLES	|Vector Group	|1980	|VGR	|13.8	|18.48	|$12.43 	|$11.49 	|80	|
+|TDA	|PHARMA	|Pfizer Inc	|4.2	|12.69	|34.72	|$34.26 	|46.0	|
+|TDA	|COMM	|AT&T	|5.5	|20.15	|37.1	|$36.28 	|28.0	|
+|TDA	|LOGISTICS	|UPS	|4.2	|18.75	|93.73	|$92.50 |6.0|	
+|TDA	|INDUSTRIALS	|Waste Management	|1.8	|30.15	|120.93	|$114.00 	|5.0	|
+|RH	|PHARMA	|AbbVie Inc	|5.1	|17.36	|$88.18 	|$87.84 	|50	|
+|RH	|MFG	|Advanced Micro Devices	|0.0	|164	|$46.90 	|$47.19 	|20	|
+|RH	|REIT	|Arlington Asset Investment	|14.9	|19.43	|$6.28 	|$5.57 	|303	|
+|RH	|CSTAPLES	|British American Tobacco	|6.4	|13.19	|$42.53 	|$40.51 	|30	|
+|RH	|CSTAPLES	|Colgate	|2.3	|27.42	|$72.92 	|$22.57 	|10	|
+|RH	|ENERGY	|Canadian Natural Resource	|4.7	|9.53	|$26.87 	|$71.55 	|10	|
+|RH	|ENGG	|Emerson	|3.0	|18.48	|$66.63 	|$62.08 	|9	|
+|RH	|Utilities	|Fortis	|3.3	|15.19	|$43.23 	|$43.41 	|10	|
+|RH	|CDISCRET	|Leggett & Platt	|4.0	|15.52	|$40.71 	|$37.26 |10	|
+|RH	|REIT	|STORE Capital	|4.1	|27.56	|$36.41 	|$31.83 	|48	|
+|RH	|CSTAPLES	|Vector Group	|13.8	|18.48	|$12.43 	|$11.49 	|80	|
 
 ## TDAmeritrade
 | Sector | Stocks Name |  Founded | Symbol  | Div amount|	Div yield|	Ex-div date|	P/E|
