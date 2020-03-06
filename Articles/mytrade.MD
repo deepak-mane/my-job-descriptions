@@ -24,7 +24,7 @@
 |RH	|ENGG	|Emerson	|3.0	|18.48	|$66.63 	|$62.08 	|9	|
 |TDA	|OIL	|Occidental Petroleum	|9.6	|0	|34.22	|$26.67 	|18.0	|
 |TDA	|ENERGY	|Ecolab	|0.9	|37.32	|194.43	|$190.30 	|3.0	|
-|RH	|ENERGY	|Canadian Natural Resource	|4.7	|9.53	|$26.87 	|$71.55 	|10	|
+|RH	|ENERGY	|Canadian Natural Res|4.7	|9.53	|$26.87 	|$71.55 	|10	|
 |RH	|UTILITIES	|Fortis	|3.3	|15.19	|$43.23 	|$43.41 	|10	|
 |TDA	|COMM	|AT&T	|5.5	|20.15	|37.1	|$36.28 	|28.0	|
 |TDA	|LOGISTICS	|UPS	|4.2	|18.75	|93.73	|$92.50 |6.0|	
