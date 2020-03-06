@@ -15,7 +15,7 @@
 |TDA	|CSTAPLES	|Kraft Heinz Co	|6.1	|16.86	|25.64	|$25.67 	|25.0	|
 |TDA	|CDISCRET	|McDonald's Corp	|2.4	|25.18	|210.1	|$192.68 	|6.0	|
 |TDA	|IT	|Microsoft Corp	|1.2	|29.69	|170.17	|$156.86 	|4.0	|
-|TDA	|Oil	|Occidental Petroleum	|1920	|OXY	|9.6	|0	|34.22	|$26.67 	|18.0	|
+|TDA	|OIL	|Occidental Petroleum	|1920	|OXY	|9.6	|0	|34.22	|$26.67 	|18.0	|
 |TDA	|PHARMA	|Pfizer Inc	|4.2	|12.69	|34.72	|$34.26 	|46.0	|
 |TDA	|COMM	|AT&T	|5.5	|20.15	|37.1	|$36.28 	|28.0	|
 |TDA	|LOGISTICS	|UPS	|4.2	|18.75	|93.73	|$92.50 |6.0|	
@@ -27,7 +27,7 @@
 |RH	|CSTAPLES	|Colgate	|2.3	|27.42	|$72.92 	|$22.57 	|10	|
 |RH	|ENERGY	|Canadian Natural Resource	|4.7	|9.53	|$26.87 	|$71.55 	|10	|
 |RH	|ENGG	|Emerson	|3.0	|18.48	|$66.63 	|$62.08 	|9	|
-|RH	|Utilities	|Fortis	|3.3	|15.19	|$43.23 	|$43.41 	|10	|
+|RH	|UTILITIES	|Fortis	|3.3	|15.19	|$43.23 	|$43.41 	|10	|
 |RH	|CDISCRET	|Leggett & Platt	|4.0	|15.52	|$40.71 	|$37.26 |10	|
 |RH	|REIT	|STORE Capital	|4.1	|27.56	|$36.41 	|$31.83 	|48	|
 |RH	|CSTAPLES	|Vector Group	|13.8	|18.48	|$12.43 	|$11.49 	|80	|
