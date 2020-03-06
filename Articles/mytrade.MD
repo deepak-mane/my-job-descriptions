@@ -9,7 +9,7 @@
 |TDA	|CSTAPLES	|Costco Wholesale	|0.8	|38.02	|305.69	|$303.69 	|6.0	|
 |TDA	|IT	|Cisco Systems	|3.5	|16.2	|42.16	|$38.96 	|40.0	|
 |TDA	|ENERGY	|Ecolab	|0.9	|37.32	|194.43	|$190.30 	|3.0	|
-|TDA	|INDUSTRIALS	|General Electric	|	0.4	|136.77	|10.95	$9.20 	|58.0	|
+|TDA	|INDUSTRIALS	|General Electric	|	0.4	|136.77	|10.95	|$9.20 	|58.0	|
 |TDA	|CDISCRET	|General Motors	|4.8	|6.89	|32	|$28.67 	|19.0	|
 |TDA	|IT	|Intel Corp	|12.47	|59.65	|$54.84 	|36.0	|
 |TDA	|CSTAPLES	|Kraft Heinz Co	|6.1	|16.86	|25.64	|$25.67 	|25.0	|
