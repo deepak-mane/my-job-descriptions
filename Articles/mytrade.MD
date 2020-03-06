@@ -1,7 +1,7 @@
 # My Investment Interests
 
 
-|LOC	|Sector	|Stocks Name	||Div yield	|P/E	|Hist Price	|Purchase price	|TargetQty	|
+|LOC	|Sector	|Stocks Name	|Div yield	|P/E	|Hist Price	|Purchase price	|TargetQty	|
 |---|---|---|---|---|---|---|---|
 |TDA	|BANK	|Bank of America	|2.5	|10.31	|30.63	|$25.44 	|52.0	|
 |TDA	|MFG	|Caterpillar	|3.2	|11.87	|128.25	|$119.00 	|5.0|	
