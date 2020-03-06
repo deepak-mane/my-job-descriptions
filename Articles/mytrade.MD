@@ -2,7 +2,7 @@
 
 
 |LOC	|Sector	|Stocks Name	|Founded	|Symbol	|Div yield	|P/E	|Hist Price	|Purchase price	|TargetQty	|PresentQty|
-|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|
 |TDAmeritrade	|Banking	|Bank of America	|1904	|BAC	|2.5	|10.31	|30.63	|$25.44 	|52.0	|1|
 |TDAmeritrade	|Manufacturing	|Caterpillar	|1925	|CAT	|3.2	|11.87	|128.25	|$119.00 	|5.0|	1|
 |TDAmeritrade	|Transportation	|Canadian National Railway	|1919	|CNI	|2.0	|19.95	|88.46	|$85.05 	|7.0	|1|
