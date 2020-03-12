@@ -61,16 +61,16 @@
 ### Senior Software Engineer, Automated Driving (VSPIRIT)
 - AUTOMATED DRIVING – VEHICLE SOFTWARE PLATFORM & ROBUST INTEGRATIONFULL-TIME [Toyota Research Institute,Los Altos, CA 94022]
   + Responsibilities
-    - Collaborate with other software engineers and research scientists to develop and maintain tools and algorithms for use within the automated driving vehicle effort.
+    - Collaborate with other software engineers and research scientists __to develop and maintain tools and algorithms for use within the automated driving vehicle effort.__
     - Collaborate with researchers throughout TRI to help disseminate sound software engineering practices.
     - Work with and between multiple technical teams to understand and ensure complete system functionality.
     - Participate in system design including characterization of module functionality and requirements as a component within a complex real-time software system.
-    - Live and breathe the software practices that produce maintainable code, including automated testing, continuous integration, code style conformity, and code review.
+    - Live and breathe the software practices that produce maintainable code, including __automated testing, continuous integration, code style conformity, and code review.__
   + Qualifications:
-    - 4+years of professional experience working with C++ and Linux
+    - 4+years of professional experience working with __C++ and Linux__
     - You have strong communication skills and are an extraordinary teammate.
     - Strong understanding of common software performance issues and trade offs.
-    - Deep understanding of real-time, distributed, and parallel computing.
-    - Familiarity with automated testing practices.
-    - Experience in Robotics, AI, or Machine Learning a plus.
+    - Deep understanding of __real-time, distributed, and parallel computing.__
+    - Familiarity with __automated testing practices.__
+    - Experience in __*Robotics, AI, or Machine Learning a plus.*__
 
