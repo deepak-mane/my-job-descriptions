@@ -38,4 +38,24 @@
   - 5+ years of experience with modern C++ SW design and development, and unit testing
   - 5+ years of experience with multi-threaded / multi-core SW development and design with Linux and/or QNX
   - 5+ years of experience with modern source code management tools: Git, Git-LFS, Git-Repo, Github/Gitlab
+  
+  
+### Software Engineer, Simulation, Automated Driving
+- Software Engineer - Autonomous Driving [Toyota Research Institute,Los Altos, CA 94022]
+  + Responsibilities
+    - Collaborate with other software engineers and research scientists to develop and maintain physically accurate sensor models,
+    - __Integrate__ our system software with __LIDARs, RADARs, cameras, IMUs and GPS__ units,
+    - Develop tools and techniques that facilitate the authoring of realistic 3D environments and agent behaviors,
+    - Develop software to perform photorealistic rendering of large-scale, complex 3D scenes,
+    - Resolve problems and propose solutions with and between multiple technical teams to improve, understand and ensure complete system functionality, and
+    - Live, breathe and lead in the development of software practices that produce maintainable code, including automated testing, continuous integration, code style conformity, and code review.
+  + Qualifications
+    - 4+years of progressive experience in related position.
+    - Bachelor's degree in Computer Science or equivalent.
+    - __Strong C++__ software development skills.
+    - Experience with modern real-time rendering techniques in __OpenGL or Direct3D.__
+    - Strong math skills including proficiency in geometry and linear algebra.
+    - Experience with game development including commercial game engines such as __Unity or Unreal__ is helpful.
+    - Experience with __WebGL__ and web development a plus. Experience with cloud compute a plus.
+
 
