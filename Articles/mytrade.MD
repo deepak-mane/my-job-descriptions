@@ -1,36 +1,36 @@
 # My Investment Interests
 
 
-|LOC	|Sector	|Stocks Name	|Div yield	|P/E	|Hist Price	|Purchase price	|TQty	|On3/12 |
+|LOC	|Sector	|Stocks Name	|Div yield	|P/E	|Hist Price	|P price	|TQty	|On3/12 |
 |---|---|---|---|---|---|---|---|---|
-|TDA	|BANK	|Bank of America	|2.5	|10.31	|30.63	|$25.44 	|52.0	| 4[48]|
-|RH	|PHARMA	|AbbVie Inc	|5.1	|17.36	|$88.18 	|$87.84 	|50	|4[46]|
-|TDA	|PHARMA	|Pfizer Inc	|4.2	|12.69	|34.72	|$34.26 	|46.0	|6[40]|
-|TDA	|MFG	|Caterpillar	|3.2	|11.87	|128.25	|$119.00 	|5.0|	16[-11]|
-|RH	|MFG	|Advanced Micro Devices	|0.0	|164	|$46.90 |$47.19 	|20	|4[20]|
-|TDA	|IT	|Cisco Systems	|3.5	|16.2	|42.16	|$38.96|40.0	|4[36]|
-|TDA	|IT	|Intel Corp	|2.3 |12.47	|59.65	|$54.84|36.0	|4[32]|
-|TDA	|IT	|Microsoft Corp	|1.2	|29.69	|170.17	|$156.86 	|4.0	|6[-2]|
-|RH	|CSTAPLES	|Vector Group	|13.8	|18.48	|$12.43|$11.49 	|80	|4[76]|
-|RH	|CSTAPLES	|British American Tobacco	|6.4	|13.19	|$42.53 	|$40.51 	|30	|4[26]|
-|RH	|CSTAPLES	|Colgate	|2.3|27.42|$72.92 |$22.57 |10	|4[6]|
-|TDA	|CSTAPLES	|Costco Wholesale	|0.8	|38.02	|305.69	|$303.69 	|6.0	|6[0]|
-|TDA	|CSTAPLES	|Kraft Heinz Co	|6.1	|16.86|25.64	|$25.67 |25.0	|4[21]|
-|TDA	|CDISCRET	|McDonald's Corp	|2.4	|25.18	|210.1	|$192.68 	|6.0	|6[0]|
-|RH	|CDISCRET	|Leggett & Platt	|4.0	|15.52	|$40.71 	|$37.26 |10	|4[6]|
-|TDA	|CDISCRET	|General Motors	|4.8	|6.89	|32	|$28.67 	|19.0	|4[15]|
-|TDA	|INDUSTRIALS|Waste Management	|1.8	|30.15	|120.93	|$114.00 	|5.0	|6[-1]|
-|TDA	|INDUSTRIALS|General Electric	|	0.4	|136.77	|10.95	|$9.20 	|58.0	|4[54]|
-|RH	|ENGG	|Emerson|3.0	|18.48	|$66.63 	|$62.08 	|9	|6[3]|
-|TDA	|OIL	|Occidental Petroleum	|9.6	|0	|34.22	|$26.67 	|18.0	|16[2]|
-|TDA	|ENERGY|Ecolab	|0.9	|37.32	|194.43	|$190.30 	|3.0	|6[3]|
-|RH	|ENERGY	|Canadian Natural Res|4.7	|9.53	|$26.87 	|$71.55 	|10	|4[6]|
-|RH	|UTILITIES|Fortis	|3.3|15.19	|$43.23 	|$43.41 	|10	|4[6]|
-|TDA	|COMM	|AT&T	|5.5	|20.15|37.1	|$36.28 	|28.0	|4[24]|
-|TDA	|LOGISTICS	|UPS	|4.2|18.75	|93.73	|$92.50 |6.0|4[2]	|
-|TDA	|TRANS	|Canadian National Rai|2.0	|19.95	|88.46	|$85.05 	|7.0	|4[3]|
-|RH	|REIT	|STORE Capital|4.1	|27.56	|$36.41 	|$31.83 	|48	|4[44]|
-|RH	|REIT	|Arlington Asset Inv|14.9	|19.43	|$6.28 	|$5.57 	|303	|104[199]|
+|TDA	|BANK	|Bank of America	|2.5	|10.31	|30.63	|$22.61 	|52.0	| 4[48]|
+|RH	|PHARMA	|AbbVie Inc	|5.1	|17.36	|$88.18 	|$82.11 	|50	|4[46]|
+|TDA	|PHARMA	|Pfizer Inc	|4.2	|12.69	|34.72	|$29.55 	|46.0	|6[40]|
+|TDA	|MFG	|Caterpillar	|3.2	|11.87	|128.25	|$97.98 	|5.0|	16[-11]|
+|RH	|MFG	|Advanced Micro Devices	|0.0	|164	|$46.90 |$43.21 	|20	|4[20]|
+|TDA	|IT	|Cisco Systems	|3.5	|16.2	|42.16	|$36.23|40.0	|4[36]|
+|TDA	|IT	|Intel Corp	|2.3 |12.47	|59.65	|$50.33|36.0	|4[32]|
+|TDA	|IT	|Microsoft Corp	|1.2	|29.69	|170.17	|$147.62 	|4.0	|6[-2]|
+|RH	|CSTAPLES	|Vector Group	|13.8	|18.48	|$12.43|$10.96 	|80	|4[76]|
+|RH	|CSTAPLES	|British American Tobacco	|6.4	|13.19	|$42.53 	|$37.04 	|30	|4[26]|
+|RH	|CSTAPLES	|Colgate	|2.3|27.42|$72.92 |$67.78 |10	|4[6]|
+|TDA	|CSTAPLES	|Costco Wholesale	|0.8	|38.02	|305.69	|$288.61 	|6.0	|6[0]|
+|TDA	|CSTAPLES	|Kraft Heinz Co	|6.1	|16.86|25.64	|$22.75 |25.0	|4[21]|
+|TDA	|CDISCRET	|McDonald's Corp	|2.4	|25.18	|210.1	|$179.92 	|6.0	|6[0]|
+|RH	|CDISCRET	|Leggett & Platt	|4.0	|15.52	|$40.71 	|$33.44 |10	|4[6]|
+|TDA	|CDISCRET	|General Motors	|4.8	|6.89	|32	|$25.05 	|19	|4[15]|
+|TDA	|INDUSTRIALS|Waste Management	|1.8	|30.15	|120.93	|$104.68 	|5	|6[-1]|
+|TDA	|INDUSTRIALS|General Electric	|	0.4	|136.77	|10.95	|$8.14 	|58	|4[54]|
+|RH	|ENGG	|Emerson|3.0	|18.48	|$66.63 	|$51.36 	|9	|6[3]|
+|TDA	|OIL	|Occidental Petroleum	|9.6	|0	|34.22	|$13.78 	|18	|16[2]|
+|TDA	|ENERGY|Ecolab	|0.9	|37.32	|194.43	|$175.81 	|3|6[3]|
+|RH	|ENERGY	|Canadian Natural Res|4.7	|9.53	|$26.87 	|$12.50	|10	|4[6]|
+|RH	|UTILITIES|Fortis	|3.3|15.19	|$43.23 	|$38.53 	|10	|4[6]|
+|TDA	|COMM	|AT&T	|5.5	|20.15|37.1	|$33.855 	|28|4[24]|
+|TDA	|LOGISTICS	|UPS	|4.2|18.75	|93.73	|$89.31 |6|4[2]	|
+|TDA	|TRANS	|Canadian National Rai|2.0	|19.95	|88.46	|$75.75	|7|4[3]|
+|RH	|REIT	|STORE Capital|4.1	|27.56	|$36.41 	|$28.60 |48	|4[44]|
+|RH	|REIT	|Arlington Asset Inv|14.9	|19.43	|$6.28 	|$3.34|303	|104[199]|
 
 
 |02-27-2020| $13,000.00 | $13,720.25 | (-5.03%)Prev Day |$13,194.27 | -$504.88 (-3.69%) Today|
