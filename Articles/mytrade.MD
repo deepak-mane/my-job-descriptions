@@ -5,30 +5,30 @@
 |---|---|---|---|---|---|---|---|---|
 |TDA	|BANK	|Bank of America	|2.5	|10.31	|30.63	|$25.44 	|52.0	| 4[48]|
 |RH	|PHARMA	|AbbVie Inc	|5.1	|17.36	|$88.18 	|$87.84 	|50	||
-|TDA	|PHARMA	|Pfizer Inc	|4.2	|12.69	|34.72	|$34.26 	|46.0	||
-|TDA	|MFG	|Caterpillar	|3.2	|11.87	|128.25	|$119.00 	|5.0|	|
+|TDA	|PHARMA	|Pfizer Inc	|4.2	|12.69	|34.72	|$34.26 	|46.0	|6[40]|
+|TDA	|MFG	|Caterpillar	|3.2	|11.87	|128.25	|$119.00 	|5.0|	16[-11]|
 |RH	|MFG	|Advanced Micro Devices	|0.0	|164	|$46.90 	|$47.19 	|20	||
-|TDA	|IT	|Cisco Systems	|3.5	|16.2	|42.16	|$38.96 	|40.0	||
-|TDA	|IT	|Intel Corp	|2.3 |12.47	|59.65	|$54.84 	|36.0	||
-|TDA	|IT	|Microsoft Corp	|1.2	|29.69	|170.17	|$156.86 	|4.0	||
+|TDA	|IT	|Cisco Systems	|3.5	|16.2	|42.16	|$38.96 	|40.0	|4[36]|
+|TDA	|IT	|Intel Corp	|2.3 |12.47	|59.65	|$54.84 	|36.0	|4[32]|
+|TDA	|IT	|Microsoft Corp	|1.2	|29.69	|170.17	|$156.86 	|4.0	|6[-2]|
 |RH	|CSTAPLES	|Vector Group	|13.8	|18.48	|$12.43 	|$11.49 	|80	||
 |RH	|CSTAPLES	|British American Tobacco	|6.4	|13.19	|$42.53 	|$40.51 	|30	||
 |RH	|CSTAPLES	|Colgate	|2.3	|27.42	|$72.92 	|$22.57 	|10	||
-|TDA	|CSTAPLES	|Costco Wholesale	|0.8	|38.02	|305.69	|$303.69 	|6.0	||
-|TDA	|CSTAPLES	|Kraft Heinz Co	|6.1	|16.86	|25.64	|$25.67 	|25.0	||
-|TDA	|CDISCRET	|McDonald's Corp	|2.4	|25.18	|210.1	|$192.68 	|6.0	||
+|TDA	|CSTAPLES	|Costco Wholesale	|0.8	|38.02	|305.69	|$303.69 	|6.0	|6[0]|
+|TDA	|CSTAPLES	|Kraft Heinz Co	|6.1	|16.86	|25.64	|$25.67 	|25.0	|4[21]|
+|TDA	|CDISCRET	|McDonald's Corp	|2.4	|25.18	|210.1	|$192.68 	|6.0	|6[0]|
 |RH	|CDISCRET	|Leggett & Platt	|4.0	|15.52	|$40.71 	|$37.26 |10	||
-|TDA	|CDISCRET	|General Motors	|4.8	|6.89	|32	|$28.67 	|19.0	||
-|TDA	|INDUSTRIALS	|Waste Management	|1.8	|30.15	|120.93	|$114.00 	|5.0	||
-|TDA	|INDUSTRIALS	|General Electric	|	0.4	|136.77	|10.95	|$9.20 	|58.0	||
+|TDA	|CDISCRET	|General Motors	|4.8	|6.89	|32	|$28.67 	|19.0	|4[15]|
+|TDA	|INDUSTRIALS	|Waste Management	|1.8	|30.15	|120.93	|$114.00 	|5.0	|6[-1]|
+|TDA	|INDUSTRIALS	|General Electric	|	0.4	|136.77	|10.95	|$9.20 	|58.0	|4[54]|
 |RH	|ENGG	|Emerson	|3.0	|18.48	|$66.63 	|$62.08 	|9	||
-|TDA	|OIL	|Occidental Petroleum	|9.6	|0	|34.22	|$26.67 	|18.0	||
-|TDA	|ENERGY	|Ecolab	|0.9	|37.32	|194.43	|$190.30 	|3.0	||
+|TDA	|OIL	|Occidental Petroleum	|9.6	|0	|34.22	|$26.67 	|18.0	|16[2]|
+|TDA	|ENERGY	|Ecolab	|0.9	|37.32	|194.43	|$190.30 	|3.0	|6[3]|
 |RH	|ENERGY	|Canadian Natural Res|4.7	|9.53	|$26.87 	|$71.55 	|10	||
 |RH	|UTILITIES	|Fortis	|3.3	|15.19	|$43.23 	|$43.41 	|10	||
-|TDA	|COMM	|AT&T	|5.5	|20.15	|37.1	|$36.28 	|28.0	||
-|TDA	|LOGISTICS	|UPS	|4.2	|18.75	|93.73	|$92.50 |6.0|	|
-|TDA	|TRANS	|Canadian National Rai|2.0	|19.95	|88.46	|$85.05 	|7.0	||
+|TDA	|COMM	|AT&T	|5.5	|20.15	|37.1	|$36.28 	|28.0	|4[24]|
+|TDA	|LOGISTICS	|UPS	|4.2	|18.75	|93.73	|$92.50 |6.0|4[2]	|
+|TDA	|TRANS	|Canadian National Rai|2.0	|19.95	|88.46	|$85.05 	|7.0	|4[3]|
 |RH	|REIT	|STORE Capital	|4.1	|27.56	|$36.41 	|$31.83 	|48	||
 |RH	|REIT	|Arlington Asset Inv	|14.9	|19.43	|$6.28 	|$5.57 	|303	||
 
