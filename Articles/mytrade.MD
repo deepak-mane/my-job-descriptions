@@ -1,9 +1,9 @@
 # My Investment Interests
 
 
-|LOC	|Sector	|Stocks Name	|Div yield	|P/E	|Hist Price	|Purchase price	|TargetQty	|On 3/12 |
+|LOC	|Sector	|Stocks Name	|Div yield	|P/E	|Hist Price	|Purchase price	|TQty	|On3/12 |
 |---|---|---|---|---|---|---|---|---|
-|TDA	|BANK	|Bank of America	|2.5	|10.31	|30.63	|$25.44 	|52.0	| |
+|TDA	|BANK	|Bank of America	|2.5	|10.31	|30.63	|$25.44 	|52.0	| 4[48]|
 |RH	|PHARMA	|AbbVie Inc	|5.1	|17.36	|$88.18 	|$87.84 	|50	||
 |TDA	|PHARMA	|Pfizer Inc	|4.2	|12.69	|34.72	|$34.26 	|46.0	||
 |TDA	|MFG	|Caterpillar	|3.2	|11.87	|128.25	|$119.00 	|5.0|	|
