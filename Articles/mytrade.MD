@@ -86,8 +86,16 @@
 |---|---|---|---|---|---|---|---|
 | Vangaurd Total Index Domestic | AbbVie |  2011 |ABBV | | | 4.95 | 17.71 | 
 
-## WeBull
-| Symbol  | Div amount|	Div yield|	Ex-div date|	P/E|
-|---|---|---|---|---|
-|DIS| | | 4.95 | 17.71 | 
+## WeBull 3/20
+| Symbol  | Contract|	B.Even |
+|---|---|---|
+|APPL|$200 | | 
+|AMD|$35 | | 
+|BAC|$19 | | 
+|DAL|$200 | | 
+|DIS|$200 | | 
+|GE|$200 | | 
+|APPL|$200 | | 
+|APPL|$200 | | 
+|APPL|$200 | | 
 
