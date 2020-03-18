@@ -94,5 +94,18 @@
     - Custom scheduling and multi-service coordination with Hashicorp's Nomad and Consul
     - Using Saltstack to configure complex infrastructures
     - Deep Linux/UNIX systems knowledge
-    
-    
+
+### Software Engineer, Compute Infrastructure
+- Software Engineer, Compute Infrastructure[Lyft,Palo Alto, CA]
+  + Responsibilities : In this role
+    - Design and implement reliable, scalable, and performant distributed systems that can process Petabytes of data daily
+    - Ensure operational excellence of cloud software systems by providing observability into system health and execution & by building tools and dashboards to monitor and improve efficiency
+    - Be a force multiplier by sharing compute infrastructure knowledge and advocating for best practices across the entire Autonomous organization
+    - Support the Autonomous organization in their cloud needs by providing an amazing developer experience while balancing organizational needs, timelines and costs
+  + Qualifications:   
+    - Strong knowledge of Software Engineering and Computer Science fundamentals with 3+ years of relevant professional experience.
+    - Experience with public cloud offerings (AWS is a must)
+    - Experience with containerization (e.g. Docker, Kubernetes), infrastructure as code (e.g. Terraform) and observability (e.g. Stackdriver, Wavefront) stacks
+    - Programming experience in one or more of Java, Python and C++
+    - Strong verbal and written communication skills
+    - Proven ability to uplift others and work effectively with a diverse group of talented engineers
