@@ -1,6 +1,7 @@
 # my-job-descriptions
 
 - [Sources - Gaurav Sen,Rachit Jain - competitive programming ](https://github.com/deepak-mane/my-job-descriptions/blob/master/QuickApply.md)
+- [Free Resources](https://click.mlflow.com/link/c/YT0xMzc5Mzk2NTY1MjgxNTQ0MTM3JmM9ZTRvMSZlPTE5MjgmYj0yODYxNDg3OTgmZD1jNGszcjVx.ot8SvMJTV9XgmAFj0p9OKN4RO_lDjHPBH3nRBhu4_Qo)
 
 ## My Inspirations
 - [Elon Musk : The Story Of How He Became A Multi-Millionaire Entrepreneur in his 20's](https://www.youtube.com/watch?v=kTh-28ubvCU)
