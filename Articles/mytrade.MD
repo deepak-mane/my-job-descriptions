@@ -1,5 +1,14 @@
-# My Investment Interests
+# My Investment Ideas
+- Airlines, Airline Mfg
+  + LUV SouthWest, DAL Delta Airlines, JetBlue, BA Boeing
+- Crusies
+  + CCL, RCL
+- Hotels,Resturants
+  
 
+
+
+# My Investment Interests
 
 |LOC	|Sector	|Stocks Name	|Div yield	|P/E	|Hist Price	|P price	|TQty	|On3/12 |
 |---|---|---|---|---|---|---|---|---|
