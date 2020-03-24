@@ -136,4 +136,4 @@
 |Illinois Tool|US:ITW	|Industrial Machinery	|18.50%	|2.30%|
 |Leggett & Platt |US:LEG	|Home Furnishings	|13.62%	|3.55%|
 |Target Corp.	|US:TGT	|Specialty Stores	|11.89%	|2.24%|
-|Aflac Inc.	|US:AFL	|Life/Health |Insurance	|11.86%|
+|Aflac Inc.	|US:AFL	|Life/Health Insurance	|11.86%|2.24%|
