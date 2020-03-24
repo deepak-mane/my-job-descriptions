@@ -132,7 +132,7 @@
 |Genuine Parts Co.	|US:GPC	|Wholesale Distributors	|16.51%	|3.27%|
 |V.F. Corp.	|US:VFC	|Apparel/Footwear	|16.17%	|2.32%|
 |AbbVie Inc.	|US:ABBV	|Pharmaceuticals	|15.91%	|5.04%|
-|Lincoln Electric Holdings Inc.	|US:LECO	|Industrial Machinery	|15.62%	|2.15%|
+|Lincoln Electric Hldg|US:LECO	|Industrial Machinery	|15.62%	|2.15%|
 |Johnson & Johnson	|US:JNJ	|Pharmaceuticals	|13.95%	|2.55%|
 |Leggett & Platt Inc.	|US:LEG	|Home Furnishings	|13.62%	|3.55%|
 |Target Corp.	|US:TGT	|Specialty Stores	|11.89%	|2.24%|
