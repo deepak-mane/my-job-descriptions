@@ -112,21 +112,21 @@
 # 25 Dividend Aristocrat stocks screened for ‘quality’
 |COMPANY	|TICKER	|INDUSTRY	|AVERAGE ROIC - FIVE YEARS	|DIVIDEND YIELD|
 |---|---|---|---|---|
-|Colgate-Palmolive Co.	|US:CL	|Household/Personal Care	|33.41%	|2.26%|
-|Clorox Co.	|US:CLX	|Household/Personal Care	|32.14%	|2.57%|
-|Automatic Data Processing Inc.	|US:ADP	|Data Processing Services	|28.67%	|2.02%|
+|Colgate-Palmolive Co.	|US:CL	|Household/Personal|33.41%	|2.26%|
+|Clorox Co.	|US:CLX	|Household/Personal|32.14%	|2.57%|
+|Automatic Data Prcs Inc.	|US:ADP	|Data Processing Services	|28.67%	|2.02%|
 |C.H. Robinson Worldwide Inc.	|US:CHRW	|Air Freight/Couriers	|27.17%	|2.82%|
 |T. Rowe Price Group	|US:TROW	|Investment Managers	|26.85%	|2.61%|
-|Kimberly-Clark Corp.	|US:KMB	|Household/Personal Care	|25.67%	|2.98%|
+|Kimberly-Clark Corp.	|US:KMB	|Household/Personal|25.67%	|2.98%|
 |Fastenal Co.	|US:FAST	|Wholesale Distributors	|25.44%	|2.61%|
 |3M Co.	|US:MMM	|Industrial Conglomerates	|22.08%	|3.70%|
 |Polaris Inc.	|US:PII|	Recreational Products	|19.82%	|2.64%|
-|International Business Machines Corp.	|US:IBM	|Information Technology Services	|19.49%	|4.29%|
+|IBM|US:IBM	|Information Technology Svc	|19.49%	|4.29%|
 |McDonald's Corp.	|US:MCD	|Restaurants	|18.76%	|2.31%|
 |Illinois Tool Works Inc.	|US:ITW	|Industrial Machinery	|18.50%	|2.30%|
 |General Dynamics Corp.|	US:GD	|Aerospace & Defense	|18.33%	|2.17%|
 |A. O. Smith Corp.	|US:AOS	|Building Products	|17.82%	|2.18%|
-|PepsiCo Inc.	|US:PEP	|Beverages: Non-Alcoholic	|16.95%	|2.62%|
+|PepsiCo Inc.	|US:PEP	|Beverages: Non-Alc|16.95%	|2.62%|
 |Eaton Vance Corp.	|US:EV	|Investment Managers	|16.92%	|2.98%|
 |Emerson Electric Co.|	US:EMR	|Electrical Products	|16.87%	|2.80%|
 |Genuine Parts Co.	|US:GPC	|Wholesale Distributors	|16.51%	|3.27%|
