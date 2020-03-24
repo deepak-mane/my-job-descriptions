@@ -114,11 +114,11 @@
 |---|---|---|---|---|
 |Colgate-Palmolive Co.	|US:CL	|Household/Personal|33.41%	|2.26%|
 |Clorox Co.	|US:CLX	|Household/Personal|32.14%	|2.57%|
-|Automatic Data Prcs Inc.	|US:ADP	|Data Processing Svc	|28.67%	|2.02%|
+|Automatic Data Prcs|US:ADP	|Data Processing Svc	|28.67%	|2.02%|
 |C.H. Robinson W|US:CHRW	|Air Freight/Couriers	|27.17%	|2.82%|
 |T. Rowe Price Group	|US:TROW	|Investment Managers	|26.85%	|2.61%|
 |Kimberly-Clark Corp.	|US:KMB	|Household/Personal|25.67%	|2.98%|
-|Fastenal Co.	|US:FAST	|Wholesale Distributors	|25.44%	|2.61%|
+|Fastenal Co.	|US:FAST	|Wholesale Dist|25.44%	|2.61%|
 |3M Co.	|US:MMM	|Industrial Cong|22.08%	|3.70%|
 |Polaris Inc.	|US:PII|	Recreational |19.82%	|2.64%|
 |IBM|US:IBM	|IT	|19.49%	|4.29%|
@@ -127,7 +127,7 @@
 |General Dynamics|	US:GD	|Aerospace & Def|18.33%	|2.17%|
 |A. O. Smith Corp.	|US:AOS	|Building Products	|17.82%	|2.18%|
 |PepsiCo Inc.	|US:PEP	|Beverages: Non-Alc|16.95%	|2.62%|
-|Eaton Vance Corp.	|US:EV	|Investment Managers	|16.92%	|2.98%|
+|Eaton Vance Corp.	|US:EV	|Investment Mgr|16.92%	|2.98%|
 |Emerson Electric Co.|	US:EMR	|Electrical Products	|16.87%	|2.80%|
 |Genuine Parts Co.	|US:GPC	|Wholesale Distributors	|16.51%	|3.27%|
 |V.F. Corp.	|US:VFC	|Apparel/Footwear	|16.17%	|2.32%|
