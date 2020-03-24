@@ -123,13 +123,13 @@
 |Polaris Inc.	|US:PII|	Recreational |19.82%	|2.64%|
 |IBM|US:IBM	|IT	|19.49%	|4.29%|
 |McDonald's Corp.	|US:MCD	|Restaurants	|18.76%	|2.31%|
-|Illinois Tool Works Inc.	|US:ITW	|Industrial Machinery	|18.50%	|2.30%|
+|Illinois Tool Works|US:ITW	|Industrial Machinery	|18.50%	|2.30%|
 |General Dynamics|	US:GD	|Aerospace & Def|18.33%	|2.17%|
 |A. O. Smith Corp.	|US:AOS	|Building Products	|17.82%	|2.18%|
 |PepsiCo Inc.	|US:PEP	|Beverages: Non-Alc|16.95%	|2.62%|
 |Eaton Vance Corp.	|US:EV	|Investment Mgr|16.92%	|2.98%|
 |Emerson Electric Co.|	US:EMR	|Electrical Products	|16.87%	|2.80%|
-|Genuine Parts Co.	|US:GPC	|Wholesale Distributors	|16.51%	|3.27%|
+|Genuine Parts Co.	|US:GPC	|Wholesale Dist|16.51%	|3.27%|
 |V.F. Corp.	|US:VFC	|Apparel/Footwear	|16.17%	|2.32%|
 |AbbVie Inc.	|US:ABBV	|Pharmaceuticals	|15.91%	|5.04%|
 |Lincoln Electric Hldg|US:LECO	|Industrial Machinery	|15.62%	|2.15%|
