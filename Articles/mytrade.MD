@@ -109,7 +109,7 @@
 |MSFT|$130 | $127.86 | $12K |$215 |
 |T|$30 |$29.4| $2.9K | $56|
 
-
+# 25 Dividend Aristocrat stocks screened for ‘quality’
 |COMPANY	|TICKER	|INDUSTRY	|AVERAGE ROIC - FIVE YEARS	|DIVIDEND YIELD|
 |---|---|---|---|---|
 |Colgate-Palmolive Co.	|US:CL	|Household/Personal Care	|33.41%	|2.26%|
