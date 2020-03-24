@@ -120,11 +120,11 @@
 |Kimberly-Clark Corp.	|US:KMB	|Household/Personal|25.67%	|2.98%|
 |Fastenal Co.	|US:FAST	|Wholesale Distributors	|25.44%	|2.61%|
 |3M Co.	|US:MMM	|Industrial Cong|22.08%	|3.70%|
-|Polaris Inc.	|US:PII|	Recreational Products	|19.82%	|2.64%|
+|Polaris Inc.	|US:PII|	Recreational |19.82%	|2.64%|
 |IBM|US:IBM	|IT	|19.49%	|4.29%|
 |McDonald's Corp.	|US:MCD	|Restaurants	|18.76%	|2.31%|
 |Illinois Tool Works Inc.	|US:ITW	|Industrial Machinery	|18.50%	|2.30%|
-|General Dynamics|	US:GD	|Aerospace & Defense	|18.33%	|2.17%|
+|General Dynamics|	US:GD	|Aerospace & Def|18.33%	|2.17%|
 |A. O. Smith Corp.	|US:AOS	|Building Products	|17.82%	|2.18%|
 |PepsiCo Inc.	|US:PEP	|Beverages: Non-Alc|16.95%	|2.62%|
 |Eaton Vance Corp.	|US:EV	|Investment Managers	|16.92%	|2.98%|
