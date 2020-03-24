@@ -108,3 +108,32 @@
 |JPM|$60 |$59.64 | $5.9K |$36 |
 |MSFT|$130 | $127.86 | $12K |$215 |
 |T|$30 |$29.4| $2.9K | $56|
+
+
+|COMPANY	|TICKER	|INDUSTRY	|AVERAGE ROIC - FIVE YEARS	|DIVIDEND YIELD|
+|---|---|---|---|---|
+|Colgate-Palmolive Co.	|US:CL	|Household/Personal Care	|33.41%	|2.26%|
+|Clorox Co.	|US:CLX	|Household/Personal Care	|32.14%	|2.57%|
+|Automatic Data Processing Inc.	|US:ADP	|Data Processing Services	|28.67%	|2.02%|
+|C.H. Robinson Worldwide Inc.	|US:CHRW	|Air Freight/Couriers	|27.17%	|2.82%|
+|T. Rowe Price Group	|US:TROW	|Investment Managers	|26.85%	|2.61%|
+|Kimberly-Clark Corp.	|US:KMB	|Household/Personal Care	|25.67%	|2.98%|
+|Fastenal Co.	|US:FAST	|Wholesale Distributors	|25.44%	|2.61%|
+|3M Co.	|US:MMM	|Industrial Conglomerates	|22.08%	|3.70%|
+|Polaris Inc.	|US:PII|	Recreational Products	|19.82%	|2.64%|
+|International Business Machines Corp.	|US:IBM	|Information Technology Services	|19.49%	|4.29%|
+|McDonald's Corp.	|US:MCD	|Restaurants	|18.76%	|2.31%|
+|Illinois Tool Works Inc.	|US:ITW	|Industrial Machinery	|18.50%	|2.30%|
+|General Dynamics Corp.|	US:GD	|Aerospace & Defense	|18.33%	|2.17%|
+|A. O. Smith Corp.	|US:AOS	|Building Products	|17.82%	|2.18%|
+|PepsiCo Inc.	|US:PEP	|Beverages: Non-Alcoholic	|16.95%	|2.62%|
+|Eaton Vance Corp.	|US:EV	|Investment Managers	|16.92%	|2.98%|
+|Emerson Electric Co.|	US:EMR	|Electrical Products	|16.87%	|2.80%|
+|Genuine Parts Co.	|US:GPC	|Wholesale Distributors	|16.51%	|3.27%|
+|V.F. Corp.	|US:VFC	|Apparel/Footwear	|16.17%	|2.32%|
+|AbbVie Inc.	|US:ABBV	|Pharmaceuticals	|15.91%	|5.04%|
+|Lincoln Electric Holdings Inc.	|US:LECO	|Industrial Machinery	|15.62%	|2.15%|
+|Johnson & Johnson	|US:JNJ	|Pharmaceuticals	|13.95%	|2.55%|
+|Leggett & Platt Inc.	|US:LEG	|Home Furnishings	|13.62%	|3.55%|
+|Target Corp.	|US:TGT	|Specialty Stores	|11.89%	|2.24%|
+|Aflac Inc.	|US:AFL	|Life/Health |Insurance	|11.86%|
