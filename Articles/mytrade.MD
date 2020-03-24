@@ -112,28 +112,28 @@
 # 25 Dividend Aristocrat stocks screened for ‘quality’
 |COMPANY	|TICKER	|INDUSTRY	|AVERAGE ROIC - FIVE YEARS	|DIVIDEND YIELD|
 |---|---|---|---|---|
+|T. Rowe Price|US:TROW	|Investment Mgr	|26.85%	|2.61%|
+|Eaton Vance Corp.	|US:EV	|Investment Mgr|16.92%	|2.98%|
+|AbbVie Inc.	|US:ABBV	|Pharmaceuticals	|15.91%	|5.04%|
+|Johnson & Johnson|US:JNJ	|Pharmaceuticals	|13.95%	|2.55%|
 |Colgate-Palmolive|US:CL	|Household/Personal|33.41%	|2.26%|
 |Clorox Co.	|US:CLX	|Household/Personal|32.14%	|2.57%|
+|Kimberly-Clark|US:KMB	|Household/Personal|25.67%	|2.98%|
 |Auto Data Prcs|US:ADP	|Data Processing|28.67%	|2.02%|
 |C.H. Robinson|US:CHRW	|Air Freight/Couriers	|27.17%	|2.82%|
-|T. Rowe Price|US:TROW	|Investment Mgr	|26.85%	|2.61%|
-|Kimberly-Clark|US:KMB	|Household/Personal|25.67%	|2.98%|
-|Fastenal Co.	|US:FAST	|Wholesale Dist|25.44%	|2.61%|
 |3M Co.	|US:MMM	|Industrial Cong|22.08%	|3.70%|
 |Polaris Inc.	|US:PII|	Recreational |19.82%	|2.64%|
 |IBM|US:IBM	|IT	|19.49%	|4.29%|
-|McDonald's Corp.	|US:MCD	|Restaurants	|18.76%	|2.31%|
-|Illinois Tool|US:ITW	|Industrial Machinery	|18.50%	|2.30%|
 |General Dynamics|	US:GD	|Aerospace & Def|18.33%	|2.17%|
 |A. O. Smith Corp.|US:AOS	|Building Products	|17.82%	|2.18%|
-|PepsiCo Inc.	|US:PEP	|Beverages: Non-Alc|16.95%	|2.62%|
-|Eaton Vance Corp.	|US:EV	|Investment Mgr|16.92%	|2.98%|
 |Emerson Electric|	US:EMR	|Electrical Products	|16.87%	|2.80%|
+|McDonald's Corp.	|US:MCD	|Restaurants	|18.76%	|2.31%|
+|PepsiCo Inc.	|US:PEP	|Beverages: Non-Alc|16.95%	|2.62%|
 |Genuine Parts Co.	|US:GPC	|Wholesale Dist|16.51%	|3.27%|
+|Fastenal Co.	|US:FAST	|Wholesale Dist|25.44%	|2.61%|
 |V.F. Corp.	|US:VFC	|Apparel/Footwear	|16.17%	|2.32%|
-|AbbVie Inc.	|US:ABBV	|Pharmaceuticals	|15.91%	|5.04%|
 |Lincoln Electric|US:LECO	|Industrial Machinery	|15.62%	|2.15%|
-|Johnson & Johnson|US:JNJ	|Pharmaceuticals	|13.95%	|2.55%|
+|Illinois Tool|US:ITW	|Industrial Machinery	|18.50%	|2.30%|
 |Leggett & Platt |US:LEG	|Home Furnishings	|13.62%	|3.55%|
 |Target Corp.	|US:TGT	|Specialty Stores	|11.89%	|2.24%|
 |Aflac Inc.	|US:AFL	|Life/Health |Insurance	|11.86%|
