@@ -112,11 +112,11 @@
 # 25 Dividend Aristocrat stocks screened for ‘quality’
 |COMPANY	|TICKER	|INDUSTRY	|AVERAGE ROIC - FIVE YEARS	|DIVIDEND YIELD|
 |---|---|---|---|---|
-|Colgate-Palmolive Co.	|US:CL	|Household/Personal|33.41%	|2.26%|
+|Colgate-Palmolive|US:CL	|Household/Personal|33.41%	|2.26%|
 |Clorox Co.	|US:CLX	|Household/Personal|32.14%	|2.57%|
 |Automatic Data Prcs|US:ADP	|Data Processing Svc	|28.67%	|2.02%|
 |C.H. Robinson W|US:CHRW	|Air Freight/Couriers	|27.17%	|2.82%|
-|T. Rowe Price Group	|US:TROW	|Investment Managers	|26.85%	|2.61%|
+|T. Rowe Price|US:TROW	|Investment Mgr	|26.85%	|2.61%|
 |Kimberly-Clark Corp.	|US:KMB	|Household/Personal|25.67%	|2.98%|
 |Fastenal Co.	|US:FAST	|Wholesale Dist|25.44%	|2.61%|
 |3M Co.	|US:MMM	|Industrial Cong|22.08%	|3.70%|
