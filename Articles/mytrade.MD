@@ -4,7 +4,9 @@
 - Crusies
   + CCL, RCL
 - Hotels,Resturants
-- [Trading Stock Options](http://damonverial.com/trading-stock-options-on-webull/)
+- [Trading Stock Options]()
+  + [Spread Strategies](http://damonverial.com/trading-stock-options-on-webull/)
+  + [11 easy Gap Trading Strategies](http://damonverial.com/11-easy-gap-trading-strategies/)
 
 
 
