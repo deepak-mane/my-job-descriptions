@@ -4,7 +4,7 @@
 - Crusies
   + CCL, RCL
 - Hotels,Resturants
-  
+- [Trading Stock Options](http://damonverial.com/trading-stock-options-on-webull/)
 
 
 
