@@ -20,7 +20,7 @@ Options trading can be successful in liquid underlyings, when volatility is prop
 
 |Sufficiently large margin account | Smaller margin account |
 |---|---|
-|with stocks with liquid options and high implied volatility rank, selling a straddle or strangle might be a viable strategy| selling an iron condor or iron butterfly (iron fly) might be more appropriate. When implied volatility is low, a calendar spread might be a better option.|
+|with stocks with liquid options and high implied volatility rank, selling a straddle or strangle might be a viable strategy| When implied volatility is High: Selling an iron condor or iron butterfly (iron fly) might be more appropriate. When implied volatility is low: acalendar spread might be a better option.|
 
 Sosnoff argues that, while 
 + liquidity, 
