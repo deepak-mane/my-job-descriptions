@@ -22,8 +22,23 @@ Options trading can be successful in liquid underlyings, when volatility is prop
 |---|---|
 |with stocks with liquid options and high implied volatility rank, selling a straddle or strangle might be a viable strategy| selling an iron condor or iron butterfly (iron fly) might be more appropriate. When implied volatility is low, a calendar spread might be a better option.|
 
-Sosnoff argues that, while liquidity, implied volatility, and implied volatility rank are crucial to successful options trading, there are other key elements. It is important to trade small, by which he means that individual investors should invest only a small percentage of their portfolio in any given stock, options, or futures position (e.g., selling only one or a few option contracts).[9] By investing in many small positions, losses can be minimized, as long as positions are uncorrelated. 
+Sosnoff argues that, while 
++ liquidity, 
++ implied volatility, and 
++ implied volatility rank 
 
-While liquidity, understanding volatility, trading small in uncorrelated positions, market awareness, and delta neutral portfolios are essential for successful trading, according to Sosnoff, trading mechanics are also essential. Trading mechanics are heuristics that an option trader learns when applying option strategies. For example, rules of thumb for when to roll call and put option contracts as a function of time to expiration and moneyness of a position are examples of trading mechanics (heuristics). 
+are crucial to successful options trading, there are other key elements. 
 
-In Sosnoff's view, the introduction of electronic trading platforms created new investment opportunities for individual investors, but the software tools required to take full advantage of online trading are lacking. He views the continued development of options trading software as critical for individual investor success. For individual investors to be successful, they need graphical user interfaces that instantly bring together relevant information so that investors can use the best strategies and mechanics for options trading. To this end, Sosnoff has devoted considerable effort to the development of software platforms for the individual options investor. 
+- It is important to trade small, by which he means that individual investors should invest only a small percentage of their portfolio in any given stock, options, or futures position (e.g., selling only one or a few option contracts). By investing in many small positions, losses can be minimized, as long as positions are uncorrelated. 
+- While liquidity, understanding volatility, trading small in uncorrelated positions, 
+  + market awareness, and 
+  + delta neutral portfolios are essential for successful trading, according to Sosnoff, trading mechanics are also essential. 
+- Trading mechanics are heuristics that an option trader learns when applying option strategies. For example, rules of thumb for when to roll call and put option contracts as a function of time to expiration and moneyness of a position are examples of trading mechanics (heuristics). 
+
+In Sosnoff's view, the introduction of electronic trading platforms created new investment opportunities for individual investors, but the software tools required to take full advantage of online trading are lacking. He views the continued development of options trading software as critical for individual investor success. 
+
+- For individual investors to be successful, they need 
+  + graphical user interfaces that instantly bring together relevant information so that 
+  + investors can use the best strategies and mechanics for options trading. 
+
+To this end, Sosnoff has devoted considerable effort to the development of software platforms for the individual options investor. 
