@@ -7,6 +7,7 @@
 - [Trading Stock Options]()
   + [Spread Strategies](http://damonverial.com/trading-stock-options-on-webull/)
   + [11 easy Gap Trading Strategies](http://damonverial.com/11-easy-gap-trading-strategies/)
+  + [Thinkorswim Vs Tastyworks](https://investormint.com/investing/thinkorswim-vs-tastyworks)
 
 
 
