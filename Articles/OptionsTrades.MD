@@ -18,7 +18,7 @@ According to Sosnoff, the two main keys to successful options trading are:
 
 Options trading can be successful in liquid underlyings, when volatility is properly assessed, and options strategies appropriate to an individual investor's risk and financial resources are used. For example, Investor with below different conditions:
 
-|Sufficiently large margin account | Smaller margin account | |
+|Sufficiently large margin account | Smaller margin account |
 |---|---|
 |with stocks with liquid options and high implied volatility rank, selling a straddle or strangle might be a viable strategy| selling an iron condor or iron butterfly (iron fly) might be more appropriate. When implied volatility is low, a calendar spread might be a better option.|
 
