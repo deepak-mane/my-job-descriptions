@@ -25,9 +25,7 @@ Options trading can be successful in liquid underlyings, when volatility is prop
 Sosnoff argues that, while 
 + liquidity, 
 + implied volatility, and 
-+ implied volatility rank 
-
-are crucial to successful options trading, there are other key elements. 
++ implied volatility rank are crucial to successful options trading, there are other key elements. 
   + It is important to trade small, by which he means that individual investors should invest only a small percentage of their portfolio in any given stock, options, or futures position (e.g., selling only one or a few option contracts). By investing in many small positions, losses can be minimized, as long as positions are uncorrelated. 
 - While liquidity, understanding volatility, trading small in uncorrelated positions, 
   + market awareness, and 
