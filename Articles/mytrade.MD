@@ -1,4 +1,5 @@
 # My Investment Ideas
+- Pharma, Cement, FMCG, Metal, Oil&Gas(Trading Co like HPCL,BPCL not Reliance,ONGC)
 - Airlines, Airline Mfg
   + LUV SouthWest, DAL Delta Airlines, JetBlue, BA Boeing
 - Crusies
