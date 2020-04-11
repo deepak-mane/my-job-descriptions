@@ -22,9 +22,8 @@
   1. ADVANCED Swing Trading Strategy -Forex Trading/Stock Trading
   1. Forex Best Currency Pairs Selection Strategy- Forex Trading
   1. Reversal Candlestick Trading Strategy - Forex/Stock Trading
-- [Jeff Bishop - Welcome to the Option Profit Accelerator!](https://www.weeklymoneymaker.com/ebook-profit-accelerator/?utm_source=infusionsoft&utm_medium=ar-email&utm_campaign=wmm-standard&utm_content=followup-email-1&inf_contact_key=e609cc62e85208e59e60d4e9794fbe879ee4b048ce23149d13a848abfdc3679b)
-  
-
+- [Jeff Bishop - Welcome to the Option Profit Accelerator!](https://www.weeklymoneymaker.com/ebook-profit-accelerator/?utm_source=infusionsoft&utm_medium=ar-email&utm_campaign=wmm-standard&utm_content=followup-email-1&inf_contact_key=e609cc62e85208e59e60d4e9794fbe879ee4b048ce23149d13a848abfdc3679b) , [YouTube Channel Jeff Bishop](https://www.youtube.com/channel/UCnHKVfMQkeXAL811svM_06Q)
+- [Learn-Plan-Profit By Ricky Guiterrez](https://learn-plan-profit.teachable.com/p/learn-plan-profit-lesson-ricky-gutierrez-daytrader-techbuds-stockmarket-tradestocks-stock-course-pro) , [YouTube Channel Ricky Guiterrez](https://www.youtube.com/channel/UCtlAFoYl2aWb6pMiHCctQHA)
 
 
 
