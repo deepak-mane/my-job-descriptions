@@ -9,6 +9,23 @@
   + [Spread Strategies](http://damonverial.com/trading-stock-options-on-webull/)
   + [11 easy Gap Trading Strategies](http://damonverial.com/11-easy-gap-trading-strategies/)
   + [Thinkorswim Vs Tastyworks](https://investormint.com/investing/thinkorswim-vs-tastyworks)
+- [Jyoti Bansal (NCFM,NISM Certified Technical Analyst & Investment Adviser ), "A Mission For Financial Confidence”]()
+  1. Technical Analysis MasterClass:Trading By Technical Analysis
+  1. Technical Analysis Stock Trading -Practice Assignment Course
+  1. Stock Trading Strategies : Technical Analysis MasterClass 2
+  1. Chart Pattern Technical Analysis For Forex & Stock Trading
+  1. Day Trading Pivot Point Technical Analysis for Stock Trading
+  1. Fibonacci Technical Analysis Skill for Forex & Stock Trading
+  1. Complete Day Trading : Stock Trading With Technical Analysis
+  1. Options Trading MasterClass: Options With Technical Analysis
+- [Syed Rahman, FOREX and Stock Trader. Public Speaker. Author. Trainer]()
+  1. ADVANCED Swing Trading Strategy -Forex Trading/Stock Trading
+  1. Forex Best Currency Pairs Selection Strategy- Forex Trading
+  1. Reversal Candlestick Trading Strategy - Forex/Stock Trading
+- [Jeff Bishop - Welcome to the Option Profit Accelerator!](https://www.weeklymoneymaker.com/ebook-profit-accelerator/?utm_source=infusionsoft&utm_medium=ar-email&utm_campaign=wmm-standard&utm_content=followup-email-1&inf_contact_key=e609cc62e85208e59e60d4e9794fbe879ee4b048ce23149d13a848abfdc3679b)
+  
+
+
 
 
 
