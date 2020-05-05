@@ -160,7 +160,7 @@
 
 
 
-## Find out how 24/5 trading works
+## Find out how 24/5 trading works [from Sunday 8 p.m. ET to Friday 8 p.m. ET.]
 - 24/5 trading is available on thinkorswim and our thinkorswim Mobile App.
 - The list of available securities now includes FXI, SPY, EEM, GLD, SLV, DIA, UNG, TLT, IWM, QQQ, USO, SH, RWM, PSQ, AGG, DOG, EWA, EFA, EWJ, IJH, VTI, XLF, XLE, and XLK.
 - These securities were selected to provide access to a wide range of sectors. We are continuing to add additional securities to the list over time to provide broad market opportunities for access to global markets.
