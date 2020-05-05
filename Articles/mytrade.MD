@@ -169,5 +169,26 @@
   + A trade placed at 9 p.m. ET Monday night would be active immediately and remain active until 8 p.m. ET Tuesday night.
 - Trading after normal market hours comes with unique and additional risks, such as lower liquidity and higher price volatility. Your order may only be partially executed, or not at all. Learn more.
 
- ||||||||
- |---|---|---|---|---|---|---|
+||||||||
+|---|---|---|---|---|---|---|
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
+                   
