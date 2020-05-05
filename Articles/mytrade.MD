@@ -157,3 +157,14 @@
 |Leggett & Platt |US:LEG	|Home Furnishings	|13.62%	|3.55%|
 |Target Corp.	|US:TGT	|Specialty Stores	|11.89%	|2.24%|
 |Aflac Inc.	|US:AFL	|Life/Health Insurance	|11.86%|2.24%|
+
+
+
+## Find out how 24/5 trading works
+- 24/5 trading is available on thinkorswim and our thinkorswim Mobile App.
+- The list of available securities now includes FXI, SPY, EEM, GLD, SLV, DIA, UNG, TLT, IWM, QQQ, USO, SH, RWM, PSQ, AGG, DOG, EWA, EFA, EWJ, IJH, VTI, XLF, XLE, and XLK.
+- These securities were selected to provide access to a wide range of sectors. We are continuing to add additional securities to the list over time to provide broad market opportunities for access to global markets.
+- Extended Hours Overnight (EXTO) orders are 24-hour continuous orders that expire at 8 p.m. ET every day. 
+  + For example, an EXTO order placed at 2 a.m. ET Monday morning would be active immediately and remain active from then until 8 p.m. ET Monday night. 
+  + A trade placed at 9 p.m. ET Monday night would be active immediately and remain active until 8 p.m. ET Tuesday night.
+- Trading after normal market hours comes with unique and additional risks, such as lower liquidity and higher price volatility. Your order may only be partially executed, or not at all. Learn more.
