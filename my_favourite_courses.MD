@@ -47,6 +47,19 @@ Gabriel Dragne, Associate Chartered Banker|Consultant|Financial Reporting
 2. ) Intro to Stock Markets and Index Funds - Beginner's Guide
 BrainyMoney and Son Han, CFA, CPA, Personal Finance Made Easy!
 
+
+- courses (8) From Jyoti Bansal (NCFM,NISM Certified Technical Analyst & Investment Adviser ), Jyoti Bansal Analysis
+  1. ) Technical Analysis MasterClass:Trading By Technical Analysis
+  2. ) Technical Analysis Stock Trading -Practice Assignment Course
+  3. ) Stock Trading Strategies : Technical Analysis MasterClass 2
+  4. ) Chart Pattern Technical Analysis For Forex & Stock Trading
+  5. ) Fibonacci Technical Analysis Skill for Forex & Stock Trading
+  6. ) Day Trading Pivot Point Technical Analysis for Stock Trading
+  7. ) Complete Day Trading : Stock Trading With Technical Analysis
+  8. ) Options Trading MasterClass: Options With Technical Analysis
+
+
+
 ### RealEstateInvestments
 1. ) Fundamentals of Analyzing Real Estate Investments [146 lectures 18:19:06]
 2. ) How to Analyze Multifamily Investment Opportunities [83 lectures 09:53:36]
