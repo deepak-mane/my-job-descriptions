@@ -49,16 +49,18 @@ BrainyMoney and Son Han, CFA, CPA, Personal Finance Made Easy!
 
 
 - courses (8) From Jyoti Bansal (NCFM,NISM Certified Technical Analyst & Investment Adviser ), Jyoti Bansal Analysis
-  1. ) Technical Analysis MasterClass:Trading By Technical Analysis
-  2. ) Technical Analysis Stock Trading -Practice Assignment Course
-  3. ) Stock Trading Strategies : Technical Analysis MasterClass 2
-  4. ) Chart Pattern Technical Analysis For Forex & Stock Trading
-  5. ) Fibonacci Technical Analysis Skill for Forex & Stock Trading
-  6. ) Day Trading Pivot Point Technical Analysis for Stock Trading
-  7. ) Complete Day Trading : Stock Trading With Technical Analysis
-  8. ) Options Trading MasterClass: Options With Technical Analysis
+  1. ) [Technical Analysis MasterClass:Trading By Technical Analysis](https://www.udemy.com/course/technical_analysis/)
+  2. ) [Technical Analysis Stock Trading -Practice Assignment Course](https://www.udemy.com/course/technical-analysis-masterclass-practice-assignments-course/)
+  3. ) [Stock Trading Strategies : Technical Analysis MasterClass 2](https://www.udemy.com/course/advance-trading-strategies/)
+  4. ) [Chart Pattern Technical Analysis For Forex & Stock Trading](https://www.udemy.com/course/technical-analysis-traditional-harmonic-chart-patterns/)
+  5. ) [Fibonacci Technical Analysis Skill for Forex & Stock Trading](https://www.udemy.com/course/stock-forex-trading-with-fibonacci-and-technical-analysis/)
+  6. ) [Day Trading Pivot Point Technical Analysis for Stock Trading](https://www.udemy.com/course/stock-trading-by-pivot-points-a-day-traders-secret-weapon/)
+  7. ) [Complete Day Trading : Stock Trading With Technical Analysis](https://www.udemy.com/course/day-trading-strategies-day-trading-with-technical-analysis/)
+  8. ) [Options Trading MasterClass: Options With Technical Analysis](https://www.udemy.com/course/option-trading-option-strategies-with-technical-analysis/)
 
 
+  
+  
 
 ### RealEstateInvestments
 1. ) Fundamentals of Analyzing Real Estate Investments [146 lectures 18:19:06]
